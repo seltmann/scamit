@@ -48,9 +48,10 @@ ul, ol {
 }
 
 blockquote {
-	padding-left: 3em;
-	background: url(new_images/img08.gif) no-repeat;
-	font-style: italic;
+	padding: 3em, 3em, 3em, 3em;
+	margin-bottom: 20px;
+/*	background: url(new_images/img08.gif) no-repeat; */
+	font-style: normal;
 }
 
 a:link {
