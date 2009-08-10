@@ -40,7 +40,7 @@ h3 {
 
 p, ul, ol {
 	margin-bottom: 20px;
-	line-height: 1.8em;
+	line-height: 1.6em;
 }
 
 ul, ol {
@@ -195,7 +195,7 @@ img.left {
 
 #sidebar h2 {
 	margin: 0;
-	padding: 5px 15px;
+	padding: 5px 10px;
 	color: #FFFFFF;
 	text-align: left;
 }
@@ -207,8 +207,16 @@ img.left {
 
 #sidebar ul {
 	margin: 0;
-	padding: 15px;
+	padding: 10px;
 	list-style: none;
+        font-size: 10px;
+        line-height: 12px;
+}
+#sidebar p {
+        margin: 0;
+        padding: 10px;
+        font-size: 10px;
+        line-height: 12px;
 }
 
 #sidebar li {
@@ -216,6 +224,10 @@ img.left {
 
 #sidebar a {
 	color: #FFFFFF;
+        text-decoration: none;
+}
+#sidebar a:hover {
+        color: #ffcccc;
 }
 
 .orangebox {
