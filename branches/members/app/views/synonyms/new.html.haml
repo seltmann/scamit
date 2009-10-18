@@ -1,0 +1,10 @@
+%h1.heading
+  = 'New Synonym'
+  
+- semantic_form_for(@synonym) do |form|
+  = render 'form', :form => form
+  - form.buttons do
+    = form.commit_button 'Create'
+    
+%p.actions
+  = link_to 'Cancel', synonyms_path

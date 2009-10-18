@@ -1,0 +1,62 @@
+Comparing entries.  Differences
+%span{:class => 'modified'} are highlighted.
+#original
+  %h2 Master entry
+  %dl
+    %dt.label= 'Old'
+    %dd.old_id= h @parent.try(:old_id)
+    %dt.label= 'Species'
+    %dd.species= h @parent.try(:species)
+    %dt.label= 'Scamit'
+    %dd.scamit_id= h @parent.try(:scamit_id)
+    %dt.label= 'Genus'
+    %dd.genus= h @parent.try(:genus)
+    %dt.label= 'Species'
+    %dd.species= h @parent.try(:species)
+    %dt.label= 'Describer'
+    %dd.describer= h @parent.try(:describer)
+    %dt.label= 'Dateadded'
+    %dd.dateadded= h @parent.try(:dateadded)
+    %dt.label= 'Comments'
+    %dd.comments= h @parent.try(:comments)
+    %dt.label= 'Specieslistsort'
+    %dd.specieslistsort_id= h @parent.try(:specieslistsort_id)
+    %dt.label= 'Chkgenred'
+    %dd.chkgenred= h @parent.try(:chkgenred)
+    %dt.label= 'Chkspred'
+    %dd.chkspred= h @parent.try(:chkspred)
+    %dt.label= 'Chkauth'
+    %dd.chkauth= h @parent.try(:chkauth)
+    
+#revision
+  %h2 Edited entry
+  %dl
+    %dt.label= 'Old'
+    %dd.old_id= compare_values(@parent.try(:old_id), @synonym.try(:old_id))
+    %dt.label= 'Species'
+    %dd.species= compare_values(@parent.try(:species), @synonym.try(:species))
+    %dt.label= 'Scamit'
+    %dd.scamit_id= compare_values(@parent.try(:scamit_id), @synonym.try(:scamit_id))
+    %dt.label= 'Genus'
+    %dd.genus= compare_values(@parent.try(:genus), @synonym.try(:genus))
+    %dt.label= 'Species'
+    %dd.species= compare_values(@parent.try(:species), @synonym.try(:species))
+    %dt.label= 'Describer'
+    %dd.describer= compare_values(@parent.try(:describer), @synonym.try(:describer))
+    %dt.label= 'Date added'
+    %dd.dateadded= compare_values(@parent.try(:dateadded), @synonym.try(:dateadded))
+    %dt.label= 'Comments'
+    %dd.comments= compare_values(@parent.try(:comments), @synonym.try(:comments))
+    %dt.label= 'Specieslistsort'
+    %dd.specieslistsort_id= compare_values(@parent.try(:specieslistsort_id), @synonym.try(:specieslistsort_id))
+    %dt.label= 'Chkgenred'
+    %dd.chkgenred= compare_values(@parent.try(:chkgenred), @synonym.try(:chkgenred))
+    %dt.label= 'Chkspred'
+    %dd.chkspred= compare_values(@parent.try(:chkspred), @synonym.try(:chkspred))
+    %dt.label= 'Chkauth'
+    %dd.chkauth= compare_values(@parent.try(:chkauth), @synonym.try(:chkauth))
+%br{:clear => :all}
+
+= link_to('Back to all versions', synonym_versions_path(@parent))
+%br
+= link_to('Back to all synonyms', synonyms_path)

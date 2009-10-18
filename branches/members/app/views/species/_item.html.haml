@@ -1,0 +1,37 @@
+- content_tag_for(:tr, species, :class => cycle(:odd, :even) + (@parent == species ? ' master' : ''  )) do
+  %td.sort_id= h species.try(:sort_id)
+  %td.scamit_id= h species.try(:scamit_id)
+  %td.phylum= h species.try(:phylum)
+  %td.theclass= h species.try(:theclass)
+  %td.subclass= h species.try(:subclass)
+  %td.order= h species.try(:order)
+  %td.family= h species.try(:family)
+  %td.genus= h species.try(:genus)
+  %td.species= h species.try(:species)
+  %td.describer= h species.try(:describer)
+  - if species.class == Species
+    %td.actions
+      = link_to 'Show', species_path(species)
+      %br
+      - if can_edit?
+        = link_to 'Edit', edit_species_path(species)
+    - if @parent == species
+      %td= "Approved on #{species.approveddate}"
+    - else
+      %td
+        - if species.respond_to?('approved')
+          - if species.approved
+            = "Approved to master table"
+        =  revision_status(species)
+  - else
+    %td.actions
+      Edited by
+      = species.return_user
+      = link_to('Compare', species)
+      - if can_edit?
+        = link_to 'Edit', edit_speciesversion_path(species)
+      - if can_approve?
+        = link_to 'Approve', approve_speciesversion_path(species)
+      - if species.respond_to?('approved')
+        - if species.approved
+          %td= "Approved to master table on #{species.approveddate}"

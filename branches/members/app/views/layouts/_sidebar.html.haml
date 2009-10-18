@@ -1,0 +1,18 @@
+#sidebarlogo
+  %h1 scamit
+
+%ul
+  %li= user_or_login
+  %li= link_to('species', species_index_path)
+  %li= link_to('synonyms', synonyms_path)
+  %br
+  - if can_everything?
+    %li= link_to('edit user information', users_path)
+  
+  %li= login_or_logout
+  
+quick find:
+- form_for :search, :url => search_species_path do |f|
+  %p
+    = f.label :searchterm
+    = f.text_field :searchterm

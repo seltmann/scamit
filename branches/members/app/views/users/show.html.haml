@@ -1,0 +1,27 @@
+%h1.heading
+  = "User %s" % @user.id
+  
+- content_tag_for(:dl, @user) do
+  %dt.label= 'Login'
+  %dd.login= h @user.try(:login)
+  %dt.label= 'Name'
+  %dd.name= h @user.try(:name)
+  %dt.label= 'Email'
+  %dd.email= h @user.try(:email)
+  %dt.label= 'Address'
+  %dd.address= h @user.try(:address)
+  %dt.label= 'Phone'
+  %dd.phone= h @user.try(:phone)
+  %dt.label= 'Affiliation'
+  %dd.affiliation= h @user.try(:affiliation)
+  %dt.label= 'Role'
+  %dd.role= h @user.try(:role)
+  %dt.label= 'Title'
+  %dd.title= h @user.try(:title)
+  %dt.label= 'Activation code'
+  %dd.activation_code= h @user.try(:activation_code)
+  
+%p.actions
+  = link_to 'Edit', edit_user_path(@user)
+  |
+  = link_to 'Index', users_path

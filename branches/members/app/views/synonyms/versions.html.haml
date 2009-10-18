@@ -1,0 +1,29 @@
+%h1.heading
+  = "Revisions to Synonym" 
+  
+  
+%table
+  %thead.header
+    %tr
+      %th.old_id= 'Old'
+      %th.species= 'Species'
+      %th.scamit_id= 'Scamit'
+      %th.genus= 'Genus'
+      %th.species= 'Species'
+      %th.describer= 'Describer'
+      %th.dateadded= 'Dateadded'
+      %th.comments= 'Comments'
+      %th.specieslistsort_id= 'Specieslistsort'
+      %th.chkgenred= 'Chkgenred'
+      %th.chkspred= 'Chkspred'
+      %th.chkauth= 'Chkauth'
+      %th.actions= 'Actions'
+  %tbody.items.synonyms
+    - unless @parent.blank?
+      = render 'synonyms/item', :synonym => @parent
+    - @versions.each do |synonym|
+      = render 'synonyms/item', :synonym => synonym
+      
+= will_paginate(@versions)
+
+= link_to('All synonyms', synonyms_path)

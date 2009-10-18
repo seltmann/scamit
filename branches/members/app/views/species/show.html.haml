@@ -1,0 +1,56 @@
+%h1.heading
+  = "Species: %s" % @species.species
+  
+- content_tag_for(:dl, @species) do
+  %dt.label= 'Sort'
+  %dd.sort_id= h @species.try(:sort_id)
+  %dt.label= 'Scamit'
+  %dd.scamit_id= h @species.try(:scamit_id)
+  %dt.label= 'Phylum'
+  %dd.phylum= h @species.try(:phylum)
+  %dt.label= 'Subphylum'
+  %dd.subphylum= h @species.try(:subphylum)
+  %dt.label= 'Class'
+  %dd.theclass= h @species.try(:theclass)
+  %dt.label= 'Subclass'
+  %dd.subclass= h @species.try(:subclass)
+  %dt.label= 'Infraclass'
+  %dd.infraclass= h @species.try(:infraclass)
+  %dt.label= 'Superorder'
+  %dd.superorder= h @species.try(:superorder)
+  %dt.label= 'Order'
+  %dd.order= h @species.try(:order)
+  %dt.label= 'Suborder'
+  %dd.suborder= h @species.try(:suborder)
+  %dt.label= 'Infraorder'
+  %dd.infraorder= h @species.try(:infraorder)
+  %dt.label= 'Superfamily'
+  %dd.superfamily= h @species.try(:superfamily)
+  %dt.label= 'Family'
+  %dd.family= h @species.try(:family)
+  %dt.label= 'Subfamily'
+  %dd.subfamily= h @species.try(:subfamily)
+  %dt.label= 'Genus'
+  %dd.genus= h @species.try(:genus)
+  %dt.label= 'Subgenus'
+  %dd.subgenus= h @species.try(:subgenus)
+  %dt.label= 'Species'
+  %dd.species= h @species.try(:species)
+  %dt.label= 'Describer'
+  %dd.describer= h @species.try(:describer)
+  %dt.label= 'Red'
+  %dd.red= h @species.try(:red)
+  %dt.label= 'Bold'
+  %dd.bold= h @species.try(:bold)
+  %dt.label= 'Nonstandarditalic'
+  %dd.nonstandarditalic= h @species.try(:nonstandarditalic)
+  %dt.label= 'Authorred'
+  %dd.authorred= h @species.try(:authorred)
+  %dt.label= 'Subgenusred'
+  %dd.subgenusred= h @species.try(:subgenusred)
+  
+%p.actions
+  - if can_edit?
+    = link_to 'Edit', edit_species_path(@species)
+    |
+  = link_to 'Index', species_index_path

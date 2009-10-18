@@ -1,0 +1,25 @@
+%h1.heading
+  = "Species"
+  
+%p.actions
+  = link_to 'New Species', new_species_path
+  
+%table
+  %thead.header
+    %tr
+      %th.sort_id= 'Sort'
+      %th.scamit_id= 'Scamit'
+      %th.phylum= 'Phylum'
+      %th.theclass= 'Class'
+      %th.subclass= 'Subclass'
+      %th.order= 'Order'
+      %th.family= 'Family'
+      %th.genus= 'Genus'
+      %th.species= 'Species'
+      %th.describer= 'Describer'
+      %th.actions= 'Actions'
+  %tbody.items.species
+    - @species.each do |species|
+      = render 'item', :species => species
+      
+= will_paginate(@species)
