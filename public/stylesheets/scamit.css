@@ -1,0 +1,76 @@
+body {
+  color:#666666;
+  font-family:Georgia,"Times New Roman",Times,serif;
+  font-size:12px;
+}
+
+#revision {
+  float: left;
+  margin: 5px 5px 5px 20px;
+}
+
+#original {
+  float: left;
+}
+.modified {
+  background-color: #efabab;
+}
+tr.odd {
+  background-color: #E4AA78;
+}
+
+tr.master {
+  background-color: red;
+}
+
+th {
+  font-size: 10px;
+}
+.items {
+  font-size: 9px;
+}
+
+#wrapper {
+  clear: none;
+}
+#sidebar {
+  float: left;
+  width: 160px;
+  height: 100%;
+  border-right: 3px solid #EE921A;
+   border-bottom: 2px solid #EE921A;
+}
+
+#sidebarlogo {
+  padding: 10px 0px 45px 20px;
+  background: transparent url('http://scamit.org/new_images/img02.jpg') no-repeat scroll 0 0;
+}
+
+#sidebarlogo h1 {
+ color: white;
+  font-size:36px;
+  float: left;
+  margin:0;
+  text-align:center;
+
+}
+
+#main {
+  float: left;
+  margin-left: 15px;
+}
+
+a {
+  color: #1953A7;
+  text-decoration: none;
+}
+
+a:visited {
+  color:#666666;
+}
+
+table {
+  color: black;
+}
+
+

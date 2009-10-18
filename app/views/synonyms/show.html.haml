@@ -1,0 +1,34 @@
+%h1.heading
+  = "Synonym %s" % @synonym.id
+  
+- content_tag_for(:dl, @synonym) do
+  %dt.label= 'Old'
+  %dd.old_id= h @synonym.try(:old_id)
+  %dt.label= 'Species'
+  %dd.species= h @synonym.try(:species)
+  %dt.label= 'Scamit'
+  %dd.scamit_id= h @synonym.try(:scamit_id)
+  %dt.label= 'Genus'
+  %dd.genus= h @synonym.try(:genus)
+  %dt.label= 'Species'
+  %dd.species= h @synonym.try(:species)
+  %dt.label= 'Describer'
+  %dd.describer= h @synonym.try(:describer)
+  %dt.label= 'Dateadded'
+  %dd.dateadded= h @synonym.try(:dateadded)
+  %dt.label= 'Comments'
+  %dd.comments= h @synonym.try(:comments)
+  %dt.label= 'Specieslistsort'
+  %dd.specieslistsort_id= h @synonym.try(:specieslistsort_id)
+  %dt.label= 'Chkgenred'
+  %dd.chkgenred= h @synonym.try(:chkgenred)
+  %dt.label= 'Chkspred'
+  %dd.chkspred= h @synonym.try(:chkspred)
+  %dt.label= 'Chkauth'
+  %dd.chkauth= h @synonym.try(:chkauth)
+  
+%p.actions
+  - if can_edit?
+    = link_to 'Edit', edit_synonym_path(@synonym)
+    |
+  = link_to 'Index', synonyms_path

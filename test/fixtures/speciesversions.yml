@@ -1,0 +1,57 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  sort_id: 1
+  scamit_id: 1
+  phylum: MyString
+  subphylum: MyString
+  theclass: MyString
+  subclass: MyString
+  infraclass: MyString
+  superorder: MyString
+  order: MyString
+  suborder: MyString
+  infraoder: MyString
+  superfamily: MyString
+  family: MyString
+  subfamily: MyString
+  genus: MyString
+  subgenus: MyString
+  species: MyString
+  describer: MyString
+  red: false
+  bold: false
+  nonstandarditalic: false
+  authorred: false
+  subgenusred: false
+  parent_id: 1
+  user: 
+  approved: false
+
+two:
+  sort_id: 1
+  scamit_id: 1
+  phylum: MyString
+  subphylum: MyString
+  theclass: MyString
+  subclass: MyString
+  infraclass: MyString
+  superorder: MyString
+  order: MyString
+  suborder: MyString
+  infraoder: MyString
+  superfamily: MyString
+  family: MyString
+  subfamily: MyString
+  genus: MyString
+  subgenus: MyString
+  species: MyString
+  describer: MyString
+  red: false
+  bold: false
+  nonstandarditalic: false
+  authorred: false
+  subgenusred: false
+  parent_id: 1
+  user: 
+  approved: false

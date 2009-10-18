@@ -1,0 +1,106 @@
+Comparing entries.  Differences
+%span{:class => 'modified'} are highlighted.
+#original
+  %h2 Master entry
+  %dl
+    %dt.label= 'Sort'
+    %dd.sort_id= h @parent.try(:sort_id)
+    %dt.label= 'Scamit'
+    %dd.scamit_id= h @parent.try(:scamit_id)
+    %dt.label= 'Phylum'
+    %dd.phylum= h @parent.try(:phylum)
+    %dt.label= 'Subphylum'
+    %dd.subphylum= h @parent.try(:subphylum)
+    %dt.label= 'Class'
+    %dd.theclass= h @parent.try(:theclass)
+    %dt.label= 'Subclass'
+    %dd.subclass= h @parent.try(:subclass)
+    %dt.label= 'Infraclass'
+    %dd.infraclass= h @parent.try(:infraclass)
+    %dt.label= 'Superorder'
+    %dd.superorder= h @parent.try(:superorder)
+    %dt.label= 'Order'
+    %dd.order= h @parent.try(:order)
+    %dt.label= 'Suborder'
+    %dd.suborder= h @parent.try(:suborder)
+    %dt.label= 'Infraorder'
+    %dd.infraorder= h @parent.try(:infraorder)
+    %dt.label= 'Superfamily'
+    %dd.superfamily= h @parent.try(:superfamily)
+    %dt.label= 'Family'
+    %dd.family= h @parent.try(:family)
+    %dt.label= 'Subfamily'
+    %dd.subfamily= h @parent.try(:subfamily)
+    %dt.label= 'Genus'
+    %dd.genus= h @parent.try(:genus)
+    %dt.label= 'Subgenus'
+    %dd.subgenus= h @parent.try(:subgenus)
+    %dt.label= 'Species'
+    %dd.species= h @parent.try(:species)
+    %dt.label= 'Describer'
+    %dd.describer= h @parent.try(:describer)
+    %dt.label= 'Red'
+    %dd.red= h @parent.try(:red)
+    %dt.label= 'Bold'
+    %dd.bold= h @parent.try(:bold)
+    %dt.label= 'Nonstandarditalic'
+    %dd.nonstandarditalic= h @parent.try(:nonstandarditalic)
+    %dt.label= 'Authorred'
+    %dd.authorred= h @parent.try(:authorred)
+    %dt.label= 'Subgenusred'
+    %dd.subgenusred= h @parent.try(:subgenusred)
+    
+#revision
+  %h2 Edited entry
+  %dl
+    %dt.label= 'Sort'
+    %dd.sort_id= compare_values(@parent.try(:sort_id), @species.try(:sort_id))
+    %dt.label= 'Scamit'
+    %dd.scamit_id= compare_values(@parent.try(:scamit_id), @species.try(:scamit_id))
+    %dt.label= 'Phylum'
+    %dd.phylum= compare_values(@parent.try(:phylum), @species.try(:phylum))
+    %dt.label= 'Subphylum'
+    %dd.subphylum= compare_values(@parent.try(:subphylum), @species.try(:subphylum))
+    %dt.label= 'Class'
+    %dd.theclass= compare_values(@parent.try(:theclass), @species.try(:theclass))
+    %dt.label= 'Subclass'
+    %dd.subclass= compare_values(@parent.try(:subclass), @species.try(:subclass))
+    %dt.label= 'Infraclass'
+    %dd.infraclass= compare_values(@parent.try(:infraclass), @species.try(:infraclass))
+    %dt.label= 'Superorder'
+    %dd.superorder= compare_values(@parent.try(:superorder), @species.try(:superorder))
+    %dt.label= 'Order'
+    %dd.order= compare_values(@parent.try(:order), @species.try(:order))
+    %dt.label= 'Suborder'
+    %dd.suborder= compare_values(@parent.try(:suborder), @species.try(:suborder))
+    %dt.label= 'Infraorder'
+    %dd.infraorder= compare_values(@parent.try(:infraorder), @species.try(:infraorder))
+    %dt.label= 'Superfamily'
+    %dd.superfamily= compare_values(@parent.try(:superfamily), @species.try(:superfamily))
+    %dt.label= 'Family'
+    %dd.family= compare_values(@parent.try(:family), @species.try(:family))
+    %dt.label= 'Subfamily'
+    %dd.subfamily= compare_values(@parent.try(:subfamily), @species.try(:subfamily))
+    %dt.label= 'Genus'
+    %dd.genus= compare_values(@parent.try(:genus), @species.try(:genus))
+    %dt.label= 'Subgenus'
+    %dd.subgenus= compare_values(@parent.try(:subgenus), @species.try(:subgenus))
+    %dt.label= 'Species'
+    %dd.species= compare_values(@parent.try(:species), @species.try(:species))
+    %dt.label= 'Describer'
+    %dd.describer= compare_values(@parent.try(:describer), @species.try(:describer))
+    %dt.label= 'Red'
+    %dd.red= compare_values(@parent.try(:red), @species.try(:red))
+    %dt.label= 'Bold'
+    %dd.bold= compare_values(@parent.try(:bold), @species.try(:bold))
+    %dt.label= 'Nonstandarditalic'
+    %dd.nonstandarditalic= compare_values(@parent.try(:nonstandarditalic), @species.try(:nonstandarditalic))
+    %dt.label= 'Authorred'
+    %dd.authorred= compare_values(@parent.try(:authorred), @species.try(:authorred))
+    %dt.label= 'Subgenusred'
+    %dd.subgenusred= compare_values(@parent.try(:subgenusred), @species.try(:subgenusred))
+%br{:clear => :all}
+
+= link_to('Back to all versions', synonym_versions_path(@parent))
+%br
+= link_to('Back to all synonyms', synonyms_path)
