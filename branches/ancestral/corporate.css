@@ -1,0 +1,52 @@
+
+body {
+	 background="images/tausta.gif";
+	 margin: 0px, 0px, 0px, 0px;
+	}
+
+	
+	/*top menu  Homepage  > SCAMIT in Brief  > History not sure why the strange names but this is basically teh menu*/
+	/*#morenews {  color: #999999; text-decoration: underline}
+	 select { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; background-color: #e5e5e5} */
+	.leivanmurut {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+	.leivanmurut a {font: 10px verdana ; color: #990000}
+	.leivanmurut a:hover {text-decoration: none; color: #FF0000}
+
+	/*.ingressi {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px}
+	.ingressi b {  font-weight: bold; color: #990000}
+	.subhead {  font-size: 16px} */	
+	
+
+.navi{
+	 font: 10px verdana ; color: #990000
+	}
+	
+.navi a {font: 10px verdana ; color: #990000 }
+.navi a:hover {  text-decoration: none; color: #FF0000 }
+
+
+.news {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #FFFFFF}
+
+
+.form {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; color: #000000 ; background-color: #e5e5e5}
+
+/* main body divs*/
+.leipis {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 9px; margin-left: 70px; margin-right: 100px; line-height: normal}
+.leipis a { font: 10px verdana ; color: #990000 }
+.leipis a:hover { text-decoration: none; color: #FF0000 }
+.leipis ul { style: square ; text-decoration: none; text-align:justify }
+
+.pleipis { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px }
+
+
+/*footer div*/
+.footer { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px }
+.footer a {font: 10px verdana ; color: #990000}
+.footer a:hover {text-decoration: none; color: #FF0000}
+
+
+
+
+
+
+
