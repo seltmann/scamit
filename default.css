@@ -2,257 +2,401 @@
 Design by Free CSS Templates
 http://www.freecsstemplates.org
 Released for free under a Creative Commons Attribution 2.5 License
+
+Heavily modified for SCAMIT by N. Dean Pentcheff 9/2009
 */
 
-* {
-	margin: 0;
-	padding: 0;
-}
-
 body {
-	background: #FFFFFF url(new_images/img01.gif) repeat-x;
-	text-align: justify;
-	font-family: Georgia, "Times New Roman", Times, serif;
-	font-size: 12px;
-	color: #666666;
-}
-
-h1, h2, h3 {
-	color: #333333;
-}
-
-h1, h2 {
-	margin-bottom: 20px;
-	font-weight: normal;
-}
-
-h1 {
-	font-size: 197%;
-}
-
-h2 {
-	font-size: 152%;
-}
-
-h3 {
-	font-size: 100%;
-}
-
-p, ul, ol {
-	margin-bottom: 20px;
-	line-height: 1.6em;
-}
-
-ul, ol {
-	margin-left: 3em;
-}
-
-blockquote {
-	padding: 3em, 3em, 3em, 3em;
-	margin-bottom: 20px;
-/*	background: url(new_images/img08.gif) no-repeat; */
-	font-style: normal;
-}
-
-a:link {
-	color: #1953A7;
-}
-
-a:active {
-	color: #ED5C0C;
-}
-
-a:visited {
-	color: #666666;
-}
-
-a:hover {
-	text-decoration: none;
-	color: #067600;
-}
-
-img {
-	border: none;
-}
-
-img.left {
-	float: left;
-	margin: 0 20px 10px 0;
-}
-
-/* Menu */
-
-#menu {
-	width: 770px;
-	height: 65px;
-	margin: 0 auto;
-	border-right: 1px solid #EDEBD5;
-}
-
-#menu ul {
-	margin: 0;
-	padding: 0;
-	list-style: none;
-}
-
-#menu li {
-	display: inline;
-}
-
-#menu a {
-	display: block;
-	float: left;
-	width: 109px;
-	height: 45px;
-	padding: 20px 0 0 0;
-	border-left: 1px solid #EDEBD5;
-	text-transform: lowercase;
-	text-decoration: none;
-	text-align: center;
-	font-size: 144%;
-	color: #BABABA;
-}
-
-#menu a:hover {
-	background: #F7F7F4;
-}
-
-#menu .active a {
-	background: #F49A24;
-	color: #FFFFFF;
-}
-
-/* Header */
-
-#header {
-	width: 770px;
-	height: 170px;
-	margin: 0 auto;
-}
-
-#header h1 {
-	float: left;
-	width: 220px;
-	height: 100px;
-	margin: 0;
-	padding: 70px 0 0 0;
-	background: url(new_images/img02.jpg) no-repeat;
-	text-align: center;
-	font-size: 36px;
-}
-
-#header h2 {
-	float: right;
-	width: 530px;
-	height: 86px;
-	margin: 0;
-	background: url(new_images/img03.jpg) no-repeat;
-	padding: 84px 20px 0 0;
-	text-align: right;
-}
-
-#header a {
-	text-transform: lowercase;
-	text-decoration: none;
-	font-style: none;
-	font-weight: normal;
-	color: #FFFFFF;
+    /* body background image lies behind header background image */
+    background: #FFFFFF url(/s_images/pagebg.gif) repeat-x;
+    text-align: justify;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 100%;
+    color: #444444;
+    margin: 0;
+    padding: 0;
 }
 
 /* Page */
 
 #page {
-	width: 770px;
-	margin: 0 auto;
-	padding: 20px 0;
+    /* allow flexible width by fixing the left margin with positioning
+     * and setting the right side with a margin
+     */
+    position: absolute;
+    top: 210px;
+    left: 5em;
+    margin:  0 5em 0 0;
+    padding: 0 2em 0 2em;
 }
 
-/* Content */
-
-#content {
-	float: left;
-	width: 550px;
-	padding-top: 10px;
+h1, h2, h3 {
+    color: #333333;
+    text-align: left;
+    font-weight: normal;
+    margin-top: 0.7em;
+    margin-bottom: 0.4em;
 }
 
-.post {
-	margin-bottom: 20px;
-	padding: 0 20px;
+h1 {
+    font-size: 2em;
 }
 
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1em;
+    font-weight: bold;
+}
+
+p, dd, blockquote {
+    margin-bottom: 0.5em;
+    font-size: 0.9em;
+    line-height: 1.4em;
+}
+
+ul, ol {
+    margin-bottom: 0.5em;
+}
+
+li {
+    margin-bottom: 0.3em;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 0.9em;
+}
+
+/* Instead of doing a size for UL, OL, or LI, surround   */
+/* the list with a "span class='.stdsize'" to avoid      */
+/* the problem of successive shrinkage with nesting.     */
+.stdsize {
+    font-size: 0.9em;
+    line-height: 1.4em;
+}
+
+/* for convenience, smaller type */
+.smallsize {
+    font-size: 0.7em;
+    line-height: 1.2em;
+}
+
+blockquote {
+    /* left padding in pixels to fit background quotation graphic */
+    padding: 0 3em 0 40px;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-style: italic;
+    font-size: 0.8em;
+    line-height: 1.4em;
+    background: url(/s_images/blockquote.gif) no-repeat;
+}
+
+ul, ol {
+    margin-left: 3em;
+}
+
+dd {
+    margin-left: 2em;
+}
+
+/* do non-underlined links, just a color cue */
+a         {text-decoration: none;}
+a:link    {color: #000099;}
+a:visited {color: #000066;}
+a:hover   {color: #660000;}
+a:active  {color: #cc0000;}
+
+img {
+    position: relative; /* ensures this lies atop .hr lines */
+}
+
+.left {
+    float: left;
+    margin: 0 20px 10px 0;
+    text-align: left;
+}
+
+.right {
+    float: right;
+    margin: 0 0 10px 20px;
+    text-align: right;
+}
+
+/* use on a top-page header or para to make a horizontal ruled line */
 .hr {
-	border-bottom: 1px solid #EDEBD5;
+    border-top: 1px solid #EDEBD5;
+    position: relative;
+    z-index: -1;
+    margin-top: 0; /* override top margin, to line up w. sidebar top */
 }
 
-/* Sidebar */
+
+/* Header: at top, outside of any other div 
+ * Dimensioning is in pixels to match the size of the bitmap backgrounds
+ */
+#header {
+    width: 770px;
+    display: block;
+    position: relative;
+    top: 40px;
+    left: 40px;
+    height: 170px;
+}
+
+#header h1 {
+    display: inline;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 220px;
+    height: 170px;
+    margin: 0;
+    padding: 70px 0 0 0;
+    text-align: center;
+    font-size: 36px;
+    font-weight: bold;
+    background: url(/s_images/headerleft.jpg) no-repeat;
+}
+
+#header h2 {
+    display: inline;
+    position: absolute;
+    top: 0;
+    left: 220px;
+    width: 550px;
+    height: 170px;
+    margin: 0;
+    padding: 80px 20px 0 0;
+    text-align: center;
+    font-size: 17px;
+    background: url(/s_images/headerright.jpg) no-repeat;
+}
+
+#header a {
+    text-decoration: none;
+    font-style: normal;
+    color: #FFFFFF;
+}
+
+
+/* Menu: at the very top within the page div */
+
+#menu p {
+    margin: 1ex 0 1.5ex 0;
+    padding: 0;
+    font-family: Verdana, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 0.8em;
+    color: #cc6600;
+    text-align: left;
+}
+
+#menu a         {text-decoration: none;}
+#menu a:link    {color: #cc6600;}
+#menu a:visited {color: #cc6600;}
+#menu a:hover   {color: #ff9933;}
+#menu a:active  {color: #cc3300;}
+
+
+/* Sidebar: should go at top of page div, after menu.
+ * Orangebox nested in it uses gradient images to give a contoured look.
+ */
+
+.orangebox { /* inside sidebar */
+    background: url(/s_images/orangebox.gif) repeat-y;
+}
+
+.orangebox h2 {
+    background: url(/s_images/orangeboxH2.gif) repeat-y;
+}
 
 #sidebar {
-	float: right;
-	width: 210px;
-	padding: 5px;
-	background: #EDEBD5;
+    /* width in pixels, to match the orangebox bg images */
+    float: right;
+    position: relative; /* assures this lies atop .hr lines */
+    width: 210px;
+    padding: .7em;
+    margin: 0 0 .7em 1.5em;
+    background: #EDEBD5;
 }
 
+/* use h1 only for special high-impact titles */
+#sidebar h1 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0;
+    padding: 1em 1em;
+    color: #000000;
+    text-align: center;
+}
+
+/* normal sidebar item title */
 #sidebar h2 {
-	margin: 0;
-	padding: 5px 10px;
-	color: #FFFFFF;
-	text-align: left;
+    font-size: .8em;
+    font-weight: bold;
+    margin: 0;
+    padding: 1em 1em;
+    color: #FFFFFF;
+    text-align: left;
 }
 
 #sidebar h3 {
-	font-size: 85%;
-	color: #FFFFFF;
+    font-size: 0.7em; /* 85%; */
+    color: #FFFFFF;
 }
 
-#sidebar ul {
-	margin: 0;
-	padding: 10px;
-	list-style: none;
-        font-size: 10px;
-        line-height: 12px;
-}
 #sidebar p {
-        margin: 0;
-        padding: 10px;
-        font-size: 10px;
-        line-height: 12px;
+    margin: 0;
+    padding: .75em;
+    font-size: 0.7em;
+    line-height: 1.2em;
+}
+
+#sidebar a:link    {color: #fff0f0;}
+#sidebar a:visited {color: #666666;}
+#sidebar a:hover   {color: #ffcccc;}
+
+/* sidebar lists untested & undeveloped -- need work, if used */
+#sidebar ul {
+    margin: 0;
+    padding: 1em;
+    list-style: none;
+    font-size: 0.7em;
+    line-height: 1.2em;
 }
 
 #sidebar li {
 }
 
-#sidebar a {
-	color: #FFFFFF;
-        text-decoration: none;
+
+/* formatting for the throwaway cute pic table */
+table.cutepic {
+  width: 150px;
 }
-#sidebar a:hover {
-        color: #ffcccc;
+td.cutepic {
+  font-family: Verdana, Helvetica, sans-serif;
+  font-size: 67%;
+  color: #909090;
+}
+img.cutepic {
+  width: 150px;
+  border: 1px solid #909090;
 }
 
-.orangebox {
-	background: url(new_images/img05.gif) repeat-y;
+/* job listing table */
+table.jobs {
+  width: 100%;
+  border: 3px solid #ff9900;
+  margin-bottom: 2ex;
+  background-color: #f0f0f0;
+}
+table.jobs th {
+  font-size: 1.2em;
+  font-style: italic;
+  font-weight: bold;
+  background-color: #e0e0e0;
+}
+table.jobs td {
+  font-size: 0.9em;
+  line-height: 1.4em;
+  border-top: 2px solid #808080;
+  padding-left: 0.5em;
+  padding-top: 0.5ex;
+}  
+
+/* newsletter listing page table tweaks */
+th.nl {
+    font-style: italic;
+    font-size: smaller;
 }
 
-.orangebox h2 {
-	background: url(new_images/img06.gif) repeat-y;
+td.nl {
+    font-size: smaller;
 }
 
-/* Footer */
+/* links page table formatting */
+#links table {
+  border: 1px solid #d0d0d0;
+}
+#links tr.linktag {
+  font-weight: bold;
+  font-size: larger;
+  background-color: #d0d0d0;
+}
+#links tr.even {
+  background-color: #fff6e0;
+}
+#links tr.odd  {
+  background-color: #ffffe0;
+}
+#links tr.fail {
+  background-color: #f9f9f9;
+}
+#links tr.linktag td {
+  padding: 0.5em 0.25em 0.5em 0.25em;
+}
+#links td.link {
+  text-align: left;
+  width: 50%;
+  padding: 0.25em 0.5em 0.25em 2em;
+  vertical-align: top;
+  border-right:  1px solid #f0f0f0;
+  border-bottom: 1px solid #f0f0f0;
+}
+#links td.comment {
+  text-align: left;
+  padding: 0.25em 0.5em 0.25em 0.5em;
+  font-size: smaller;
+  border-bottom: 1px solid #f0f0f0;
+}
+#links a {
+  text-decoration: none;
+}
+#links a.fail {
+  color: #808080;
+}
+
+
+/* White text on the (default) white background,
+ * for a page-width hackery paragraph. Sigh.
+ */
+.whiteonwhite {
+    color: white;
+    line-height: 0;
+    margin-top: 0.5em;
+}
+
+
+/* Footer: goes inside page div, at very bottom */
 
 #footer {
-	clear: both;
-	height: 100px;
-	padding: 25px 0;
-	background: #EDEBD5 url(new_images/img04.gif) repeat-x;
+    /* negative left & >100% width puts it out beyond
+     * the browser edges (well beyond page div edges)
+     */
+    clear: both;
+    position: relative;
+    left: -7em;
+    width: 140%;
+    height: 100px;
+    background: #EDEBD5 url(/s_images/footbg.gif) repeat-x;
+    margin-top: 1ex;
+}
+
+#footer table {
+    position: relative;
+    top: 25px;
+    margin: 0 auto 0 auto;
 }
 
 #footer p {
-	margin: 0;
-	text-align: center;
-	font-size: 77%;
+    margin: 0;
+    text-align: center;
+    font-size: 0.6em;
 }
 
 #footer a {
-	color: #666666;
+    color: #666666;
 }
