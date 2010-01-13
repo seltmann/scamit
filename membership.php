@@ -37,7 +37,7 @@ contact the Treasurer, Cheryl Brantley
 (<a href="mailto:cbrantley@lacsd.org">cbrantley@lacsd.org</a> or 
 310.830.2400 x5605) directly to see what can be worked out.</p>
 
-<p>You can <a href="/SCAMITMembershipForm.pdf">get a copy of the
+<p>You can <a href="/documents/SCAMITMembershipForm.pdf">get a copy of the
 SCAMIT membership form here</a>.</p>
 
 <p>Membership rates:</p>

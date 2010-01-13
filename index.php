@@ -48,13 +48,9 @@
 <h2 class='hr'>Upcoming SCAMIT Meetings</h2>
 
 <dl>
-  <dt>Monday, 11 January 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Bight &rsquo;08 crustacean taxonomy meeting</i>
-      at City of San Diego.</dd>
-
-  <dt>Monday, 21 January 2010 9:00 AM - 3:30 PM</dt>
-  <dd><i>Taxonomic Database meeting</i> at SCCWRP.<br />
-       Meeting lead: Larry Lovell.</dd>
+  <dt><i>Cancelled: </i><span class='cancel'>Thursday, 21 January 2010 9:00 AM - 3:30 PM</span></dt>
+  <dd><span class='cancel'><i>Taxonomic Database meeting</i> at SCCWRP.<br />
+       Meeting lead: Larry Lovell.</span></dd>
 
   <dt>Monday, 25 January 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Bight &rsquo;08 polychaete meeting</i>
@@ -104,10 +100,46 @@ end of March, so we are near the end.</p>
 <dl>
   <dt>23 January 2010</dt>
   <dd><i>Southern California Unified Malacologists (SCUM) Annual Meeting</i>
-      Saturday, January 23rd, 2010
-      at City of San Diego Environmental Monitoring Laboratory.
+      <br />Saturday, January 23rd, 2010
+      at City of San Diego Environmental Monitoring Laboratory,
       2392 Kincaid Rd, San Diego, CA, 92101. RSVP to Wendy Enright
-      619-758-2378 wenright@sandiego.gov</dd>
+      619-758-2378
+      <a href='mailto:wenright@sandiego.gov'>wenright@sandiego.gov</a></dd>
+
+  <dt>17 February 2010</dt>
+  <dd><i>SCCWRP DNA Barcoding colloquium (rescheduled)</i><br />
+      <span class='smallsize'>To all interested in molecular approaches
+      in ecology, taxonomy, and evolution,<br />
+      You are cordially invited to the <b>rescheduled</b> DNA Barcoding
+      colloquium in the Southern California area.  It will be held the
+      morning of Wednesday, February 17, 2010 at the Southern
+      California Coastal Water Research Project (SCCWRP) facilities in
+      Costa Mesa, CA.  This event is being organized by Dr. Peter
+      Miller of SCCWRP.  The colloquium will begin promptly at 9:00 am
+      in the large conference room.  Please see the
+      <a href='/documents/2010_SCCWRP_barcoding.pdf'>attached flyer</a>.
+      for detailed information.  We suggest that you arrive
+      early to mingle and chat with others over coffee prior to the 9
+      AM start.<br />
+      We ask that you forward this email to other researchers,
+      post-docs, and graduate students at your institution or other
+      institutions who would have an interest in attending.  This
+      invitation is also extended to post-docs, grad students,
+      undergrads, and others working in your lab.  If you cannot
+      attend yourself, we encourage you to send one or more of them to
+      represent your research activities involving DNA Barcoding and
+      contribute to the discussion.  The colloquium can be viewed
+      remotely via web video conferencing for those who cannot attend.
+      Contact Dr. Miller (<a href='/documents/2010_SCCWRP_barcoding.pdf'>see
+      flyer</a>) for information regarding web
+      video conferencing details.<br />
+      Cordially,<br />
+      Larry Lovell and Don Cadien<br />
+      County Sanitation Districts of Los Angeles County<br />
+      Ocean Monitoring and Research Group<br />
+      24501 S. Figueroa St.<br />
+      Carson, CA 90745</span></dd>
+
 </dl>
 
 <h2>Job Openings</h2>
