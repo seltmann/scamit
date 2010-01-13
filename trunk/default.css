@@ -84,6 +84,11 @@ dt {
     line-height: 1.2em;
 }
 
+.cancel {
+    text-decoration: line-through;
+    color: #888;
+}
+
 blockquote {
     /* left padding in pixels to fit background quotation graphic */
     padding: 0 3em 0 40px;
