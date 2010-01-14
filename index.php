@@ -48,9 +48,9 @@
 <h2 class='hr'>Upcoming SCAMIT Meetings</h2>
 
 <dl>
-  <dt><i>Postponed to Feb/Mar: </i><span class='cancel'>Thursday, 21 January 2010 9:00 AM - 3:30 PM</span></dt>
-  <dd><span class='cancel'><i>Taxonomic Database meeting</i> at SCCWRP.<br />
-       Meeting lead: Larry Lovell.</span></dd>
+  <dt><i>Postponed to Feb/Mar: </i><span class='cancel'>Thursday, 21 January 2010</span></dt>
+  <dd><i>Taxonomic Database meeting</i> at SCCWRP.<br />
+       Meeting lead: Larry Lovell.</dd>
 
   <dt>Monday, 25 January 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Bight &rsquo;08 polychaete meeting</i>
@@ -71,7 +71,7 @@
 January. With samples still being processed it is hard to know just
 what might still show up. All taxonomic groups will be up for
 consideration. There still might be a few crustacean or polychaete
-issues to discuss left over from January's meetings. Data is due the
+issues to discuss left over from January's meetings. Data are due the
 end of March, so we are near the end.</p>
 
 <dl>
