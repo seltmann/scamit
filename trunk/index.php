@@ -48,7 +48,7 @@
 <h2 class='hr'>Upcoming SCAMIT Meetings</h2>
 
 <dl>
-  <dt><i>Cancelled: </i><span class='cancel'>Thursday, 21 January 2010 9:00 AM - 3:30 PM</span></dt>
+  <dt><i>Postponed to Feb/Mar: </i><span class='cancel'>Thursday, 21 January 2010 9:00 AM - 3:30 PM</span></dt>
   <dd><span class='cancel'><i>Taxonomic Database meeting</i> at SCCWRP.<br />
        Meeting lead: Larry Lovell.</span></dd>
 
