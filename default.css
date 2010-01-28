@@ -137,7 +137,16 @@ img {
     z-index: -1;
     margin-top: 0; /* override top margin, to line up w. sidebar top */
 }
+/* similar, but without suppressing top margin */
+.hronly {
+    border-top: 1px solid #EDEBD5;
+    position: relative;
+    z-index: -1;
+}
 
+P.highlight {
+    background: #fff0d3;
+}
 
 /* Header: at top, outside of any other div 
  * Dimensioning is in pixels to match the size of the bitmap backgrounds

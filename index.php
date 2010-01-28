@@ -52,63 +52,51 @@
   <dd><i>Taxonomic Database meeting</i> at SCCWRP.<br />
        Meeting lead: Larry Lovell.</dd>
 
-  <dt>Monday, 25 January 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Bight &rsquo;08 polychaete meeting</i>
-      at NHMLAC.</dd>
-
   <dt>Monday, 8 February 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Bight &rsquo;08 taxonomy meeting</i>
       at City of San Diego.<br />
-      Topic group(s) to be determined.</dd>
+      Bight&rsquo;08 Mollusks.</dd>
 
   <dt>Monday, 22 February 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Bight &rsquo;08 taxonomy meeting</i>
       at LACSD.<br />
-      Topic group(s) to be determined.</dd>
-</dl>
+      Polychatetes, with guest lecturer Sergio Salazar-Vallejo.</dd>
 
-<p>Topic groups for the two February meetings will be determined in
-January. With samples still being processed it is hard to know just
-what might still show up. All taxonomic groups will be up for
-consideration. There still might be a few crustacean or polychaete
-issues to discuss left over from January's meetings. Data are due the
-end of March, so we are near the end.</p>
-
-<dl>
   <dt>Monday, 8 March 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Bight &rsquo;08 polychaete meeting</i>
-      at NHMLAC.<br />
-      Polychaete meeting to review and discuss new papers in the
-      Proceedings of IPC9 and other publications that effect the
-      SCAMIT Edition 5 species list.  We will also discuss Bight&nbsp;&rsquo;08
-      provisional taxa for possible addition to the species list.<br />
-      Co-Lead by Leslie Harris and Larry Lovell.</dd>
+  <dd><i>Bight &rsquo;08 taxonomy meeting</i>
+      location to be determined (LACSD, OCSD, or CSD).<br />
+      Crustacea.</dd>
+
+  <dt>Monday, 22 March 2010 9:30 AM - 3:30 PM</dt>
+  <dd><i>Topic and location to be determined.</i></dd>
 
   <dt>Monday, 12 April 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Photo Image II workshop</i> at City of San Diego.<br />
-      Continuation of
+  <dd><i>Photo Image II workshop & Barcoding presentation</i> at City of San Diego.<br />
+      <div class='smallsize'>Continuation of
       image production and editing techniques.  Co-Lead by Dan Ituarte
       and Nick Haring.  There will also be a short Barcoding
       presentation by Dr. Peter Miller, SCCWRP, at the beginning of
-      the meeting.</dd>
+      the meeting.</div></dd>
+
+  <dt>Monday, 10 May 2010</dt>
+  <dd><i>Barcoding taxonomic workshop at LACSD (tentative)</i></dd>
 </dl>
 
-<p>Questions? Contact: Leslie Harris at lharris@nhm.org or Larry
-   Lovell at llovell@lacsd.org.</p>
+<!-- put a highlight box on this, with a right margin that's
+     orangebox-width + page-padding + 10px = 210+20+10px -->
+<p class='highlight'
+   style='margin-right:240px;text-align:left;'><i>Questions?
+   Contact: Leslie Harris at
+   <a href='mailto:lharris@nhm.org'>lharris@nhm.org</a>
+   or Larry Lovell at
+   <a href='mailto:llovell@lacsd.org'>llovell@lacsd.org</a>.</i></p>
 
-<h2>Meetings of Interest</h2>
+
+<h2 class='hronly'>Meetings of Interest</h2>
 <dl>
-  <dt>23 January 2010</dt>
-  <dd><i>Southern California Unified Malacologists (SCUM) Annual Meeting</i>
-      <br />Saturday, January 23rd, 2010
-      at City of San Diego Environmental Monitoring Laboratory,
-      2392 Kincaid Rd, San Diego, CA, 92101. RSVP to Wendy Enright
-      619-758-2378
-      <a href='mailto:wenright@sandiego.gov'>wenright@sandiego.gov</a></dd>
-
   <dt>17 February 2010</dt>
   <dd><i>SCCWRP DNA Barcoding colloquium (rescheduled)</i><br />
-      <span class='smallsize'>To all interested in molecular approaches
+      <div class='smallsize'>To all interested in molecular approaches
       in ecology, taxonomy, and evolution,<br />
       You are cordially invited to the <b>rescheduled</b> DNA Barcoding
       colloquium in the Southern California area.  It will be held the
@@ -138,20 +126,43 @@ end of March, so we are near the end.</p>
       County Sanitation Districts of Los Angeles County<br />
       Ocean Monitoring and Research Group<br />
       24501 S. Figueroa St.<br />
-      Carson, CA 90745</span></dd>
+      Carson, CA 90745</div></dd>
+
+  <dt>18&ndash;22 February 2010</dt>
+  <dd><i>American Association for the Advancement of Science</i><br />
+  The Annual Meeting of the AAAS will be at the San Diego Convention Center this year:
+  <a href='http://www.aaas.org/meetings/'>http://www.aaas.org/meetings</a></dd>
+
+  <dt>7&ndash;8 May 2010</dt>
+  <dd><i>Southern California Academy of Sciences</i><br />
+  The SCAS Annual Meeting will be May 7&ndash;8, 2010 at California State University, Los Angeles, CA:
+  <a href='http://scas.jsd.claremont.edu/'>http://scas.jsd.claremont.edu</a></dd>
+
+  <dt>20&ndash;26 June 2010</dt>
+  <dd><i>10th International Polychaete Conference</i><br />
+  The 10th IPC meeting will be in Lecce, Italy:
+  <a href='http://www.polychaeta.it/'>http://www.polychaeta.it</a></dd>
+
+  <dt>27 June &ndash; 1 July 2010</dt>
+  <dd><i>Western Society of Malacologists</i> and <i>American Society of Malacologists</i><br />
+  The 43rd Annual Meeting of the WSM will be held jointly with the
+  76th Annual Meeting of the American Society of Malacologists
+  at San Diego State University: <a href='http://biology.fullerton.edu/wsm/conferences.html'>http://biology.fullerton.edu/wsm/conferences.html</a></dd>
 
 </dl>
 
-<h2>Job Openings</h2>
+<h2 class='hronly'>Job Openings</h2>
 
 <ul>
+  <li><a href='/jobs.php#ky'>Kentucky Department of Fish and Wildlife</a></li>
+  <li><a href='/jobs.php#sf'>San Francisco Public Utilities Commission [3 positions]</a></li>
   <li><a href='/jobs.php#sio'>Scripps Institution of Oceanography</a></li>
   <li><a href='/jobs.php#healthebay'>Heal the Bay</a></li>
   <li><a href='/jobs.php#ost'>California Ocean Science Trust (OST) [2 positions]</a></li>
   <li><a href='/jobs.php#ecoanalysts'>EcoAnalysts</a></li>
 </ul>
 
-<h2>Newsletters</h2>
+<h2 class='hronly'>Newsletters</h2>
 <table class="cutepic left" cellspacing='0' cellpadding='0'>
   <tr><td class="cutepic"><img class="cutepic"
        src="/images/Delonovolva_aequalis.jpg"
