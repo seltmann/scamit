@@ -34,6 +34,37 @@ Please send listings to:</p>
 </dl>
 
 <table class='jobs'>
+  <tr><th><a name='ky'>Kentucky Department of Fish and Wildlife Resources&rsquo;
+                       Center for Mollusk Conservation</a></th></tr>
+  <tr><td><b>Fisheries Biologist II</b></td></tr>
+  <tr><td><i>January 2010</i><br />
+  The Kentucky Department of Fish and Wildlife Resources&rsquo; Center for Mollusk Conservation
+  is looking to add additional staff to support our recovery efforts with freshwater mussels,
+  specifically with the Fat Pocketbook (<i>Potamilus capax</i>). This position will be listed
+  as a &ldquo;Fisheries Biologist II&rdquo;, because the state of KY has no specific
+  classifications for biologists that study mussels.  To see more specific job details
+  or to apply, go to
+  <a href='http://personnel.ky.gov/default.htm'>http://personnel.ky.gov/default.htm</a>
+  and complete an online application.
+  If you have any other questions about the job please contact Dr. Monte McGregor at
+  <a href='mailto:monte.mcgregor@ky.gov'>monte.mcgregor@ky.gov</a>.
+  The position will be posted until February 15, 2010.</td></tr>
+</table>
+
+<table class='jobs'>
+  <tr><th><a name='sf'>San Francisco Public Utilities Commission</a></th></tr>
+  <tr><td><b>Biologist I/II</b></td></tr>
+  <tr><td><i>January 2010</i><br />
+  Three postions are open at the PUC (posted on 26 January 2010):<br />
+  2483 BIOLOGIST I/II (Deep Class) Fisheries, Wildlife, or Botany Specialty<br />
+  &nbsp;&nbsp;&nbsp;<a href='http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/939'>http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/939</a><br />
+  2483 BIOLOGIST I/II (Deep Class) Limnology Specialty<br />
+  &nbsp;&nbsp;&nbsp;<a href='http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/940'>http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/940</a><br />
+  2483 BIOLOGIST I/II (Deep Class) Marine Taxonomy Specialty<br />
+  &nbsp;&nbsp;&nbsp;<a href='http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938'>http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938</a><br /></td></tr>
+</table>
+
+<table class='jobs'>
   <tr><th><a name='sio'>Scripps Institution of Oceanography</a></th></tr>
   <tr><td><b>Assistant Museum Scientist</b></td></tr>
 
