@@ -59,7 +59,7 @@
 
   <dt>Monday, 22 February 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Bight &rsquo;08 taxonomy meeting</i>
-      at LACSD.<br />
+      at NHM.<br />
       Polychatetes, with guest lecturer Sergio Salazar-Vallejo.</dd>
 
   <dt>Monday, 8 March 2010 9:30 AM - 3:30 PM</dt>
@@ -68,7 +68,7 @@
       Crustacea.</dd>
 
   <dt>Monday, 22 March 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Topic and location to be determined.</i></dd>
+  <dd><i>Possible Bight &rsquo;08 taxonomic review meeting, if necessary.</i></dd>
 
   <dt>Monday, 12 April 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Photo Image II workshop & Barcoding presentation</i> at City of San Diego.<br />
