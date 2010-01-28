@@ -82,10 +82,7 @@
   <dd><i>Barcoding taxonomic workshop at LACSD (tentative)</i></dd>
 </dl>
 
-<!-- put a highlight box on this, with a right margin that's
-     orangebox-width + page-padding + 10px = 210+20+10px -->
-<p class='highlight'
-   style='margin-right:240px;text-align:left;'><i>Questions?
+<p><i>Questions?
    Contact: Leslie Harris at
    <a href='mailto:lharris@nhm.org'>lharris@nhm.org</a>
    or Larry Lovell at

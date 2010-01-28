@@ -311,6 +311,7 @@ table.jobs th {
   font-size: 1.2em;
   font-style: italic;
   font-weight: bold;
+  text-align: left;
   background-color: #e0e0e0;
 }
 table.jobs td {
