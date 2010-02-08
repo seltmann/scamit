@@ -52,11 +52,6 @@
   <dd><i>Taxonomic Database meeting</i> at SCCWRP.<br />
        Meeting lead: Larry Lovell.</dd>
 
-  <dt>Monday, 8 February 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Bight &rsquo;08 taxonomy meeting</i>
-      at City of San Diego.<br />
-      Bight&rsquo;08 Mollusks.</dd>
-
   <dt>Monday, 22 February 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Bight &rsquo;08 taxonomy meeting</i>
       at NHM.<br />
@@ -71,15 +66,20 @@
   <dd><i>Possible Bight &rsquo;08 taxonomic review meeting, if necessary.</i></dd>
 
   <dt>Monday, 12 April 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Photo Image II workshop & Barcoding presentation</i> at City of San Diego.<br />
-      <div class='smallsize'>Continuation of
+  <dd><i>Topic to be announced</i><br />
+      <i>Postponed to June or July:</i>
+      <span class='cancel'><i>Photo Image II workshop &
+      Barcoding presentation</i>
+      at City of San Diego.<br /></span>
+      <div class='smallsize'><span class='cancel'>Continuation of
       image production and editing techniques.  Co-Lead by Dan Ituarte
       and Nick Haring.  There will also be a short Barcoding
       presentation by Dr. Peter Miller, SCCWRP, at the beginning of
-      the meeting.</div></dd>
+      the meeting.</span></div></dd>
 
   <dt>Monday, 10 May 2010</dt>
-  <dd><i>Barcoding taxonomic workshop at LACSD (tentative)</i></dd>
+  <dd><i>Barcoding taxonomic workshop at LACSD</i><br />
+      Including presentation by Peter Miller.</dd>
 </dl>
 
 <p><i>Questions?
