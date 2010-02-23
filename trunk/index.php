@@ -48,14 +48,11 @@
 <h2 class='hr'>Upcoming SCAMIT Meetings</h2>
 
 <dl>
+<!--
   <dt><i>Postponed to Feb/Mar: </i><span class='cancel'>Thursday, 21 January 2010</span></dt>
   <dd><i>Taxonomic Database meeting</i> at SCCWRP.<br />
        Meeting lead: Larry Lovell.</dd>
-
-  <dt>Monday, 22 February 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Bight &rsquo;08 taxonomy meeting</i>
-      at NHM.<br />
-      Polychatetes, with guest lecturer Sergio Salazar-Vallejo.</dd>
+-->
 
   <dt>Monday, 8 March 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Bight &rsquo;08 taxonomy meeting</i>
@@ -91,45 +88,6 @@
 
 <h2 class='hronly'>Meetings of Interest</h2>
 <dl>
-  <dt>17 February 2010</dt>
-  <dd><i>SCCWRP DNA Barcoding colloquium (rescheduled)</i><br />
-      <div class='smallsize'>To all interested in molecular approaches
-      in ecology, taxonomy, and evolution,<br />
-      You are cordially invited to the <b>rescheduled</b> DNA Barcoding
-      colloquium in the Southern California area.  It will be held the
-      morning of Wednesday, February 17, 2010 at the Southern
-      California Coastal Water Research Project (SCCWRP) facilities in
-      Costa Mesa, CA.  This event is being organized by Dr. Peter
-      Miller of SCCWRP.  The colloquium will begin promptly at 9:00 am
-      in the large conference room.  Please see the
-      <a href='/documents/2010_SCCWRP_barcoding.pdf'>attached flyer</a>.
-      for detailed information.  We suggest that you arrive
-      early to mingle and chat with others over coffee prior to the 9
-      AM start.<br />
-      We ask that you forward this email to other researchers,
-      post-docs, and graduate students at your institution or other
-      institutions who would have an interest in attending.  This
-      invitation is also extended to post-docs, grad students,
-      undergrads, and others working in your lab.  If you cannot
-      attend yourself, we encourage you to send one or more of them to
-      represent your research activities involving DNA Barcoding and
-      contribute to the discussion.  The colloquium can be viewed
-      remotely via web video conferencing for those who cannot attend.
-      Contact Dr. Miller (<a href='/documents/2010_SCCWRP_barcoding.pdf'>see
-      flyer</a>) for information regarding web
-      video conferencing details.<br />
-      Cordially,<br />
-      Larry Lovell and Don Cadien<br />
-      County Sanitation Districts of Los Angeles County<br />
-      Ocean Monitoring and Research Group<br />
-      24501 S. Figueroa St.<br />
-      Carson, CA 90745</div></dd>
-
-  <dt>18&ndash;22 February 2010</dt>
-  <dd><i>American Association for the Advancement of Science</i><br />
-  The Annual Meeting of the AAAS will be at the San Diego Convention Center this year:
-  <a href='http://www.aaas.org/meetings/'>http://www.aaas.org/meetings</a></dd>
-
   <dt>7&ndash;8 May 2010</dt>
   <dd><i>Southern California Academy of Sciences</i><br />
   The SCAS Annual Meeting will be May 7&ndash;8, 2010 at California State University, Los Angeles, CA:
