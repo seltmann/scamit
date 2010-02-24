@@ -55,29 +55,29 @@
 -->
 
   <dt>Monday, 8 March 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Bight &rsquo;08 taxonomy meeting</i>
-      location to be determined (LACSD, OCSD, or CSD).<br />
-      Crustacea.</dd>
+  <dd><i>Bight &rsquo;08 Crustacea taxonomy meeting</i>
+      location to be determined (LACSD, OCSD, or CSD).</dd>
 
   <dt>Monday, 22 March 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Possible Bight &rsquo;08 taxonomic review meeting, if necessary.</i></dd>
 
   <dt>Monday, 12 April 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Topic to be announced</i><br />
-      <i>Postponed to June or July:</i>
-      <span class='cancel'><i>Photo Image II workshop &
-      Barcoding presentation</i>
-      at City of San Diego.<br /></span>
-      <div class='smallsize'><span class='cancel'>Continuation of
-      image production and editing techniques.  Co-Lead by Dan Ituarte
-      and Nick Haring.  There will also be a short Barcoding
-      presentation by Dr. Peter Miller, SCCWRP, at the beginning of
-      the meeting.</span></div></dd>
+  <dd><i>Topic to be announced</i>
+      </dd>
 
   <dt>Monday, 10 May 2010</dt>
-  <dd><i>Barcoding taxonomic workshop at LACSD</i><br />
-      Including presentation by Peter Miller.</dd>
+  <dd><i>Barcoding taxonomic workshop</i> at LACSD<br />
+      <div class='smallsize'>Including presentation by Peter Miller.</div></dd>
 </dl>
+
+  <dt>Monday, 12 July 2010 9:30 AM - 3:30 PM</dt>
+  <dd><i>Photo Image II workshop
+        <!-- & Barcoding presentation -->
+       </i>
+      at City of San Diego.<br />
+      <div class='smallsize'>Continuation of
+      image production and editing techniques.  Co-Lead by Dan Ituarte
+      and Nick Haring.</div></dd>
 
 <p><i>Questions?
    Contact: Leslie Harris at
