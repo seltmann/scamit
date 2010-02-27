@@ -70,7 +70,7 @@
       <div class='smallsize'>Including presentation by Peter Miller.</div></dd>
 </dl>
 
-  <dt>Monday, 12 July 2010 9:30 AM - 3:30 PM</dt>
+  <dt>Monday, 14 Juney 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Photo Image II workshop
         <!-- & Barcoding presentation -->
        </i>
