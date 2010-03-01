@@ -56,28 +56,35 @@
 
   <dt>Monday, 8 March 2010 9:30 AM - 3:30 PM</dt>
   <dd><i>Bight &rsquo;08 Crustacea taxonomy meeting</i>
-      location to be determined (LACSD, OCSD, or CSD).</dd>
+      at OCSD
+      <div class='smallsize'>Review of taxa not covered at previous meetings.</div></dd>
 
   <dt>Monday, 22 March 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Possible Bight &rsquo;08 taxonomic review meeting, if necessary.</i></dd>
+  <dd><i>Possible Bight &rsquo;08 taxonomic review meeting, if necessary.</i>
+      <div class='smallsize'>Groups and venue TBD at 8 March meeting.</div></dd>
 
   <dt>Monday, 12 April 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Topic to be announced</i>
-      </dd>
+  <dd><i>Polychaete literature review meeting</i>
+      at NHMLAC
+      <div class='smallsize'>May be changed to Bight&nbsp;&rsquo;08 review if additional
+	problem taxa remain (or an additional Bight&nbsp;&rsquo;08 review meeting in April
+	might be scheduled.</div></dd>
 
-  <dt>Monday, 10 May 2010</dt>
+  <dt>Monday, 24 May 2010
+    <span style='text-decoration:underline;'>9:00 AM</span> -
+    <span style='text-decoration:underline;'>4:00 PM</span></dt>
   <dd><i>Barcoding taxonomic workshop</i> at LACSD<br />
-      <div class='smallsize'>Including presentation by Peter Miller.</div></dd>
+      <div class='smallsize'>We will be lab processing specimens for use in building the DNA
+        barcode library of Southern California benthic invertebrates. This will be a fun day
+        with sorting, taxonomy, photography, DNA processing, voucher vialing, and data entry
+        happening on two parallel production setups. Come one, come all!!!</div></dd>
 </dl>
 
-  <dt>Monday, 14 Juney 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Photo Image II workshop
-        <!-- & Barcoding presentation -->
-       </i>
-      at City of San Diego.<br />
-      <div class='smallsize'>Continuation of
-      image production and editing techniques.  Co-Lead by Dan Ituarte
-      and Nick Haring.</div></dd>
+  <dt>Monday, 14 June 2010 9:30 AM - 3:30 PM</dt>
+  <dd><i>Photo Image II workshop</i> at City of San Diego.
+      <div class='smallsize'>Hands-on opportunity to work with CSD equipment.
+	Continuation of image production and editing techniques.
+	Co-Lead by Dan Ituarte and Nick Haring.</div></dd>
 
 <p><i>Questions?
    Contact: Leslie Harris at
