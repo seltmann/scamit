@@ -30,8 +30,8 @@
       <p>The 5th Edition expands on prior editions by the addition of
       newly reported taxa from publicly owned wastewater treatment
       works monitoring programs and the Southern California Bight 2003
-      Regional Monitoring Project (Bight&rsquo;03).  The inclusion of
-      records from Bight&rsquo;03 expands the list&rsquo;s coverage to
+      Regional Monitoring Project (Bight&nbsp;&rsquo;03).  The inclusion of
+      records from Bight&nbsp;&rsquo;03 expands the list&rsquo;s coverage to
       depths of 1000&nbsp;m in nearshore basins and megainvertebrates from
       trawls to depths of 500&nbsp;m in the Bight.  Geographic coverage
       begins at Point Conception, includes Southern California bays
@@ -55,12 +55,19 @@
 -->
 
   <dt>Monday, 8 March 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Bight &rsquo;08 Crustacea taxonomy meeting</i>
+  <dd><i>Bight&nbsp;&rsquo;08 Crustacea taxonomy meeting</i>
       at OCSD
       <div class='smallsize'>Review of taxa not covered at previous meetings.</div></dd>
 
+  <dt><span class='notedate'>Tuesday</span>, 16 March 2010
+    <span class='notedate'>9:00 AM</span> - <span class='notedate'>4:00 PM</span></dt>
+  <dd><i>Database group meeting</i>
+      at SCCWRP in large conference room
+      <div class='smallsize'>Beta version database, P-codes BATMAN update, historical databases,
+	Morphbank, DNA barcoding, new listserver.</div></dd>
+
   <dt>Monday, 22 March 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Possible Bight &rsquo;08 taxonomic review meeting, if necessary.</i>
+  <dd><i>Possible Bight&nbsp;&rsquo;08 taxonomic review meeting, if necessary</i>
       <div class='smallsize'>Groups and venue TBD at 8 March meeting.</div></dd>
 
   <dt>Monday, 12 April 2010 9:30 AM - 3:30 PM</dt>
@@ -71,8 +78,7 @@
 	might be scheduled.</div></dd>
 
   <dt>Monday, 24 May 2010
-    <span style='text-decoration:underline;'>9:00 AM</span> -
-    <span style='text-decoration:underline;'>4:00 PM</span></dt>
+    <span class='notedate'>9:00 AM</span> - <span class='notedate'>4:00 PM</span></dt>
   <dd><i>Barcoding taxonomic workshop</i> at LACSD<br />
       <div class='smallsize'>We will be lab processing specimens for use in building the DNA
         barcode library of Southern California benthic invertebrates. This will be a fun day
@@ -81,7 +87,7 @@
 </dl>
 
   <dt>Monday, 14 June 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Photo Image II workshop</i> at City of San Diego.
+  <dd><i>Photo Image II workshop</i> at City of San Diego
       <div class='smallsize'>Hands-on opportunity to work with CSD equipment.
 	Continuation of image production and editing techniques.
 	Co-Lead by Dan Ituarte and Nick Haring.</div></dd>
