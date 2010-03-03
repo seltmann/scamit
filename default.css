@@ -89,6 +89,10 @@ dt {
     color: #888;
 }
 
+.notedate {
+    text-decoration: underline;
+}
+
 blockquote {
     /* left padding in pixels to fit background quotation graphic */
     padding: 0 3em 0 40px;
