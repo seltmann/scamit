@@ -47,50 +47,27 @@
 
 <h2 class='hr'>Upcoming SCAMIT Meetings</h2>
 
-<dl>
-<!--
-  <dt><i>Postponed to Feb/Mar: </i><span class='cancel'>Thursday, 21 January 2010</span></dt>
-  <dd><i>Taxonomic Database meeting</i> at SCCWRP.<br />
-       Meeting lead: Larry Lovell.</dd>
--->
+  <p class='hang rsstitle'><b>Monday, 12 April 2010 9:30 AM - 3:30 PM</b><br />
+     <i>Polychaete literature review meeting</i> at NHMLAC</p>
+  <p class='indent smallsize rssdesc'>May be changed to Bight&nbsp;&rsquo;08 review
+     if additional problem taxa remain (or an additional Bight&nbsp;&rsquo;08 review
+     meeting in April might be scheduled.</p>
 
-  <dt>Monday, 8 March 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Bight&nbsp;&rsquo;08 Crustacea taxonomy meeting</i>
-      at OCSD
-      <div class='smallsize'>Review of taxa not covered at previous meetings.</div></dd>
+  <p class='hang rsstitle'><b>Monday, 24 May 2010
+     <span class='notedate'>9:00 AM</span> - <span class='notedate'>4:00 PM</span></b><br />
+     <i>Barcoding taxonomic workshop</i> at LACSD</p>
+  <p class='indent smallsize rssdesc'>We will be lab processing specimens
+     for use in building the DNA
+     barcode library of Southern California benthic invertebrates.
+     This will be a fun day with sorting, taxonomy, photography, DNA processing,
+     voucher vialing, and data entry happening on two parallel production setups.
+     Come one, come all!!!</p>
 
-  <dt><span class='notedate'>Tuesday</span>, 16 March 2010
-    <span class='notedate'>9:00 AM</span> - <span class='notedate'>4:00 PM</span></dt>
-  <dd><i>Database group meeting</i>
-      at SCCWRP in large conference room
-      <div class='smallsize'>Beta version database, P-codes BATMAN update, historical databases,
-	Morphbank, DNA barcoding, new listserver.</div></dd>
-
-  <dt>Monday, 22 March 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Possible Bight&nbsp;&rsquo;08 taxonomic review meeting, if necessary</i>
-      <div class='smallsize'>Groups and venue TBD at 8 March meeting.</div></dd>
-
-  <dt>Monday, 12 April 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Polychaete literature review meeting</i>
-      at NHMLAC
-      <div class='smallsize'>May be changed to Bight&nbsp;&rsquo;08 review if additional
-	problem taxa remain (or an additional Bight&nbsp;&rsquo;08 review meeting in April
-	might be scheduled.</div></dd>
-
-  <dt>Monday, 24 May 2010
-    <span class='notedate'>9:00 AM</span> - <span class='notedate'>4:00 PM</span></dt>
-  <dd><i>Barcoding taxonomic workshop</i> at LACSD<br />
-      <div class='smallsize'>We will be lab processing specimens for use in building the DNA
-        barcode library of Southern California benthic invertebrates. This will be a fun day
-        with sorting, taxonomy, photography, DNA processing, voucher vialing, and data entry
-        happening on two parallel production setups. Come one, come all!!!</div></dd>
-</dl>
-
-  <dt>Monday, 14 June 2010 9:30 AM - 3:30 PM</dt>
-  <dd><i>Photo Image II workshop</i> at City of San Diego
-      <div class='smallsize'>Hands-on opportunity to work with CSD equipment.
-	Continuation of image production and editing techniques.
-	Co-Lead by Dan Ituarte and Nick Haring.</div></dd>
+  <p class='hang'><b>Monday, 14 June 2010 9:30 AM - 3:30 PM</b><br />
+     <i>Photo Image II workshop</i> at City of San Diego</p>
+  <p class='indent smallsize'>Hands-on opportunity to work with CSD equipment.
+     continuation of image production and editing techniques.
+     Co-Lead by Dan Ituarte and Nick Haring.</p>
 
 <p><i>Questions?
    Contact: Leslie Harris at
@@ -100,28 +77,29 @@
 
 
 <h2 class='hronly'>Meetings of Interest</h2>
-<dl>
-  <dt>7&ndash;8 May 2010</dt>
-  <dd><i>Southern California Academy of Sciences</i><br />
-  The SCAS Annual Meeting will be May 7&ndash;8, 2010 at California State University, Los Angeles, CA:
-  <a href='http://scas.jsd.claremont.edu/'>http://scas.jsd.claremont.edu</a></dd>
 
-  <dt>20&ndash;26 June 2010</dt>
-  <dd><i>10th International Polychaete Conference</i><br />
-  The 10th IPC meeting will be in Lecce, Italy:
-  <a href='http://www.polychaeta.it/'>http://www.polychaeta.it</a></dd>
+  <p class='hang rsstitle'><b>7&ndash;8 May 2010</b><br />
+     <i>Southern California Academy of Sciences</i></p>
+  <p class='indent smallsize rssdesc'>The SCAS Annual Meeting will be
+     May 7&ndash;8, 2010 at California State University, Los Angeles, CA:
+     <a href='http://scas.jsd.claremont.edu/'>http://scas.jsd.claremont.edu</a></p>
 
-  <dt>27 June &ndash; 1 July 2010</dt>
-  <dd><i>Western Society of Malacologists</i> and <i>American Society of Malacologists</i><br />
-  The 43rd Annual Meeting of the WSM will be held jointly with the
-  76th Annual Meeting of the American Society of Malacologists
-  at San Diego State University: <a href='http://biology.fullerton.edu/wsm/conferences.html'>http://biology.fullerton.edu/wsm/conferences.html</a></dd>
+  <p class='hang'><b>20&ndash;26 June 2010</b><br />
+     <i>10th International Polychaete Conference</i></p>
+  <p class='indent smallsize'>The 10th IPC meeting will be in Lecce, Italy:
+     <a href='http://www.polychaeta.it/'>http://www.polychaeta.it</a></p>
 
-</dl>
+  <p class='hang'><b>27 June &ndash; 1 July 2010</b><br />
+     <i>Western Society of Malacologists</i> and
+     <i>American Society of Malacologists</i></p>
+  <p class='indent smallsize'>The 43rd Annual Meeting of the WSM will be held
+     jointly with the 76th Annual Meeting of the American Society of Malacologists
+     at San Diego State University:
+     <a href='http://biology.fullerton.edu/wsm/conferences.html'>http://biology.fullerton.edu/wsm/conferences.html</a></p>
 
 <h2 class='hronly'>Job Openings</h2>
 
-<ul>
+<ul class='stdsize'>
   <li><a href='/jobs.php#ky'>Kentucky Department of Fish and Wildlife</a></li>
   <li><a href='/jobs.php#sf'>San Francisco Public Utilities Commission [3 positions]</a></li>
   <li><a href='/jobs.php#sio'>Scripps Institution of Oceanography</a></li>

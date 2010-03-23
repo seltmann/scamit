@@ -65,11 +65,6 @@ li {
     margin-bottom: 0.3em;
 }
 
-dt {
-    font-weight: bold;
-    font-size: 0.9em;
-}
-
 /* Instead of doing a size for UL, OL, or LI, surround   */
 /* the list with a "span class='.stdsize'" to avoid      */
 /* the problem of successive shrinkage with nesting.     */
@@ -103,12 +98,16 @@ blockquote {
     background: url(/s_images/blockquote.gif) no-repeat;
 }
 
-ul, ol {
-    margin-left: 3em;
+/* hang & (immediately-following) indent for events and such items */
+P.hang {
+    margin-left:  0.25in; /* not ems, so size-changed paragraphs still align */
+    text-indent: -0.25in;
+    margin-bottom: 0;
 }
 
-dd {
-    margin-left: 2em;
+P.indent {
+    margin-left: 0.25in;
+    margin-top: 0;
 }
 
 /* do non-underlined links, just a color cue */
@@ -304,27 +303,27 @@ img.cutepic {
   border: 1px solid #909090;
 }
 
-/* job listing table */
-table.jobs {
-  width: 100%;
-  border: 3px solid #ff9900;
-  margin-bottom: 2ex;
-  background-color: #f0f0f0;
+/* box to go around job listings */
+DIV.job {
+  border: solid 3px #ff9900;
+  padding: 0;
+  margin-bottom: 1ex;
 }
-table.jobs th {
-  font-size: 1.2em;
+/* job listing parts */
+P.jobhead {
+  margin: 0;
+  padding: 0.05in;
+  background-color: #ddd;
+  font-size: larger;
   font-style: italic;
-  font-weight: bold;
   text-align: left;
-  background-color: #e0e0e0;
 }
-table.jobs td {
-  font-size: 0.9em;
-  line-height: 1.4em;
-  border-top: 2px solid #808080;
-  padding-left: 0.5em;
-  padding-top: 0.5ex;
-}  
+P.job {
+  margin: 0;
+  padding: 0.05in;
+  background-color: #eee;
+  text-align: justify;
+}
 
 /* newsletter listing page table tweaks */
 th.nl {

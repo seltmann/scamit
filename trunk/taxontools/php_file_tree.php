@@ -17,6 +17,10 @@
     
 */
 
+/* N. Dean Pentcheff pentcheff@gmail.com
+   22 March 2010 Modified to exclude all dotfiles (dirs like .svn, and files).
+ */
+
 
 function php_file_tree($directory, $return_link, $extensions = array()) {
   // Generates a valid XHTML list of all directories, sub-directories,
@@ -38,11 +42,15 @@ function php_file_tree_dir($directory, $return_link,
   else
     $file = php4_scandir($directory);
   natcasesort($file);
-  // Make directories first
+  // Make directories first and exclude all dotfiles
   $files = $dirs = array();
   foreach($file as $this_file) {
-    if( is_dir("$directory/$this_file" ) )
-      $dirs[] = $this_file; else $files[] = $this_file;
+    if( preg_match('/^\./', $this_file) == 0 ) {
+      if( is_dir("$directory/$this_file" ) )
+        $dirs[] = $this_file;
+      else
+        $files[] = $this_file;
+    }
   }
   $file = array_merge($dirs, $files);
   
@@ -56,7 +64,7 @@ function php_file_tree_dir($directory, $return_link,
     }
   }
   
-  if( count($file) > 2 ) { // Use 2 instead of 0 to account for . and .. "directories"
+  if( count($file) > 0 ) { // . and .. are already excluded
     $php_file_tree = "<ul";
     if( $first_call ) {
       $php_file_tree .= " class=\"php-file-tree\"";
@@ -64,7 +72,6 @@ function php_file_tree_dir($directory, $return_link,
     }
     $php_file_tree .= ">";
     foreach( $file as $this_file ) {
-      if( $this_file != "." && $this_file != ".." ) {
         if( is_dir("$directory/$this_file") ) {
           // Directory
           $php_file_tree .= "<li class=\"pft-directory\"><a href=\"#\">" .
@@ -80,10 +87,10 @@ function php_file_tree_dir($directory, $return_link,
           $link = str_replace("[link]", "$directory/" .
                   rawurlencode($this_file), $return_link);
           $php_file_tree .= "<li class=\"pft-file " . strtolower($ext) .
-                            "\"><a href=\"$link\" target='_blank'>" . htmlspecialchars($this_file) .
+                            "\"><a href=\"$link\" target='_blank'>" .
+                            htmlspecialchars($this_file) .
                             "</a></li>\n";
         }
-      }
     }
     $php_file_tree .= "</ul>";
   }
