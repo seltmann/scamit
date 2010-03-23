@@ -33,42 +33,44 @@ Please send listings to:</p>
 </dd>
 </dl>
 
-<table class='jobs'>
-  <tr><th><a name='ky'>Kentucky Department of Fish and Wildlife Resources&rsquo;
-                       Center for Mollusk Conservation</a></th></tr>
-  <tr><td><b>Fisheries Biologist II</b></td></tr>
-  <tr><td><i>January 2010</i><br />
-  The Kentucky Department of Fish and Wildlife Resources&rsquo; Center for Mollusk Conservation
-  is looking to add additional staff to support our recovery efforts with freshwater mussels,
-  specifically with the Fat Pocketbook (<i>Potamilus capax</i>). This position will be listed
-  as a &ldquo;Fisheries Biologist II&rdquo;, because the state of KY has no specific
-  classifications for biologists that study mussels.  To see more specific job details
-  or to apply, go to
+<div class='job'><p
+     class='jobhead'><a name='ky'>Kentucky Department of Fish and
+     Wildlife Resources&rsquo; Center for Mollusk Conservation</a></p>
+  <p class='job'><b>Fisheries Biologist II</b></p>
+  <p class='job'><i>January 2010</i><br />
+  The Kentucky Department of Fish and Wildlife Resources&rsquo; Center
+  for Mollusk Conservation is looking to add additional staff to
+  support our recovery efforts with freshwater mussels, specifically
+  with the Fat Pocketbook (<i>Potamilus capax</i>). This position will
+  be listed as a &ldquo;Fisheries Biologist II&rdquo;, because the
+  state of KY has no specific classifications for biologists that
+  study mussels.  To see more specific job details or to apply, go to
   <a href='http://personnel.ky.gov/default.htm'>http://personnel.ky.gov/default.htm</a>
   and complete an online application.
-  If you have any other questions about the job please contact Dr. Monte McGregor at
+  If you have any other questions about the job please contact
+  Dr. Monte McGregor at
   <a href='mailto:monte.mcgregor@ky.gov'>monte.mcgregor@ky.gov</a>.
-  The position will be posted until February 15, 2010.</td></tr>
-</table>
+  The position will be posted until February 15, 2010.</p></div>
 
-<table class='jobs'>
-  <tr><th><a name='sf'>San Francisco Public Utilities Commission</a></th></tr>
-  <tr><td><b>Biologist I/II</b></td></tr>
-  <tr><td><i>January 2010</i><br />
+<div class='job'><p
+  class='jobhead'><a name='sf'>San Francisco Public Utilities Commission</a></p>
+  <p class='job'><b>Biologist I/II</b></p>
+  <p class='job'><i>January 2010</i><br />
   Three postions are open at the PUC (posted on 26 January 2010):<br />
   2483 BIOLOGIST I/II (Deep Class) Fisheries, Wildlife, or Botany Specialty<br />
   &nbsp;&nbsp;&nbsp;<a href='http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/939'>http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/939</a><br />
   2483 BIOLOGIST I/II (Deep Class) Limnology Specialty<br />
   &nbsp;&nbsp;&nbsp;<a href='http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/940'>http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/940</a><br />
   2483 BIOLOGIST I/II (Deep Class) Marine Taxonomy Specialty<br />
-  &nbsp;&nbsp;&nbsp;<a href='http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938'>http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938</a><br /></td></tr>
-</table>
+  &nbsp;&nbsp;&nbsp;<a href='http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938'>http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938</a></p></div>
 
-<table class='jobs'>
-  <tr><th><a name='sio'>Scripps Institution of Oceanography</a></th></tr>
-  <tr><td><b>Assistant Museum Scientist</b></td></tr>
-
-  <tr><td><i>December 2009</i> Assistant Museum Scientist position with the Pelagic Invertebrates Collection of the Scripps Institution of Oceanography, U.C. San Diego.<br />
+<div class='job'><p
+  class='jobhead'><a name='sio'>Scripps Institution of Oceanography</a></p>
+  <p class='job'><b>Assistant Museum Scientist</b></p>
+  <p class='job'><i>December 2009</i><br />
+  Assistant Museum Scientist position
+  with the Pelagic Invertebrates Collection of the Scripps Institution of
+  Oceanography, U.C. San Diego.<br />
   <b>Description:</b><br />
   Under Curator supervision, maintain collections of whole zooplankton
   samples, identified specimens, sorted materials, and data
@@ -85,19 +87,18 @@ Please send listings to:</p>
   collections. Purchase equipment and supplies.<br />
   <b>Full Description:</b> <a href="https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=50431">https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=50431</a><br />
   <b>NOTE:</b> <i>The job will remain open until filled (i.e., it will
-   not close on 8 Dec., as indicated online).</td></tr>
-   <tr><td>Mark D. Ohman<br />
+   not close on 8 Dec., as indicated online).</i><br />
+   <b>Mark D. Ohman</b><br />
    Professor, and Curator of Pelagic Invertebrates<br />
    Scripps Institution of Oceanography<br />
    University of California, San Diego<br />
-   La Jolla, CA 92093-0218</td></tr>
-</table>
+   La Jolla, CA 92093-0218</p></div>
 
-<table class='jobs'>
-  <tr><th><a name='healthebay'>Heal the Bay</a></th></tr>
-  <tr><td><b>Staff Scientist</b></td></tr>
-
-  <tr><td><i>December 2009</i> Heal the Bay is a nonprofit
+<div class='job'><p
+  class='jobhead'><a name='healthebay'>Heal the Bay</a></p>
+  <p class='job'><b>Staff Scientist</b></p>
+  <p class='job'><i>December 2009</i><br />
+  Heal the Bay is a nonprofit
   environmental organization dedicated to making Southern California
   coastal waters and watersheds, including the Santa Monica Bay, safe,
   healthy and clean through research, education, community action and
@@ -121,33 +122,29 @@ Please send listings to:</p>
   benefits.  The Staff Scientist reports to the Director of Coastal
   Resources.<br />
   <b>Functions Include:</b><br />
-  <ul>
-  <li>Work on science and policy projects or programs both as an individual and as part of a team;</li>
-  <li>Analyze and provide written comments on technical and policy issues and documents related to coastal resources and the land-sea interface; </li>
-  <li>Track specific science and policy issues at regional and state levels and ensure that deadlines are met for public comments and other products;</li>
-  <li>Represent Heal the Bay’s positions at public meetings, hearings and other forums;</li>
-  <li>Create and maintain relationships with government staff, advocacy groups, scientific researchers and other environmental stakeholders;</li>
-  <li>Work closely with other Heal the Bay staff on inter-departmental projects and programs;</li>
-  <li>Work closely with partner groups outside of Heal the Bay on key coastal resources issues;</li>
-  <li>Distill technical information into easily understandable written materials and oral presentations;</li>
-  <li>Help with grassroots organizing efforts to support our technical work on coastal issues;</li>
-  <li>Participate in weekly Science and Policy Department, weekly Staff meetings, and quarterly Science and Policy Committee Board meetings.</li>
-  </ul>
+  &raquo;&nbsp;Work on science and policy projects or programs both as an individual and as part of a team;<br />
+  &raquo;&nbsp;Analyze and provide written comments on technical and policy issues and documents related to coastal resources and the land-sea interface; <br />
+  &raquo;&nbsp;Track specific science and policy issues at regional and state levels and ensure that deadlines are met for public comments and other products;<br />
+  &raquo;&nbsp;Represent Heal the Bay’s positions at public meetings, hearings and other forums;<br />
+  &raquo;&nbsp;Create and maintain relationships with government staff, advocacy groups, scientific researchers and other environmental stakeholders;<br />
+  &raquo;&nbsp;Work closely with other Heal the Bay staff on inter-departmental projects and programs;<br />
+  &raquo;&nbsp;Work closely with partner groups outside of Heal the Bay on key coastal resources issues;<br />
+  &raquo;&nbsp;Distill technical information into easily understandable written materials and oral presentations;<br />
+  &raquo;&nbsp;Help with grassroots organizing efforts to support our technical work on coastal issues;<br />
+  &raquo;&nbsp;Participate in weekly Science and Policy Department, weekly Staff meetings, and quarterly Science and Policy Committee Board meetings.<br />
   <b>Experience and Skills Required:</b><br />
-  <ul>
-  <li>Passion for Heal the Bay’s mission;</li>
-  <li>Strong technical background in environmental science and marine biology, masters degree preferred;</li>
-  <li>Broad understanding of science, regulatory and policy issues relating to water quality and coastal resources, including the Marine Life Protection Act, Clean Water Act, Porter Cologne Act, Coastal Zone Management Act, California Coastal Act, CEQA and NEPA;</li>
-  <li>Excellent written and oral communication skills;</li>
-  <li>Strong grasp of environmental issues on the land-sea interface;</li>
-  <li>At least 2 years of work experience in the marine or coastal conservation field is preferred;</li>
-  <li>Ability to work under pressure and deadlines;</li>
-  <li>Excellent organizational and analytical skills;</li>
-  <li>Ability to work independently and cooperatively with colleagues;</li>
-  <li>Ability to work on multiple projects and meet deadlines;</li>
-  <li>Occasional evening and weekend work on Heal the Bay education/environmental programs is required;</li>
-  <li>Must love the ocean.</li>
-  </ul>
+  &raquo;&nbsp;Passion for Heal the Bay’s mission;<br />
+  &raquo;&nbsp;Strong technical background in environmental science and marine biology, masters degree preferred;<br />
+  &raquo;&nbsp;Broad understanding of science, regulatory and policy issues relating to water quality and coastal resources, including the Marine Life Protection Act, Clean Water Act, Porter Cologne Act, Coastal Zone Management Act, California Coastal Act, CEQA and NEPA;<br />
+  &raquo;&nbsp;Excellent written and oral communication skills;<br />
+  &raquo;&nbsp;Strong grasp of environmental issues on the land-sea interface;<br />
+  &raquo;&nbsp;At least 2 years of work experience in the marine or coastal conservation field is preferred;<br />
+  &raquo;&nbsp;Ability to work under pressure and deadlines;<br />
+  &raquo;&nbsp;Excellent organizational and analytical skills;<br />
+  &raquo;&nbsp;Ability to work independently and cooperatively with colleagues;<br />
+  &raquo;&nbsp;Ability to work on multiple projects and meet deadlines;<br />
+  &raquo;&nbsp;Occasional evening and weekend work on Heal the Bay education/environmental programs is required;<br />
+  &raquo;&nbsp;Must love the ocean.<br />
   <b>Application Information:</b><br />
   Salary of $40&ndash;45,000 based on experience, with full benefits. Heal
   the Bay is an equal opportunity employer and actively recruits to
@@ -155,16 +152,16 @@ Please send listings to:</p>
   Please send a cover letter and resume with salary requirements to:
   Please visit
   <a href='http://www.healthebay.org/jobs'>http://www.healthebay.org/jobs</a>
-  to e-mail cover letter and resume.  No calls please.</td></tr>
-</table>
+  to e-mail cover letter and resume.  No calls please.</p></div>
 
-<table class='jobs'>
-  <tr><th><a name='ost'>California Ocean Science Trust (OST)</a></th></tr>
-  <tr><td><b>Assistant Scientist, Marine Protected Areas
+<div class='job'><p
+  class='jobhead rsstitle'><a name='ost'>California Ocean Science Trust (OST)</a></p>
+  <p class='job rsstitle'><b>Assistant Scientist, Marine Protected Areas
           Monitoring Enterprise<br />
           Knowledge Manager, Marine Protected Areas
-          Monitoring Enterprise</b></td></tr>
-  <tr><td><i>4 Nov 2009</i> The California Ocean Science Trust (OST)
+          Monitoring Enterprise</b></p>
+  <p class='job rssdesc'><i>4 Nov 2009</i><br />
+       The California Ocean Science Trust (OST)
        is a nonprofit 501(c)(3) public benefit corporation established
        pursuant to the California Ocean Resources Stewardship Act of
        2000 to encourage coordinated, multi-agency, multi-institution
@@ -183,26 +180,25 @@ Please send listings to:</p>
        1, 2010.  Review of applications will begin January 4,
        2010.<br />Full position descriptions, which include application
        information, can be found at:
-       <a href="http://www.calost.org/monitoring_ent.html">http://www.calost.org/monitoring_ent.html</a>.</td></tr>
-</table>
+       <a href="http://www.calost.org/monitoring_ent.html">http://www.calost.org/monitoring_ent.html</a>.</p></div>
 
-<table class='jobs'>
-  <tr><th><a name='ecoanalysts'>EcoAnalysts</a></th></tr>
-  <tr><td><b>General marine taxonomist</b></td></tr>
-  <tr><td><i>18 Nov 2009</i> EcoAnalysts, Inc. has a need for a full-time
+<div class='job'><p
+  class='jobhead rsstitle'><a name='ecoanalysts'>EcoAnalysts</a></p>
+  <p class='job rsstitle'><b>General marine taxonomist</b></p>
+  <p class='job rssdesc'><i>18 Nov 2009</i><br />
+      EcoAnalysts, Inc. has a need for a full-time
       general marine taxonomist. We are searching for an individual
       who has experience with and enjoys marine taxonomy and who wants
       to be part of a successful team of aquatic scientists. For more
       information and application instructions, please visit our
       Careers Page on our website at
-      <a href="http://www.ecoanalysts.com">www.ecoanalysts.com</a>.</td></tr>
-  <tr><td class='smallsize'>Eric Torok<br />
+      <a href="http://www.ecoanalysts.com">www.ecoanalysts.com</a>.<br />
+      <i>Eric Torok</i><br />
       Human Resources Coordinator<br />
       1420 S. Blaine St., Suite 14<br />
       Moscow, ID 83843<br />
       208.882.2588 x72<br />
-      208.883.4288 fax</td></tr>
-</table>
+      208.883.4288 fax</p></div>
 
 <?php include("s_footer.php"); ?>
 </div><!-- end #page -->
