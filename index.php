@@ -63,9 +63,9 @@
      voucher vialing, and data entry happening on two parallel production setups.
      Come one, come all!!!</p>
 
-  <p class='hang'><b>Monday, 14 June 2010 9:30 AM - 3:30 PM</b><br />
+  <p class='hang rsstitle'><b>Monday, 14 June 2010 9:30 AM - 3:30 PM</b><br />
      <i>Photo Image II workshop</i> at City of San Diego</p>
-  <p class='indent smallsize'>Hands-on opportunity to work with CSD equipment.
+  <p class='indent smallsize rssdesc'>Hands-on opportunity to work with CSD equipment.
      continuation of image production and editing techniques.
      Co-Lead by Dan Ituarte and Nick Haring.</p>
 
@@ -84,9 +84,9 @@
      May 7&ndash;8, 2010 at California State University, Los Angeles, CA:
      <a href='http://scas.jsd.claremont.edu/'>http://scas.jsd.claremont.edu</a></p>
 
-  <p class='hang'><b>20&ndash;26 June 2010</b><br />
+  <p class='hang rsstitle'><b>20&ndash;26 June 2010</b><br />
      <i>10th International Polychaete Conference</i></p>
-  <p class='indent smallsize'>The 10th IPC meeting will be in Lecce, Italy:
+  <p class='indent smallsize rssdesc'>The 10th IPC meeting will be in Lecce, Italy:
      <a href='http://www.polychaeta.it/'>http://www.polychaeta.it</a></p>
 
   <p class='hang'><b>27 June &ndash; 1 July 2010</b><br />
