@@ -47,14 +47,15 @@
 
 <h2 class='hr'>Upcoming SCAMIT Meetings</h2>
 
-  <p class='hang rsstitle'><b>Monday, 12 April 2010 9:30 AM - 3:30 PM</b><br />
+  <p class='hang rsstitle'><a name='April12'><b>Monday,
+     12 April 2010 9:30 AM - 3:30 PM</b></a><br />
      <i>Polychaete literature review meeting</i> at NHMLAC</p>
   <p class='indent smallsize rssdesc'>May be changed to Bight&nbsp;&rsquo;08 review
      if additional problem taxa remain (or an additional Bight&nbsp;&rsquo;08 review
      meeting in April might be scheduled.</p>
 
-  <p class='hang rsstitle'><b>Monday, 24 May 2010
-     <span class='notedate'>9:00 AM</span> - <span class='notedate'>4:00 PM</span></b><br />
+  <p class='hang rsstitle'><a name='May24'><b>Monday, 24 May 2010
+     <span class='notedate'>9:00 AM</span> - <span class='notedate'>4:00 PM</span></b></a><br />
      <i>Barcoding taxonomic workshop</i> at LACSD</p>
   <p class='indent smallsize rssdesc'>We will be lab processing specimens
      for use in building the DNA
@@ -63,7 +64,8 @@
      voucher vialing, and data entry happening on two parallel production setups.
      Come one, come all!!!</p>
 
-  <p class='hang rsstitle'><b>Monday, 14 June 2010 9:30 AM - 3:30 PM</b><br />
+  <p class='hang rsstitle'><a name='June14'><b>Monday,
+     14 June 2010 9:30 AM - 3:30 PM</b></a><br />
      <i>Photo Image II workshop</i> at City of San Diego</p>
   <p class='indent smallsize rssdesc'>Hands-on opportunity to work with CSD equipment.
      continuation of image production and editing techniques.
@@ -78,21 +80,21 @@
 
 <h2 class='hronly'>Meetings of Interest</h2>
 
-  <p class='hang rsstitle'><b>7&ndash;8 May 2010</b><br />
+  <p class='hang rsstitle'><a name='mtgMay8'><b>7&ndash;8 May 2010</b></a><br />
      <i>Southern California Academy of Sciences</i></p>
   <p class='indent smallsize rssdesc'>The SCAS Annual Meeting will be
      May 7&ndash;8, 2010 at California State University, Los Angeles, CA:
      <a href='http://scas.jsd.claremont.edu/'>http://scas.jsd.claremont.edu</a></p>
 
-  <p class='hang rsstitle'><b>20&ndash;26 June 2010</b><br />
+  <p class='hang rsstitle'><a name='mtgJune20'><b>20&ndash;26 June 2010</b></a><br />
      <i>10th International Polychaete Conference</i></p>
   <p class='indent smallsize rssdesc'>The 10th IPC meeting will be in Lecce, Italy:
      <a href='http://www.polychaeta.it/'>http://www.polychaeta.it</a></p>
 
-  <p class='hang'><b>27 June &ndash; 1 July 2010</b><br />
+  <p class='hang rsstitle'><a name='mtgJune27'><b>27 June &ndash; 1 July 2010</b></a><br />
      <i>Western Society of Malacologists</i> and
      <i>American Society of Malacologists</i></p>
-  <p class='indent smallsize'>The 43rd Annual Meeting of the WSM will be held
+  <p class='indent smallsize rssdesc'>The 43rd Annual Meeting of the WSM will be held
      jointly with the 76th Annual Meeting of the American Society of Malacologists
      at San Diego State University:
      <a href='http://biology.fullerton.edu/wsm/conferences.html'>http://biology.fullerton.edu/wsm/conferences.html</a></p>

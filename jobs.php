@@ -34,10 +34,10 @@ Please send listings to:</p>
 </dl>
 
 <div class='job'><p
-     class='jobhead'><a name='ky'>Kentucky Department of Fish and
+     class='jobhead rsstitle'><a name='ky'>Kentucky Department of Fish and
      Wildlife Resources&rsquo; Center for Mollusk Conservation</a></p>
-  <p class='job'><b>Fisheries Biologist II</b></p>
-  <p class='job'><i>January 2010</i><br />
+  <p class='job rsstitle'><b>Fisheries Biologist II</b></p>
+  <p class='job rssdesc'><i>January 2010</i><br />
   The Kentucky Department of Fish and Wildlife Resources&rsquo; Center
   for Mollusk Conservation is looking to add additional staff to
   support our recovery efforts with freshwater mussels, specifically
@@ -53,9 +53,9 @@ Please send listings to:</p>
   The position will be posted until February 15, 2010.</p></div>
 
 <div class='job'><p
-  class='jobhead'><a name='sf'>San Francisco Public Utilities Commission</a></p>
-  <p class='job'><b>Biologist I/II</b></p>
-  <p class='job'><i>January 2010</i><br />
+  class='jobhead rsstitle'><a name='sf'>San Francisco Public Utilities Commission</a></p>
+  <p class='job rsstitle'><b>Biologist I/II</b></p>
+  <p class='job rssdesc'><i>January 2010</i><br />
   Three postions are open at the PUC (posted on 26 January 2010):<br />
   2483 BIOLOGIST I/II (Deep Class) Fisheries, Wildlife, or Botany Specialty<br />
   &nbsp;&nbsp;&nbsp;<a href='http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/939'>http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/939</a><br />
@@ -65,9 +65,9 @@ Please send listings to:</p>
   &nbsp;&nbsp;&nbsp;<a href='http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938'>http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938</a></p></div>
 
 <div class='job'><p
-  class='jobhead'><a name='sio'>Scripps Institution of Oceanography</a></p>
-  <p class='job'><b>Assistant Museum Scientist</b></p>
-  <p class='job'><i>December 2009</i><br />
+  class='jobhead rsstitle'><a name='sio'>Scripps Institution of Oceanography</a></p>
+  <p class='job rsstitle'><b>Assistant Museum Scientist</b></p>
+  <p class='job rssdesc'><i>December 2009</i><br />
   Assistant Museum Scientist position
   with the Pelagic Invertebrates Collection of the Scripps Institution of
   Oceanography, U.C. San Diego.<br />
@@ -95,9 +95,9 @@ Please send listings to:</p>
    La Jolla, CA 92093-0218</p></div>
 
 <div class='job'><p
-  class='jobhead'><a name='healthebay'>Heal the Bay</a></p>
-  <p class='job'><b>Staff Scientist</b></p>
-  <p class='job'><i>December 2009</i><br />
+  class='jobhead rsstitle'><a name='healthebay'>Heal the Bay</a></p>
+  <p class='job rsstitle'><b>Staff Scientist</b></p>
+  <p class='job rssdesc'><i>December 2009</i><br />
   Heal the Bay is a nonprofit
   environmental organization dedicated to making Southern California
   coastal waters and watersheds, including the Santa Monica Bay, safe,
