@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns="http://purl.org/rss/1.0/"
+ xmlns:content="http://purl.org/rss/1.0/modules/content/"
+ xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:syn="http://purl.org/rss/1.0/modules/syndication/"
+ xmlns:admin="http://webns.net/mvcb/"
+>
+
+<channel rdf:about="">
+<title>SCAMIT News and Events</title>
+<link></link>
+<description>Southern California Association of Marine Invertebrate Taxonomists</description>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#ky" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#sf" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#sio" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#healthebay" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#ost" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#ecoanalysts" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.php#April12" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.php#May24" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.php#June14" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.php#mtgMay8" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.php#mtgJune20" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.php#mtgJune27" />
+ </rdf:Seq>
+</items>
+</channel>
+<item rdf:about="http://www.scamit.org/jobs.php#ky">
+<title>&#x3C;a name=&#x22;ky&#x22;&#x3E;Kentucky Department of Fish and Wildlife Resources&#x26;rsquo; Center for Mollusk Conservation&#x3C;/a&#x3E;
+&#x3C;b&#x3E;Fisheries Biologist II&#x3C;/b&#x3E;
+</title>
+<link>http://www.scamit.org/jobs.php#ky</link>
+<description>&#x3C;i&#x3E;January 2010&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+ The Kentucky Department of Fish and Wildlife Resources&#x2019; Center for Mollusk Conservation is looking to add additional staff to support our recovery efforts with freshwater mussels, specifically with the Fat Pocketbook (&#x3C;i&#x3E;Potamilus capax&#x3C;/i&#x3E;
+). This position will be listed as a &#x201C;Fisheries Biologist II&#x201D;, because the state of KY has no specific classifications for biologists that study mussels. To see more specific job details or to apply, go to &#x3C;a href=&#x22;http://personnel.ky.gov/default.htm&#x22;&#x3E;http://personnel.ky.gov/default.htm&#x3C;/a&#x3E;
+ and complete an online application. If you have any other questions about the job please contact Dr. Monte McGregor at &#x3C;a href=&#x22;mailto:monte.mcgregor@ky.gov&#x22;&#x3E;monte.mcgregor@ky.gov&#x3C;/a&#x3E;
+. The position will be posted until February 15, 2010.</description>
+</item>
+<item rdf:about="http://www.scamit.org/jobs.php#sf">
+<title>&#x3C;a name=&#x22;sf&#x22;&#x3E;San Francisco Public Utilities Commission&#x3C;/a&#x3E;
+&#x3C;b&#x3E;Biologist I/II&#x3C;/b&#x3E;
+</title>
+<link>http://www.scamit.org/jobs.php#sf</link>
+<description>&#x3C;i&#x3E;January 2010&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+ Three postions are open at the PUC (posted on 26 January 2010):&#x3C;br /&#x3E;
+ 2483 BIOLOGIST I/II (Deep Class) Fisheries, Wildlife, or Botany Specialty&#x3C;br /&#x3E;
+ &#xA0;&#xA0;&#xA0;&#x3C;a href=&#x22;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/939&#x22;&#x3E;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/939&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+ 2483 BIOLOGIST I/II (Deep Class) Limnology Specialty&#x3C;br /&#x3E;
+ &#xA0;&#xA0;&#xA0;&#x3C;a href=&#x22;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/940&#x22;&#x3E;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/940&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+ 2483 BIOLOGIST I/II (Deep Class) Marine Taxonomy Specialty&#x3C;br /&#x3E;
+ &#xA0;&#xA0;&#xA0;&#x3C;a href=&#x22;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938&#x22;&#x3E;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938&#x3C;/a&#x3E;
+</description>
+</item>
+<item rdf:about="http://www.scamit.org/jobs.php#sio">
+<title>&#x3C;a name=&#x22;sio&#x22;&#x3E;Scripps Institution of Oceanography&#x3C;/a&#x3E;
+&#x3C;b&#x3E;Assistant Museum Scientist&#x3C;/b&#x3E;
+</title>
+<link>http://www.scamit.org/jobs.php#sio</link>
+<description>&#x3C;i&#x3E;December 2009&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+ Assistant Museum Scientist position with the Pelagic Invertebrates Collection of the Scripps Institution of Oceanography, U.C. San Diego.&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Description:&#x3C;/b&#x3E;
+&#x3C;br /&#x3E;
+ Under Curator supervision, maintain collections of whole zooplankton samples, identified specimens, sorted materials, and data records. Develop and maintain computer databases of holdings. Process approved loan requests. Supervise and train visitors, students, volunteers and limited employees. Advise researchers and graduate students on the best techniques and selection of material. Prepare exhibits and make presentations to the public. Assist with grant proposal preparation and special projects. Sort, identify and carry out morphometric analysis of zooplankton. Coordinate cruise preparations. Expand and improve systematic sortings and prepare digital catalogs and other summaries of holdings. Make recommendations to Curator for expanding collections. Purchase equipment and supplies.&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Full Description:&#x3C;/b&#x3E;
+ &#x3C;a href=&#x22;https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=50431&#x22;&#x3E;https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=50431&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;b&#x3E;NOTE:&#x3C;/b&#x3E;
+ &#x3C;i&#x3E;The job will remain open until filled (i.e., it will not close on 8 Dec., as indicated online).&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Mark D. Ohman&#x3C;/b&#x3E;
+&#x3C;br /&#x3E;
+ Professor, and Curator of Pelagic Invertebrates&#x3C;br /&#x3E;
+ Scripps Institution of Oceanography&#x3C;br /&#x3E;
+ University of California, San Diego&#x3C;br /&#x3E;
+ La Jolla, CA 92093-0218</description>
+</item>
+<item rdf:about="http://www.scamit.org/jobs.php#healthebay">
+<title>&#x3C;a name=&#x22;healthebay&#x22;&#x3E;Heal the Bay&#x3C;/a&#x3E;
+&#x3C;b&#x3E;Staff Scientist&#x3C;/b&#x3E;
+</title>
+<link>http://www.scamit.org/jobs.php#healthebay</link>
+<description>&#x3C;i&#x3E;December 2009&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+ Heal the Bay is a nonprofit environmental organization dedicated to making Southern California coastal waters and watersheds, including the Santa Monica Bay, safe, healthy and clean through research, education, community action and advocacy.&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Position Summary:&#x3C;/b&#x3E;
+&#x3C;br /&#x3E;
+ The Staff Scientist is responsible for marine and coastal resources related technical and policy projects for the organization. This consists of providing written comments and testimony on various issues including the impacts of power plants and desalination on marine resources; establishment of marine protected areas; local coastal planning; coastal aquatic resource protection including wetlands and riparian habitat; and coastal industrial uses. The Staff Scientist will also help forward ongoing coastal resources projects, such as the implementation of marine protected areas, and advance policy recommendations before various local and state agencies. The Staff Scientist will also represent Heal the Bay at public and stakeholder group meetings. This position requires a strong technical background, and experience in the policy arena is preferred. Candidates must be motivated, articulate and strong problem solvers. This is a full time salaried position with health, dental, vision and vacation benefits. The Staff Scientist reports to the Director of Coastal Resources.&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Functions Include:&#x3C;/b&#x3E;
+&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Work on science and policy projects or programs both as an individual and as part of a team;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Analyze and provide written comments on technical and policy issues and documents related to coastal resources and the land-sea interface; &#x3C;br /&#x3E;
+ &#xBB;&#xA0;Track specific science and policy issues at regional and state levels and ensure that deadlines are met for public comments and other products;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Represent Heal the Bay&#xE2;&#x80;&#x99;s positions at public meetings, hearings and other forums;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Create and maintain relationships with government staff, advocacy groups, scientific researchers and other environmental stakeholders;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Work closely with other Heal the Bay staff on inter-departmental projects and programs;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Work closely with partner groups outside of Heal the Bay on key coastal resources issues;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Distill technical information into easily understandable written materials and oral presentations;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Help with grassroots organizing efforts to support our technical work on coastal issues;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Participate in weekly Science and Policy Department, weekly Staff meetings, and quarterly Science and Policy Committee Board meetings.&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Experience and Skills Required:&#x3C;/b&#x3E;
+&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Passion for Heal the Bay&#xE2;&#x80;&#x99;s mission;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Strong technical background in environmental science and marine biology, masters degree preferred;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Broad understanding of science, regulatory and policy issues relating to water quality and coastal resources, including the Marine Life Protection Act, Clean Water Act, Porter Cologne Act, Coastal Zone Management Act, California Coastal Act, CEQA and NEPA;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Excellent written and oral communication skills;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Strong grasp of environmental issues on the land-sea interface;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;At least 2 years of work experience in the marine or coastal conservation field is preferred;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Ability to work under pressure and deadlines;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Excellent organizational and analytical skills;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Ability to work independently and cooperatively with colleagues;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Ability to work on multiple projects and meet deadlines;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Occasional evening and weekend work on Heal the Bay education/environmental programs is required;&#x3C;br /&#x3E;
+ &#xBB;&#xA0;Must love the ocean.&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Application Information:&#x3C;/b&#x3E;
+&#x3C;br /&#x3E;
+ Salary of $40&#x2013;45,000 based on experience, with full benefits. Heal the Bay is an equal opportunity employer and actively recruits to promote diversity in our workforce.&#x3C;br /&#x3E;
+ Please send a cover letter and resume with salary requirements to: Please visit &#x3C;a href=&#x22;http://www.healthebay.org/jobs&#x22;&#x3E;http://www.healthebay.org/jobs&#x3C;/a&#x3E;
+ to e-mail cover letter and resume. No calls please.</description>
+</item>
+<item rdf:about="http://www.scamit.org/jobs.php#ost">
+<title>&#x3C;a name=&#x22;ost&#x22;&#x3E;California Ocean Science Trust (OST)&#x3C;/a&#x3E;
+&#x3C;b&#x3E;Assistant Scientist, Marine Protected Areas Monitoring Enterprise&#x3C;br /&#x3E; Knowledge Manager, Marine Protected Areas Monitoring Enterprise&#x3C;/b&#x3E;
+</title>
+<link>http://www.scamit.org/jobs.php#ost</link>
+<description>&#x3C;i&#x3E;4 Nov 2009&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+ The California Ocean Science Trust (OST) is a nonprofit 501(c)(3) public benefit corporation established pursuant to the California Ocean Resources Stewardship Act of 2000 to encourage coordinated, multi-agency, multi-institution approaches to translating ocean science to management and policy applications. The Marine Protected Areas Monitoring Enterprise was launched in 2007 under the auspices of the OST to lead development of efficient, cost-effective monitoring of the statewide marine protected areas (MPA) network being established under the Marine Life Protection Act. The MPA Monitoring Enterprise, which is supported by the Ocean Protection Council and works in partnership with the Department of Fish and Game, has two new job openings, for an Assistant Scientist and a Knowledge Manager. Both positions will be based in Oakland, California, in the offices of the OST. Start date for both positions is as soon as possible, preferably by March 1, 2010. Review of applications will begin January 4, 2010.&#x3C;br /&#x3E;
+Full position descriptions, which include application information, can be found at: &#x3C;a href=&#x22;http://www.calost.org/monitoring_ent.html&#x22;&#x3E;http://www.calost.org/monitoring_ent.html&#x3C;/a&#x3E;
+.</description>
+</item>
+<item rdf:about="http://www.scamit.org/jobs.php#ecoanalysts">
+<title>&#x3C;a name=&#x22;ecoanalysts&#x22;&#x3E;EcoAnalysts&#x3C;/a&#x3E;
+&#x3C;b&#x3E;General marine taxonomist&#x3C;/b&#x3E;
+</title>
+<link>http://www.scamit.org/jobs.php#ecoanalysts</link>
+<description>&#x3C;i&#x3E;18 Nov 2009&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+ EcoAnalysts, Inc. has a need for a full-time general marine taxonomist. We are searching for an individual who has experience with and enjoys marine taxonomy and who wants to be part of a successful team of aquatic scientists. For more information and application instructions, please visit our Careers Page on our website at &#x3C;a href=&#x22;http://www.ecoanalysts.com&#x22;&#x3E;www.ecoanalysts.com&#x3C;/a&#x3E;
+.&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Eric Torok&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+ Human Resources Coordinator&#x3C;br /&#x3E;
+ 1420 S. Blaine St., Suite 14&#x3C;br /&#x3E;
+ Moscow, ID 83843&#x3C;br /&#x3E;
+ 208.882.2588 x72&#x3C;br /&#x3E;
+ 208.883.4288 fax</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.php#April12">
+<title>&#x3C;a name=&#x22;April12&#x22;&#x3E;&#x3C;b&#x3E;Monday, 12 April 2010 9:30 AM - 3:30 PM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Polychaete literature review meeting&#x3C;/i&#x3E;
+ at NHMLAC</title>
+<link>http://www.scamit.org/index.php#April12</link>
+<description>May be changed to Bight&#xA0;&#x2019;08 review if additional problem taxa remain (or an additional Bight&#xA0;&#x2019;08 review meeting in April might be scheduled.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.php#May24">
+<title>&#x3C;a name=&#x22;May24&#x22;&#x3E;&#x3C;b&#x3E;Monday, 24 May 2010 &#x3C;span class=&#x22;notedate&#x22;&#x3E;9:00 AM&#x3C;/span&#x3E; - &#x3C;span class=&#x22;notedate&#x22;&#x3E;4:00 PM&#x3C;/span&#x3E;&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Barcoding taxonomic workshop&#x3C;/i&#x3E;
+ at LACSD</title>
+<link>http://www.scamit.org/index.php#May24</link>
+<description>We will be lab processing specimens for use in building the DNA barcode library of Southern California benthic invertebrates. This will be a fun day with sorting, taxonomy, photography, DNA processing, voucher vialing, and data entry happening on two parallel production setups. Come one, come all!!!</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.php#June14">
+<title>&#x3C;a name=&#x22;June14&#x22;&#x3E;&#x3C;b&#x3E;Monday, 14 June 2010 9:30 AM - 3:30 PM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Photo Image II workshop&#x3C;/i&#x3E;
+ at City of San Diego</title>
+<link>http://www.scamit.org/index.php#June14</link>
+<description>Hands-on opportunity to work with CSD equipment. continuation of image production and editing techniques. Co-Lead by Dan Ituarte and Nick Haring.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.php#mtgMay8">
+<title>&#x3C;a name=&#x22;mtgMay8&#x22;&#x3E;&#x3C;b&#x3E;7&#x26;ndash;8 May 2010&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Southern California Academy of Sciences&#x3C;/i&#x3E;
+</title>
+<link>http://www.scamit.org/index.php#mtgMay8</link>
+<description>The SCAS Annual Meeting will be May 7&#x2013;8, 2010 at California State University, Los Angeles, CA: &#x3C;a href=&#x22;http://scas.jsd.claremont.edu/&#x22;&#x3E;http://scas.jsd.claremont.edu&#x3C;/a&#x3E;
+</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.php#mtgJune20">
+<title>&#x3C;a name=&#x22;mtgJune20&#x22;&#x3E;&#x3C;b&#x3E;20&#x26;ndash;26 June 2010&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;10th International Polychaete Conference&#x3C;/i&#x3E;
+</title>
+<link>http://www.scamit.org/index.php#mtgJune20</link>
+<description>The 10th IPC meeting will be in Lecce, Italy: &#x3C;a href=&#x22;http://www.polychaeta.it/&#x22;&#x3E;http://www.polychaeta.it&#x3C;/a&#x3E;
+</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.php#mtgJune27">
+<title>&#x3C;a name=&#x22;mtgJune27&#x22;&#x3E;&#x3C;b&#x3E;27 June &#x26;ndash; 1 July 2010&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Western Society of Malacologists&#x3C;/i&#x3E;
+ and &#x3C;i&#x3E;American Society of Malacologists&#x3C;/i&#x3E;
+</title>
+<link>http://www.scamit.org/index.php#mtgJune27</link>
+<description>The 43rd Annual Meeting of the WSM will be held jointly with the 76th Annual Meeting of the American Society of Malacologists at San Diego State University: &#x3C;a href=&#x22;http://biology.fullerton.edu/wsm/conferences.html&#x22;&#x3E;http://biology.fullerton.edu/wsm/conferences.html&#x3C;/a&#x3E;
+</description>
+</item>
+</rdf:RDF>
