@@ -16,26 +16,41 @@
 <description>Southern California Association of Marine Invertebrate Taxonomists</description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#ky" />
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#sf" />
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#sio" />
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#healthebay" />
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#ost" />
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.php#ecoanalysts" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.php#April12" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.php#May24" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.php#June14" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.php#mtgMay8" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.php#mtgJune20" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.php#mtgJune27" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#la" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ky" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#sf" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#sio" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#healthebay" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ost" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#April12" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#May24" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#June14" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#mtgMay8" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#mtgJune20" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#mtgJune27" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.scamit.org/jobs.php#ky">
+<item rdf:about="http://www.scamit.org/jobs.html#la">
+<title>&#x3C;a name=&#x22;la&#x22;&#x3E;Senior Laboratory Technician&#x26;mdash;SCUBA, Joint Water Pollution Control Plant, Carson&#x3C;/a&#x3E;
+</title>
+<link>http://www.scamit.org/jobs.html#la</link>
+<description>&#x3C;i&#x3E;March 30 &#x26;ndash; April 07, 2010&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Location:&#x3C;/b&#x3E;
+ Technical Services Department, Water Quality and Soils Engineering Section, Ocean Monitoring Group, Marine Biology Laboratory, Joint Water Pollution Control Plant, Carson&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Essential Functions:&#x3C;/b&#x3E;
+ Leads and participates in a variety of routine and complex non-standardized chemical, biological, or microbiological tests and analysis of samples from treatment plant influents, effluents, receiving waters, solid wastes, and other sources.&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Full Details:&#x3C;/b&#x3E;
+ &#x3C;a href=&#x22;http://agency.governmentjobs.com/LACSD/default.cfm?action=viewjob&#x26;amp;JobID=218494&#x22;&#x3E;&#x3C;i&#x3E;Job posting via lacsd.org&#x3C;/i&#x3E;&#x3C;/a&#x3E;
+.</description>
+</item>
+<item rdf:about="http://www.scamit.org/jobs.html#ky">
 <title>&#x3C;a name=&#x22;ky&#x22;&#x3E;Kentucky Department of Fish and Wildlife Resources&#x26;rsquo; Center for Mollusk Conservation&#x3C;/a&#x3E;
 &#x3C;b&#x3E;Fisheries Biologist II&#x3C;/b&#x3E;
 </title>
-<link>http://www.scamit.org/jobs.php#ky</link>
+<link>http://www.scamit.org/jobs.html#ky</link>
 <description>&#x3C;i&#x3E;January 2010&#x3C;/i&#x3E;
 &#x3C;br /&#x3E;
  The Kentucky Department of Fish and Wildlife Resources&#x2019; Center for Mollusk Conservation is looking to add additional staff to support our recovery efforts with freshwater mussels, specifically with the Fat Pocketbook (&#x3C;i&#x3E;Potamilus capax&#x3C;/i&#x3E;
@@ -43,11 +58,11 @@
  and complete an online application. If you have any other questions about the job please contact Dr. Monte McGregor at &#x3C;a href=&#x22;mailto:monte.mcgregor@ky.gov&#x22;&#x3E;monte.mcgregor@ky.gov&#x3C;/a&#x3E;
 . The position will be posted until February 15, 2010.</description>
 </item>
-<item rdf:about="http://www.scamit.org/jobs.php#sf">
+<item rdf:about="http://www.scamit.org/jobs.html#sf">
 <title>&#x3C;a name=&#x22;sf&#x22;&#x3E;San Francisco Public Utilities Commission&#x3C;/a&#x3E;
 &#x3C;b&#x3E;Biologist I/II&#x3C;/b&#x3E;
 </title>
-<link>http://www.scamit.org/jobs.php#sf</link>
+<link>http://www.scamit.org/jobs.html#sf</link>
 <description>&#x3C;i&#x3E;January 2010&#x3C;/i&#x3E;
 &#x3C;br /&#x3E;
  Three postions are open at the PUC (posted on 26 January 2010):&#x3C;br /&#x3E;
@@ -61,11 +76,11 @@
  &#xA0;&#xA0;&#xA0;&#x3C;a href=&#x22;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938&#x22;&#x3E;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938&#x3C;/a&#x3E;
 </description>
 </item>
-<item rdf:about="http://www.scamit.org/jobs.php#sio">
+<item rdf:about="http://www.scamit.org/jobs.html#sio">
 <title>&#x3C;a name=&#x22;sio&#x22;&#x3E;Scripps Institution of Oceanography&#x3C;/a&#x3E;
 &#x3C;b&#x3E;Assistant Museum Scientist&#x3C;/b&#x3E;
 </title>
-<link>http://www.scamit.org/jobs.php#sio</link>
+<link>http://www.scamit.org/jobs.html#sio</link>
 <description>&#x3C;i&#x3E;December 2009&#x3C;/i&#x3E;
 &#x3C;br /&#x3E;
  Assistant Museum Scientist position with the Pelagic Invertebrates Collection of the Scripps Institution of Oceanography, U.C. San Diego.&#x3C;br /&#x3E;
@@ -85,11 +100,11 @@
  University of California, San Diego&#x3C;br /&#x3E;
  La Jolla, CA 92093-0218</description>
 </item>
-<item rdf:about="http://www.scamit.org/jobs.php#healthebay">
+<item rdf:about="http://www.scamit.org/jobs.html#healthebay">
 <title>&#x3C;a name=&#x22;healthebay&#x22;&#x3E;Heal the Bay&#x3C;/a&#x3E;
 &#x3C;b&#x3E;Staff Scientist&#x3C;/b&#x3E;
 </title>
-<link>http://www.scamit.org/jobs.php#healthebay</link>
+<link>http://www.scamit.org/jobs.html#healthebay</link>
 <description>&#x3C;i&#x3E;December 2009&#x3C;/i&#x3E;
 &#x3C;br /&#x3E;
  Heal the Bay is a nonprofit environmental organization dedicated to making Southern California coastal waters and watersheds, including the Santa Monica Bay, safe, healthy and clean through research, education, community action and advocacy.&#x3C;br /&#x3E;
@@ -128,22 +143,22 @@
  Please send a cover letter and resume with salary requirements to: Please visit &#x3C;a href=&#x22;http://www.healthebay.org/jobs&#x22;&#x3E;http://www.healthebay.org/jobs&#x3C;/a&#x3E;
  to e-mail cover letter and resume. No calls please.</description>
 </item>
-<item rdf:about="http://www.scamit.org/jobs.php#ost">
+<item rdf:about="http://www.scamit.org/jobs.html#ost">
 <title>&#x3C;a name=&#x22;ost&#x22;&#x3E;California Ocean Science Trust (OST)&#x3C;/a&#x3E;
 &#x3C;b&#x3E;Assistant Scientist, Marine Protected Areas Monitoring Enterprise&#x3C;br /&#x3E; Knowledge Manager, Marine Protected Areas Monitoring Enterprise&#x3C;/b&#x3E;
 </title>
-<link>http://www.scamit.org/jobs.php#ost</link>
+<link>http://www.scamit.org/jobs.html#ost</link>
 <description>&#x3C;i&#x3E;4 Nov 2009&#x3C;/i&#x3E;
 &#x3C;br /&#x3E;
  The California Ocean Science Trust (OST) is a nonprofit 501(c)(3) public benefit corporation established pursuant to the California Ocean Resources Stewardship Act of 2000 to encourage coordinated, multi-agency, multi-institution approaches to translating ocean science to management and policy applications. The Marine Protected Areas Monitoring Enterprise was launched in 2007 under the auspices of the OST to lead development of efficient, cost-effective monitoring of the statewide marine protected areas (MPA) network being established under the Marine Life Protection Act. The MPA Monitoring Enterprise, which is supported by the Ocean Protection Council and works in partnership with the Department of Fish and Game, has two new job openings, for an Assistant Scientist and a Knowledge Manager. Both positions will be based in Oakland, California, in the offices of the OST. Start date for both positions is as soon as possible, preferably by March 1, 2010. Review of applications will begin January 4, 2010.&#x3C;br /&#x3E;
 Full position descriptions, which include application information, can be found at: &#x3C;a href=&#x22;http://www.calost.org/monitoring_ent.html&#x22;&#x3E;http://www.calost.org/monitoring_ent.html&#x3C;/a&#x3E;
 .</description>
 </item>
-<item rdf:about="http://www.scamit.org/jobs.php#ecoanalysts">
+<item rdf:about="http://www.scamit.org/jobs.html#ecoanalysts">
 <title>&#x3C;a name=&#x22;ecoanalysts&#x22;&#x3E;EcoAnalysts&#x3C;/a&#x3E;
 &#x3C;b&#x3E;General marine taxonomist&#x3C;/b&#x3E;
 </title>
-<link>http://www.scamit.org/jobs.php#ecoanalysts</link>
+<link>http://www.scamit.org/jobs.html#ecoanalysts</link>
 <description>&#x3C;i&#x3E;18 Nov 2009&#x3C;/i&#x3E;
 &#x3C;br /&#x3E;
  EcoAnalysts, Inc. has a need for a full-time general marine taxonomist. We are searching for an individual who has experience with and enjoys marine taxonomy and who wants to be part of a successful team of aquatic scientists. For more information and application instructions, please visit our Careers Page on our website at &#x3C;a href=&#x22;http://www.ecoanalysts.com&#x22;&#x3E;www.ecoanalysts.com&#x3C;/a&#x3E;
@@ -156,55 +171,55 @@ Full position descriptions, which include application information, can be found 
  208.882.2588 x72&#x3C;br /&#x3E;
  208.883.4288 fax</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.php#April12">
+<item rdf:about="http://www.scamit.org/index.html#April12">
 <title>&#x3C;a name=&#x22;April12&#x22;&#x3E;&#x3C;b&#x3E;Monday, 12 April 2010 9:30 AM - 3:30 PM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;Polychaete literature review meeting&#x3C;/i&#x3E;
  at NHMLAC</title>
-<link>http://www.scamit.org/index.php#April12</link>
+<link>http://www.scamit.org/index.html#April12</link>
 <description>May be changed to Bight&#xA0;&#x2019;08 review if additional problem taxa remain (or an additional Bight&#xA0;&#x2019;08 review meeting in April might be scheduled.</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.php#May24">
+<item rdf:about="http://www.scamit.org/index.html#May24">
 <title>&#x3C;a name=&#x22;May24&#x22;&#x3E;&#x3C;b&#x3E;Monday, 24 May 2010 &#x3C;span class=&#x22;notedate&#x22;&#x3E;9:00 AM&#x3C;/span&#x3E; - &#x3C;span class=&#x22;notedate&#x22;&#x3E;4:00 PM&#x3C;/span&#x3E;&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;Barcoding taxonomic workshop&#x3C;/i&#x3E;
  at LACSD</title>
-<link>http://www.scamit.org/index.php#May24</link>
+<link>http://www.scamit.org/index.html#May24</link>
 <description>We will be lab processing specimens for use in building the DNA barcode library of Southern California benthic invertebrates. This will be a fun day with sorting, taxonomy, photography, DNA processing, voucher vialing, and data entry happening on two parallel production setups. Come one, come all!!!</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.php#June14">
+<item rdf:about="http://www.scamit.org/index.html#June14">
 <title>&#x3C;a name=&#x22;June14&#x22;&#x3E;&#x3C;b&#x3E;Monday, 14 June 2010 9:30 AM - 3:30 PM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;Photo Image II workshop&#x3C;/i&#x3E;
  at City of San Diego</title>
-<link>http://www.scamit.org/index.php#June14</link>
+<link>http://www.scamit.org/index.html#June14</link>
 <description>Hands-on opportunity to work with CSD equipment. continuation of image production and editing techniques. Co-Lead by Dan Ituarte and Nick Haring.</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.php#mtgMay8">
+<item rdf:about="http://www.scamit.org/index.html#mtgMay8">
 <title>&#x3C;a name=&#x22;mtgMay8&#x22;&#x3E;&#x3C;b&#x3E;7&#x26;ndash;8 May 2010&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;Southern California Academy of Sciences&#x3C;/i&#x3E;
 </title>
-<link>http://www.scamit.org/index.php#mtgMay8</link>
+<link>http://www.scamit.org/index.html#mtgMay8</link>
 <description>The SCAS Annual Meeting will be May 7&#x2013;8, 2010 at California State University, Los Angeles, CA: &#x3C;a href=&#x22;http://scas.jsd.claremont.edu/&#x22;&#x3E;http://scas.jsd.claremont.edu&#x3C;/a&#x3E;
 </description>
 </item>
-<item rdf:about="http://www.scamit.org/index.php#mtgJune20">
+<item rdf:about="http://www.scamit.org/index.html#mtgJune20">
 <title>&#x3C;a name=&#x22;mtgJune20&#x22;&#x3E;&#x3C;b&#x3E;20&#x26;ndash;26 June 2010&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;10th International Polychaete Conference&#x3C;/i&#x3E;
 </title>
-<link>http://www.scamit.org/index.php#mtgJune20</link>
+<link>http://www.scamit.org/index.html#mtgJune20</link>
 <description>The 10th IPC meeting will be in Lecce, Italy: &#x3C;a href=&#x22;http://www.polychaeta.it/&#x22;&#x3E;http://www.polychaeta.it&#x3C;/a&#x3E;
 </description>
 </item>
-<item rdf:about="http://www.scamit.org/index.php#mtgJune27">
+<item rdf:about="http://www.scamit.org/index.html#mtgJune27">
 <title>&#x3C;a name=&#x22;mtgJune27&#x22;&#x3E;&#x3C;b&#x3E;27 June &#x26;ndash; 1 July 2010&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;Western Society of Malacologists&#x3C;/i&#x3E;
  and &#x3C;i&#x3E;American Society of Malacologists&#x3C;/i&#x3E;
 </title>
-<link>http://www.scamit.org/index.php#mtgJune27</link>
+<link>http://www.scamit.org/index.html#mtgJune27</link>
 <description>The 43rd Annual Meeting of the WSM will be held jointly with the 76th Annual Meeting of the American Society of Malacologists at San Diego State University: &#x3C;a href=&#x22;http://biology.fullerton.edu/wsm/conferences.html&#x22;&#x3E;http://biology.fullerton.edu/wsm/conferences.html&#x3C;/a&#x3E;
 </description>
 </item>

@@ -1,3 +1,16 @@
+# Two options below for .html files running through PHP
+# (uncomment only one option)
+
+# PHP as module (standard mod_php in Apache)
+<FilesMatch \.html$>
+  SetHandler application/x-httpd-php
+</FilesMatch>
+
+# PHP as cgi (Dreamhost)
+# AddHandler php5-cgi .html
+
+
+# tweak mime type for RSS file
 <Files scamitrss.xml>
   ForceType application/rss+xml
 </Files>

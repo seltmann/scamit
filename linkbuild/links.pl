@@ -14,7 +14,7 @@ use LWP::UserAgent;
 # tag groups are assumed to be continuous in the file
 my $linkdb  = 'links.txt';
 
-my $linkout = 'links.html'; # target link table file
+my $linkout = 'links-content.html'; # target link table file
 my $timeout = 5;            # linkcheck timeout in seconds
 my $docheck = 1;            # if set false, fake the linkchecks
 
