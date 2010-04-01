@@ -621,12 +621,16 @@ On-line Book Dealers	http://slugsite.tierranet.com/izu.htm
 Opisthobranchs of Izu Peninsula
 by Keiu Suzuki<br>
 
-Agencies involved with Monitoring Programs in Southern California	http://www.sccwrp.org/index.htm
+Agencies involved with Monitoring Programs in Southern California	http://www.sccwrp.org
 SCCWRP Home Page
+
+Agencies involved with Monitoring Programs in Southern California	http://www.pvsfish.org
+Fish Contamination Education Collaborative
+Works in conjunction with monitoring programs and enforcement efforts to address human health risks posed by fish contamination at the Palos Verdes Shelf Superfund site.
 
 Checklists and Databases	http://nature.ac.uk/
 Natural Selection
-Quality evaluated Internet resources in the natural world, coordinated by The Natural History Museum, London. <i>Natural Selection</i> is part of <i>BIOME</i>
+Quality evaluated Internet resources in the natural world, coordinated by The Natural History Museum, London. <i>Natural Selection</i> is part of <i>BIOME</i>.
 
 Checklists and Databases	http://biome.ac.uk/biome.html
 BIOME
