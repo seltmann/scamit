@@ -17,10 +17,7 @@
 <items>
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#la" />
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ky" />
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#sf" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#sio" />
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#healthebay" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ost" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#April12" />
@@ -46,36 +43,6 @@
  &#x3C;a href=&#x22;http://agency.governmentjobs.com/LACSD/default.cfm?action=viewjob&#x26;amp;JobID=218494&#x22;&#x3E;&#x3C;i&#x3E;Job posting via lacsd.org&#x3C;/i&#x3E;&#x3C;/a&#x3E;
 .</description>
 </item>
-<item rdf:about="http://www.scamit.org/jobs.html#ky">
-<title>&#x3C;a name=&#x22;ky&#x22;&#x3E;Kentucky Department of Fish and Wildlife Resources&#x26;rsquo; Center for Mollusk Conservation&#x3C;/a&#x3E;
-&#x3C;b&#x3E;Fisheries Biologist II&#x3C;/b&#x3E;
-</title>
-<link>http://www.scamit.org/jobs.html#ky</link>
-<description>&#x3C;i&#x3E;January 2010&#x3C;/i&#x3E;
-&#x3C;br /&#x3E;
- The Kentucky Department of Fish and Wildlife Resources&#x2019; Center for Mollusk Conservation is looking to add additional staff to support our recovery efforts with freshwater mussels, specifically with the Fat Pocketbook (&#x3C;i&#x3E;Potamilus capax&#x3C;/i&#x3E;
-). This position will be listed as a &#x201C;Fisheries Biologist II&#x201D;, because the state of KY has no specific classifications for biologists that study mussels. To see more specific job details or to apply, go to &#x3C;a href=&#x22;http://personnel.ky.gov/default.htm&#x22;&#x3E;http://personnel.ky.gov/default.htm&#x3C;/a&#x3E;
- and complete an online application. If you have any other questions about the job please contact Dr. Monte McGregor at &#x3C;a href=&#x22;mailto:monte.mcgregor@ky.gov&#x22;&#x3E;monte.mcgregor@ky.gov&#x3C;/a&#x3E;
-. The position will be posted until February 15, 2010.</description>
-</item>
-<item rdf:about="http://www.scamit.org/jobs.html#sf">
-<title>&#x3C;a name=&#x22;sf&#x22;&#x3E;San Francisco Public Utilities Commission&#x3C;/a&#x3E;
-&#x3C;b&#x3E;Biologist I/II&#x3C;/b&#x3E;
-</title>
-<link>http://www.scamit.org/jobs.html#sf</link>
-<description>&#x3C;i&#x3E;January 2010&#x3C;/i&#x3E;
-&#x3C;br /&#x3E;
- Three postions are open at the PUC (posted on 26 January 2010):&#x3C;br /&#x3E;
- 2483 BIOLOGIST I/II (Deep Class) Fisheries, Wildlife, or Botany Specialty&#x3C;br /&#x3E;
- &#xA0;&#xA0;&#xA0;&#x3C;a href=&#x22;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/939&#x22;&#x3E;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/939&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
- 2483 BIOLOGIST I/II (Deep Class) Limnology Specialty&#x3C;br /&#x3E;
- &#xA0;&#xA0;&#xA0;&#x3C;a href=&#x22;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/940&#x22;&#x3E;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/940&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
- 2483 BIOLOGIST I/II (Deep Class) Marine Taxonomy Specialty&#x3C;br /&#x3E;
- &#xA0;&#xA0;&#xA0;&#x3C;a href=&#x22;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938&#x22;&#x3E;http://sfwater.org/JobDetail.cfm/MC_ID/18/MSC_ID/122/MTO_ID/368/CJOB_ID/938&#x3C;/a&#x3E;
-</description>
-</item>
 <item rdf:about="http://www.scamit.org/jobs.html#sio">
 <title>&#x3C;a name=&#x22;sio&#x22;&#x3E;Scripps Institution of Oceanography&#x3C;/a&#x3E;
 &#x3C;b&#x3E;Assistant Museum Scientist&#x3C;/b&#x3E;
@@ -99,49 +66,6 @@
  Scripps Institution of Oceanography&#x3C;br /&#x3E;
  University of California, San Diego&#x3C;br /&#x3E;
  La Jolla, CA 92093-0218</description>
-</item>
-<item rdf:about="http://www.scamit.org/jobs.html#healthebay">
-<title>&#x3C;a name=&#x22;healthebay&#x22;&#x3E;Heal the Bay&#x3C;/a&#x3E;
-&#x3C;b&#x3E;Staff Scientist&#x3C;/b&#x3E;
-</title>
-<link>http://www.scamit.org/jobs.html#healthebay</link>
-<description>&#x3C;i&#x3E;December 2009&#x3C;/i&#x3E;
-&#x3C;br /&#x3E;
- Heal the Bay is a nonprofit environmental organization dedicated to making Southern California coastal waters and watersheds, including the Santa Monica Bay, safe, healthy and clean through research, education, community action and advocacy.&#x3C;br /&#x3E;
-&#x3C;b&#x3E;Position Summary:&#x3C;/b&#x3E;
-&#x3C;br /&#x3E;
- The Staff Scientist is responsible for marine and coastal resources related technical and policy projects for the organization. This consists of providing written comments and testimony on various issues including the impacts of power plants and desalination on marine resources; establishment of marine protected areas; local coastal planning; coastal aquatic resource protection including wetlands and riparian habitat; and coastal industrial uses. The Staff Scientist will also help forward ongoing coastal resources projects, such as the implementation of marine protected areas, and advance policy recommendations before various local and state agencies. The Staff Scientist will also represent Heal the Bay at public and stakeholder group meetings. This position requires a strong technical background, and experience in the policy arena is preferred. Candidates must be motivated, articulate and strong problem solvers. This is a full time salaried position with health, dental, vision and vacation benefits. The Staff Scientist reports to the Director of Coastal Resources.&#x3C;br /&#x3E;
-&#x3C;b&#x3E;Functions Include:&#x3C;/b&#x3E;
-&#x3C;br /&#x3E;
- &#xBB;&#xA0;Work on science and policy projects or programs both as an individual and as part of a team;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Analyze and provide written comments on technical and policy issues and documents related to coastal resources and the land-sea interface; &#x3C;br /&#x3E;
- &#xBB;&#xA0;Track specific science and policy issues at regional and state levels and ensure that deadlines are met for public comments and other products;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Represent Heal the Bay&#xE2;&#x80;&#x99;s positions at public meetings, hearings and other forums;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Create and maintain relationships with government staff, advocacy groups, scientific researchers and other environmental stakeholders;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Work closely with other Heal the Bay staff on inter-departmental projects and programs;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Work closely with partner groups outside of Heal the Bay on key coastal resources issues;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Distill technical information into easily understandable written materials and oral presentations;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Help with grassroots organizing efforts to support our technical work on coastal issues;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Participate in weekly Science and Policy Department, weekly Staff meetings, and quarterly Science and Policy Committee Board meetings.&#x3C;br /&#x3E;
-&#x3C;b&#x3E;Experience and Skills Required:&#x3C;/b&#x3E;
-&#x3C;br /&#x3E;
- &#xBB;&#xA0;Passion for Heal the Bay&#xE2;&#x80;&#x99;s mission;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Strong technical background in environmental science and marine biology, masters degree preferred;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Broad understanding of science, regulatory and policy issues relating to water quality and coastal resources, including the Marine Life Protection Act, Clean Water Act, Porter Cologne Act, Coastal Zone Management Act, California Coastal Act, CEQA and NEPA;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Excellent written and oral communication skills;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Strong grasp of environmental issues on the land-sea interface;&#x3C;br /&#x3E;
- &#xBB;&#xA0;At least 2 years of work experience in the marine or coastal conservation field is preferred;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Ability to work under pressure and deadlines;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Excellent organizational and analytical skills;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Ability to work independently and cooperatively with colleagues;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Ability to work on multiple projects and meet deadlines;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Occasional evening and weekend work on Heal the Bay education/environmental programs is required;&#x3C;br /&#x3E;
- &#xBB;&#xA0;Must love the ocean.&#x3C;br /&#x3E;
-&#x3C;b&#x3E;Application Information:&#x3C;/b&#x3E;
-&#x3C;br /&#x3E;
- Salary of $40&#x2013;45,000 based on experience, with full benefits. Heal the Bay is an equal opportunity employer and actively recruits to promote diversity in our workforce.&#x3C;br /&#x3E;
- Please send a cover letter and resume with salary requirements to: Please visit &#x3C;a href=&#x22;http://www.healthebay.org/jobs&#x22;&#x3E;http://www.healthebay.org/jobs&#x3C;/a&#x3E;
- to e-mail cover letter and resume. No calls please.</description>
 </item>
 <item rdf:about="http://www.scamit.org/jobs.html#ost">
 <title>&#x3C;a name=&#x22;ost&#x22;&#x3E;California Ocean Science Trust (OST)&#x3C;/a&#x3E;
