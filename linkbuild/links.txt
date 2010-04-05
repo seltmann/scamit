@@ -1,3 +1,11 @@
+Agencies involved with Monitoring Programs in Southern California	http://www.sccwrp.org
+Southern California Coastal Water Resources Project
+<img src='/images/SCCWRP_sm.png' style='float:left;margin-right:5px;'>Regional authority coordinating monitoring and research work between public agencies in Southern California.
+
+Agencies involved with Monitoring Programs in Southern California	http://www.pvsfish.org
+Fish Contamination Education Collaborative
+<img src='/images/FCEC_logo_sm.png' style='float:left;margin-right:5px;'>Works in conjunction with monitoring programs and enforcement efforts to address human health risks posed by fish contamination at the Palos Verdes Shelf Superfund site.
+
 Benthic Algae	http://rmocfis.upr.clu.edu/~ballan/checklist.html
 A Revised Checklist of the Benthic Marine Algae
 Known to Puerto Rico by David L. Ballantine and Nilda E. Aponte, Department of Marine Sciences
@@ -620,13 +628,6 @@ Washington State Department of Ecology-Marine Sediment Monitoring
 On-line Book Dealers	http://slugsite.tierranet.com/izu.htm
 Opisthobranchs of Izu Peninsula
 by Keiu Suzuki<br>
-
-Agencies involved with Monitoring Programs in Southern California	http://www.sccwrp.org
-SCCWRP Home Page
-
-Agencies involved with Monitoring Programs in Southern California	http://www.pvsfish.org
-Fish Contamination Education Collaborative
-Works in conjunction with monitoring programs and enforcement efforts to address human health risks posed by fish contamination at the Palos Verdes Shelf Superfund site.
 
 Checklists and Databases	http://nature.ac.uk/
 Natural Selection
