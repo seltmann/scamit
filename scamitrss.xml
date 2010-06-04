@@ -19,9 +19,7 @@
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#sio" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ost" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#May24" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#June14" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#mtgMay8" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#mtgJune20" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#mtgJune27" />
  </rdf:Seq>
@@ -79,30 +77,14 @@ Full position descriptions, which include application information, can be found 
  208.882.2588 x72&#x3C;br /&#x3E;
  208.883.4288 fax</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#May24">
-<title>&#x3C;a name=&#x22;May24&#x22;&#x3E;&#x3C;b&#x3E;Monday, 24 May 2010 &#x3C;span class=&#x22;notedate&#x22;&#x3E;9:00 AM&#x3C;/span&#x3E; - &#x3C;span class=&#x22;notedate&#x22;&#x3E;4:00 PM&#x3C;/span&#x3E;&#x3C;/b&#x3E;&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;i&#x3E;Barcoding taxonomic workshop&#x3C;/i&#x3E;
- at LACSD</title>
-<link>http://www.scamit.org/index.html#May24</link>
-<description>We will be lab processing specimens for use in building the DNA barcode library of Southern California benthic invertebrates. This will be a fun day with sorting, taxonomy, photography, DNA processing, voucher vialing, and data entry happening on two parallel production setups. Come one, come all!!!</description>
-</item>
 <item rdf:about="http://www.scamit.org/index.html#June14">
 <title>&#x3C;a name=&#x22;June14&#x22;&#x3E;&#x3C;b&#x3E;Monday, 14 June 2010 9:30 AM - 3:30 PM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;Photo Image II workshop&#x3C;/i&#x3E;
- at City of San Diego</title>
+ at City of San Diego Environmental Monitoring Lab</title>
 <link>http://www.scamit.org/index.html#June14</link>
-<description>Hands-on opportunity to work with CSD equipment. continuation of image production and editing techniques. Co-Lead by Dan Ituarte and Nick Haring.</description>
-</item>
-<item rdf:about="http://www.scamit.org/index.html#mtgMay8">
-<title>&#x3C;a name=&#x22;mtgMay8&#x22;&#x3E;&#x3C;b&#x3E;7&#x26;ndash;8 May 2010&#x3C;/b&#x3E;&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;i&#x3E;Southern California Academy of Sciences&#x3C;/i&#x3E;
-</title>
-<link>http://www.scamit.org/index.html#mtgMay8</link>
-<description>The SCAS Annual Meeting will be May 7&#x2013;8, 2010 at California State University, Los Angeles, CA: &#x3C;a href=&#x22;http://scas.jsd.claremont.edu/&#x22;&#x3E;http://scas.jsd.claremont.edu&#x3C;/a&#x3E;
-</description>
+<description>Co-Lead by Dan Ituarte and Nick Haring. Continuation of image production and editing techniques. Hands-on opportunity to work with CSD equipment: bring a couple of specimens and some images to edit. See &#x3C;a href=&#x22;PhotoWorkshop2Agenda.html&#x22;&#x3E;agenda for details&#x3C;/a&#x3E;
+. </description>
 </item>
 <item rdf:about="http://www.scamit.org/index.html#mtgJune20">
 <title>&#x3C;a name=&#x22;mtgJune20&#x22;&#x3E;&#x3C;b&#x3E;20&#x26;ndash;26 June 2010&#x3C;/b&#x3E;&#x3C;/a&#x3E;
