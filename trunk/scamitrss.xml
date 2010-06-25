@@ -16,7 +16,6 @@
 <description>Southern California Association of Marine Invertebrate Taxonomists</description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#sio" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ost" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#June14" />
@@ -25,30 +24,6 @@
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.scamit.org/jobs.html#sio">
-<title>&#x3C;a name=&#x22;sio&#x22;&#x3E;Scripps Institution of Oceanography&#x3C;/a&#x3E;
-&#x3C;b&#x3E;Assistant Museum Scientist&#x3C;/b&#x3E;
-</title>
-<link>http://www.scamit.org/jobs.html#sio</link>
-<description>&#x3C;i&#x3E;December 2009&#x3C;/i&#x3E;
-&#x3C;br /&#x3E;
- Assistant Museum Scientist position with the Pelagic Invertebrates Collection of the Scripps Institution of Oceanography, U.C. San Diego.&#x3C;br /&#x3E;
-&#x3C;b&#x3E;Description:&#x3C;/b&#x3E;
-&#x3C;br /&#x3E;
- Under Curator supervision, maintain collections of whole zooplankton samples, identified specimens, sorted materials, and data records. Develop and maintain computer databases of holdings. Process approved loan requests. Supervise and train visitors, students, volunteers and limited employees. Advise researchers and graduate students on the best techniques and selection of material. Prepare exhibits and make presentations to the public. Assist with grant proposal preparation and special projects. Sort, identify and carry out morphometric analysis of zooplankton. Coordinate cruise preparations. Expand and improve systematic sortings and prepare digital catalogs and other summaries of holdings. Make recommendations to Curator for expanding collections. Purchase equipment and supplies.&#x3C;br /&#x3E;
-&#x3C;b&#x3E;Full Description:&#x3C;/b&#x3E;
- &#x3C;a href=&#x22;https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=50431&#x22;&#x3E;https://jobs.ucsd.edu/bulletin/job.aspx?jobnum_in=50431&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;b&#x3E;NOTE:&#x3C;/b&#x3E;
- &#x3C;i&#x3E;The job will remain open until filled (i.e., it will not close on 8 Dec., as indicated online).&#x3C;/i&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;b&#x3E;Mark D. Ohman&#x3C;/b&#x3E;
-&#x3C;br /&#x3E;
- Professor, and Curator of Pelagic Invertebrates&#x3C;br /&#x3E;
- Scripps Institution of Oceanography&#x3C;br /&#x3E;
- University of California, San Diego&#x3C;br /&#x3E;
- La Jolla, CA 92093-0218</description>
-</item>
 <item rdf:about="http://www.scamit.org/jobs.html#ost">
 <title>&#x3C;a name=&#x22;ost&#x22;&#x3E;California Ocean Science Trust (OST)&#x3C;/a&#x3E;
 &#x3C;b&#x3E;Assistant Scientist, Marine Protected Areas Monitoring Enterprise&#x3C;br /&#x3E; Knowledge Manager, Marine Protected Areas Monitoring Enterprise&#x3C;/b&#x3E;
