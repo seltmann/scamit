@@ -16,14 +16,30 @@
 <description>Southern California Association of Marine Invertebrate Taxonomists</description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ost" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ost" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#June14" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#mtgJune20" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#mtgJune27" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.scamit.org/jobs.html#ecoanalysts">
+<title>&#x3C;a name=&#x22;ecoanalysts&#x22;&#x3E;EcoAnalysts&#x3C;/a&#x3E;
+&#x3C;b&#x3E;Multiple marine taxonomists&#x3C;/b&#x3E;
+</title>
+<link>http://www.scamit.org/jobs.html#ecoanalysts</link>
+<description>&#x3C;i&#x3E;22 June 2010&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+ EcoAnalysts, Inc. has been awarded a contract by the US EPA to collect and analyze samples from the nation&#x27;s coasts in an effort to monitor and evaluate the ecological and environmental conditions in US waters. Please visit our Employment Opportunities page on our website at &#x3C;a href=&#x22;http://www.ecoanalysts.com&#x22;&#x3E;www.ecoanalysts.com&#x3C;/a&#x3E;
+.&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Eric Torok&#x3C;/i&#x3E;
+&#x3C;br /&#x3E;
+ Human Resources Coordinator&#x3C;br /&#x3E;
+ 1420 S. Blaine St., Suite 14&#x3C;br /&#x3E;
+ Moscow, ID 83843&#x3C;br /&#x3E;
+ etorok@ecoanalysts.com</description>
+</item>
 <item rdf:about="http://www.scamit.org/jobs.html#ost">
 <title>&#x3C;a name=&#x22;ost&#x22;&#x3E;California Ocean Science Trust (OST)&#x3C;/a&#x3E;
 &#x3C;b&#x3E;Assistant Scientist, Marine Protected Areas Monitoring Enterprise&#x3C;br /&#x3E; Knowledge Manager, Marine Protected Areas Monitoring Enterprise&#x3C;/b&#x3E;
@@ -34,23 +50,6 @@
  The California Ocean Science Trust (OST) is a nonprofit 501(c)(3) public benefit corporation established pursuant to the California Ocean Resources Stewardship Act of 2000 to encourage coordinated, multi-agency, multi-institution approaches to translating ocean science to management and policy applications. The Marine Protected Areas Monitoring Enterprise was launched in 2007 under the auspices of the OST to lead development of efficient, cost-effective monitoring of the statewide marine protected areas (MPA) network being established under the Marine Life Protection Act. The MPA Monitoring Enterprise, which is supported by the Ocean Protection Council and works in partnership with the Department of Fish and Game, has two new job openings, for an Assistant Scientist and a Knowledge Manager. Both positions will be based in Oakland, California, in the offices of the OST. Start date for both positions is as soon as possible, preferably by March 1, 2010. Review of applications will begin January 4, 2010.&#x3C;br /&#x3E;
 Full position descriptions, which include application information, can be found at: &#x3C;a href=&#x22;http://www.calost.org/monitoring_ent.html&#x22;&#x3E;http://www.calost.org/monitoring_ent.html&#x3C;/a&#x3E;
 .</description>
-</item>
-<item rdf:about="http://www.scamit.org/jobs.html#ecoanalysts">
-<title>&#x3C;a name=&#x22;ecoanalysts&#x22;&#x3E;EcoAnalysts&#x3C;/a&#x3E;
-&#x3C;b&#x3E;General marine taxonomist&#x3C;/b&#x3E;
-</title>
-<link>http://www.scamit.org/jobs.html#ecoanalysts</link>
-<description>&#x3C;i&#x3E;18 Nov 2009&#x3C;/i&#x3E;
-&#x3C;br /&#x3E;
- EcoAnalysts, Inc. has a need for a full-time general marine taxonomist. We are searching for an individual who has experience with and enjoys marine taxonomy and who wants to be part of a successful team of aquatic scientists. For more information and application instructions, please visit our Careers Page on our website at &#x3C;a href=&#x22;http://www.ecoanalysts.com&#x22;&#x3E;www.ecoanalysts.com&#x3C;/a&#x3E;
-.&#x3C;br /&#x3E;
-&#x3C;i&#x3E;Eric Torok&#x3C;/i&#x3E;
-&#x3C;br /&#x3E;
- Human Resources Coordinator&#x3C;br /&#x3E;
- 1420 S. Blaine St., Suite 14&#x3C;br /&#x3E;
- Moscow, ID 83843&#x3C;br /&#x3E;
- 208.882.2588 x72&#x3C;br /&#x3E;
- 208.883.4288 fax</description>
 </item>
 <item rdf:about="http://www.scamit.org/index.html#June14">
 <title>&#x3C;a name=&#x22;June14&#x22;&#x3E;&#x3C;b&#x3E;Monday, 14 June 2010 9:30 AM - 3:30 PM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
