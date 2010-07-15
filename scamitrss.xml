@@ -18,9 +18,8 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ost" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#June14" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#mtgJune20" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#mtgJune27" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Aug2b&#x27;" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Aug23&#x27;" />
  </rdf:Seq>
 </items>
 </channel>
@@ -51,32 +50,22 @@
 Full position descriptions, which include application information, can be found at: &#x3C;a href=&#x22;http://www.calost.org/monitoring_ent.html&#x22;&#x3E;http://www.calost.org/monitoring_ent.html&#x3C;/a&#x3E;
 .</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#June14">
-<title>&#x3C;a name=&#x22;June14&#x22;&#x3E;&#x3C;b&#x3E;Monday, 14 June 2010 9:30 AM - 3:30 PM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+<item rdf:about="http://www.scamit.org/index.html#Aug2b&#x27;">
+<title>&#x3C;a name=&#x22;July&#x26;#39;&#x22;&#x3E;&#x3C;b&#x3E;&#x3C;i&#x3E;No July SCAMIT meeting&#x3C;/i&#x3E;&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;a name=&#x22;Aug2b&#x26;#39;&#x22;&#x3E;&#x3C;b&#x3E;Monday 2 August 2010 &#x3C;span class=&#x22;cancel&#x22;&#x3E;8:00 AM &#x26;ndash; 4:00 PM&#x3C;/span&#x3E; &#x3C;span class=&#x22;notedate&#x22;&#x3E;Corrected time:&#x3C;/span&#x3E; 9:00 AM &#x26;ndash; 4:00 PM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
-&#x3C;i&#x3E;Photo Image II workshop&#x3C;/i&#x3E;
- at City of San Diego Environmental Monitoring Lab</title>
-<link>http://www.scamit.org/index.html#June14</link>
-<description>Co-Lead by Dan Ituarte and Nick Haring. Continuation of image production and editing techniques. Hands-on opportunity to work with CSD equipment: bring a couple of specimens and some images to edit. See &#x3C;a href=&#x22;PhotoWorkshop2Agenda.html&#x22;&#x3E;agenda for details&#x3C;/a&#x3E;
-. </description>
+&#x3C;i&#x3E;Taxonomic Database Group&#x3C;/i&#x3E;
+ meeting at SCCWRP medium conference room.</title>
+<link>http://www.scamit.org/index.html#Aug2b&#x27;</link>
+<description>Please contact &#x3C;a href=&#x22;mailto:LLovell@lacsd.org&#x22;&#x3E;Larry Lovell&#x3C;/a&#x3E;
+ with agenda suggestions and recommendations.</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#mtgJune20">
-<title>&#x3C;a name=&#x22;mtgJune20&#x22;&#x3E;&#x3C;b&#x3E;20&#x26;ndash;26 June 2010&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+<item rdf:about="http://www.scamit.org/index.html#Aug23&#x27;">
+<title>&#x3C;a name=&#x22;Aug23&#x26;#39;&#x22;&#x3E;&#x3C;b&#x3E;Monday 23 August 2010 9:30 AM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
-&#x3C;i&#x3E;10th International Polychaete Conference&#x3C;/i&#x3E;
-</title>
-<link>http://www.scamit.org/index.html#mtgJune20</link>
-<description>The 10th IPC meeting will be in Lecce, Italy: &#x3C;a href=&#x22;http://www.polychaeta.it/&#x22;&#x3E;http://www.polychaeta.it&#x3C;/a&#x3E;
-</description>
-</item>
-<item rdf:about="http://www.scamit.org/index.html#mtgJune27">
-<title>&#x3C;a name=&#x22;mtgJune27&#x22;&#x3E;&#x3C;b&#x3E;27 June &#x26;ndash; 1 July 2010&#x3C;/b&#x3E;&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;i&#x3E;Western Society of Malacologists&#x3C;/i&#x3E;
- and &#x3C;i&#x3E;American Society of Malacologists&#x3C;/i&#x3E;
-</title>
-<link>http://www.scamit.org/index.html#mtgJune27</link>
-<description>The 43rd Annual Meeting of the WSM will be held jointly with the 76th Annual Meeting of the American Society of Malacologists at San Diego State University: &#x3C;a href=&#x22;http://biology.fullerton.edu/wsm/conferences.html&#x22;&#x3E;http://biology.fullerton.edu/wsm/conferences.html&#x3C;/a&#x3E;
-</description>
+&#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 Infaunal QA resolution&#x3C;/i&#x3E;
+ meeting at LACSD labs. </title>
+<link>http://www.scamit.org/index.html#Aug23&#x27;</link>
+<description>Specific labs will be directly involved, but all interested parties are invited to attend to see the resolution process and those taxa reviewed will likely be those that are more problematic. Cheryl Brantley will be sending out more specific information towards the end of July, and will discuss the Bight QA resolution schedules for September and October as well.</description>
 </item>
 </rdf:RDF>
