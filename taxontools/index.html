@@ -8,6 +8,42 @@
 <link href="/php_file_tree.css" rel="stylesheet" type="text/css" />
 <?php include("php_file_tree.php"); ?>
 <title>Taxonomic Toolbox</title><!-- page title -->
+
+<!-- link and scripts for Google Custom Search -->
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+  google.load('search', '1', {language : 'en'});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('012100630472851536491:w8mo7xsedv0');
+    customSearchControl.setResultSetSize(google.search.Search.FILTERED_CSE_RESULTSET);
+    var options = new google.search.DrawOptions();
+    options.setAutoComplete(true);
+    customSearchControl.draw('cse', options);
+  }, true);
+</script>
+<link rel="stylesheet" href="http://www.google.com/cse/style/look/default.css" type="text/css" />
+<!-- end of Google Custom Search bits -->
+<!-- override some of the Google Search styling -->
+<style>
+  /* suppress useless tab and site-URL */
+  .gsc-tabsArea,
+  .gs-visibleUrl-short {
+    display: none;
+  }
+  /* make size a bit smaller */
+  .gs-title {
+    font-size: 90%;
+  }
+  .gs-snippet {
+    font-size: 85%;
+  }
+  /* tighten up spacing */
+  .gsc-webResult.gsc-result {
+    margin-bottom: 0.5ex;
+  }
+</style>
+<!-- end of Google Search style overrides -->
+
 </head>
 <body>
 <style>
@@ -17,6 +53,7 @@
 <div id="page">
 <?php include($_SERVER['DOCUMENT_ROOT'] . "/s_topmenu.html"); ?>
 <h1>SCAMIT Taxonomic Toolbox</h1>
+<div id="cse" style="width: 100%;">Loading</div>
 <table class="cutepic right" cellspacing='0' cellpadding='0'>
   <tr><td class="cutepic"><img class="cutepic"
        src="/images/Isocladus_armatus.jpg"
