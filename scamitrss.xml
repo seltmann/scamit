@@ -18,7 +18,10 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ost" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Aug23&#x27;" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Aug23a" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Sep13" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Sep27" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Oct18" />
  </rdf:Seq>
 </items>
 </channel>
@@ -49,12 +52,36 @@
 Full position descriptions, which include application information, can be found at: &#x3C;a href=&#x22;http://www.calost.org/monitoring_ent.html&#x22;&#x3E;http://www.calost.org/monitoring_ent.html&#x3C;/a&#x3E;
 .</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#Aug23&#x27;">
-<title>&#x3C;a name=&#x22;Aug23&#x26;#39;&#x22;&#x3E;&#x3C;b&#x3E;Monday 23 August 2010 9:30 AM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+<item rdf:about="http://www.scamit.org/index.html#Aug23a">
+<title>&#x3C;a name=&#x22;Aug23a&#x22;&#x3E;&#x3C;b&#x3E;Monday 23 August 2010 9:30 AM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
-&#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 Infaunal QA resolution&#x3C;/i&#x3E;
- meeting at LACSD labs. </title>
-<link>http://www.scamit.org/index.html#Aug23&#x27;</link>
-<description>Specific labs will be directly involved, but all interested parties are invited to attend to see the resolution process and those taxa reviewed will likely be those that are more problematic. Cheryl Brantley will be sending out more specific information towards the end of July, and will discuss the Bight QA resolution schedules for September and October as well.</description>
+&#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 QA review meeting with LACSD and Weston Solutions&#x3C;/i&#x3E;
+ at LACSD labs.</title>
+<link>http://www.scamit.org/index.html#Aug23a</link>
+<description>SCAMIT members, especially taxonomists from other Bight&#xA0;&#x2019;08 labs, are encouraged to attend to see the resolution process. Differences between primary and secondary identifications and counts will be resolved and error coded. There are always some interesting differences of taxonomic opinion and lab practice that pop up.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#Sep13">
+<title>&#x3C;a name=&#x22;Sep13&#x22;&#x3E;&#x3C;b&#x3E;Monday 13 September 2010 9:30 AM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 QA review meeting with LACSD, City of LA, and ABC Labs&#x3C;/i&#x3E;
+ at LACSD labs.</title>
+<link>http://www.scamit.org/index.html#Sep13</link>
+<description>SCAMIT members, especially taxonomists from other Bight&#xA0;&#x2019;08 labs, are encouraged to attend to see the resolution process. Differences between primary and secondary identifications and counts will be resolved and error coded. There are always some interesting differences of taxonomic opinion and lab practice that pop up.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#Sep27">
+<title>&#x3C;a name=&#x22;Sep27&#x22;&#x3E;&#x3C;b&#x3E;Monday 27 September 2010 9:30 AM&#x3C;/b&#x3E; or &#x3C;b&#x3E;Monday 4 October 2010 9:30 AM&#x3C;/b&#x3E; &#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 QA review meeting with LACSD and City of SD&#x3C;/i&#x3E;
+ at City of San Diego lab.</title>
+<link>http://www.scamit.org/index.html#Sep27</link>
+<description>SCAMIT members, especially taxonomists from other Bight&#xA0;&#x2019;08 labs, are encouraged to attend to see the resolution process. Differences between primary and secondary identifications and counts will be resolved and error coded. There are always some interesting differences of taxonomic opinion and lab practice that pop up.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#Oct18">
+<title>&#x3C;a name=&#x22;Oct18&#x22;&#x3E;&#x3C;b&#x3E;Monday 18 October 2010 9:30 AM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 synoptic data review meeting&#x3C;/i&#x3E;
+ at SCCWRP Medium Conference Room.</title>
+<link>http://www.scamit.org/index.html#Oct18</link>
+<description>The compiled Bight&#xA0;&#x2019;08 species list from all stations will be reviewed for taxonomic consistency. The resulting final species list will be used in Bight&#xA0;&#x2019;08 infaunal data analyses. All Bight&#xA0;&#x2019;08 taxonomists are encouraged to attend this important meeting in case specific questions on taxonomic consistency arise.</description>
 </item>
 </rdf:RDF>
