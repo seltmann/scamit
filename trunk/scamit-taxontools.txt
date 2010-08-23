@@ -196,6 +196,11 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Magelonidae/MagelonaSpBRoweNov03.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-23</lastmod>
+</url>
+<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Phyllodocidae/Eumida%20longicornuta.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -1529,6 +1534,11 @@
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Lysaretidae/Oenone%20fulgida.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cossuridae/Cossura_PtLoma_RCR95.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-23</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Opheliidae/Armandia%20sp%20SD1.pdf</loc>
