@@ -196,6 +196,11 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Magelonidae/MagelonaSpBRoweNov03.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-23</lastmod>
+</url>
+<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Phyllodocidae/Eumida%20longicornuta.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -314,6 +319,11 @@
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Pista%20bansei.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Streblosoma%20sp.%20SF1.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-26</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Polycirrus%20characters%20literature%20table.doc</loc>
@@ -1101,9 +1111,19 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Aphelochaeta%20petersenae%20voucher%20sheet%20Rowe.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-26</lastmod>
+</url>
+<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Aphelochaeta%20glandaria.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Monticellina%20tesselata%20voucher%20sheet.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-26</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Dodecaceria%20concharum.pdf</loc>
@@ -1121,6 +1141,11 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Cirriformia%20sp%20SD2.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-26</lastmod>
+</url>
+<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Chaetozone%20hartmanae.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -1131,9 +1156,29 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Cirriformia%20sp%20HYP1.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-26</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Cirriformia%20sp%20LA1.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-26</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Monticellina%20sp%201%20Lovell%20%26%20Phillips%201995%20voucher%20sheet.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-26</lastmod>
+</url>
+<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Chaetozone_Summary%20Table.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/CirriformiaSpSD1_SD2_CharMatrix_24Oct05_RR.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-26</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Chaetozone%20%28setosa%29%20sp%20SD1.pdf</loc>
@@ -1146,9 +1191,9 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Cirratulid%20sheets%20Vol%2025%20No%204.pdf</loc>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Cirriformia%20sp%20GOL1.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
+ <lastmod>2010-08-26</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Monticellina%20sp%201%20Lovell%20%26%20Phillips%201995%20final.pdf</loc>
@@ -1529,6 +1574,11 @@
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Lysaretidae/Oenone%20fulgida.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cossuridae/Cossura_PtLoma_RCR95.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-23</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Opheliidae/Armandia%20sp%20SD1.pdf</loc>
