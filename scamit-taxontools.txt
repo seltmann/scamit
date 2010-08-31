@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Misc%20Phyla%20Literature%20from%20CSD.docx</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Misc%20Phyla%20Literature%20from%20CSD.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -22,16 +17,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Trochochaetidae/Trochochaeta%20mutisetosa.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Maldanidae/Petaloclymene%20pacifica.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Maldanidae/Bight%2098%20%20Euclymeninae%20%20Lovell%20handout.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -111,11 +96,6 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Maldanidae/Clymenella%20sp%20SD1.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Maldanidae/Rhodine%20bitorquata.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -132,11 +112,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Lumbrineridae/Scoletoma%20sp%20A.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Lumbrineridae/Bight%2098%20Lumbrineridae%20Lovell%20handout.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -162,11 +137,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Lumbrineridae/Lumbrineris%20sp%20E.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Pilargidae/Pilargis%20table.xls</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -198,7 +168,7 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Magelonidae/MagelonaSpBRoweNov03.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-23</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Phyllodocidae/Eumida%20longicornuta.pdf</loc>
@@ -217,11 +187,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Phyllodocidae/Eulalia%20spp.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Phyllodocidae/Eulalia%20spp.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -296,21 +261,6 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Pista%20Betapista%20Morph%20Forms%20Harris%20doc.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Amaeana%20spA%20fide%20Harris%20SFBay.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Polycirrus%20spp%20Characters.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Thelepus%20setosus.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -323,20 +273,10 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Streblosoma%20sp.%20SF1.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Polycirrus%20characters%20literature%20table.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
+ <lastmod>2010-08-28</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Neoleprea%20spiralis.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Lysilla%20spp%20CSD.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -351,22 +291,12 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Pista%20spp%20Harris%20Presentation%20Summary.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Polycirrus%20sp%20A.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Spinosphaera%20harrisae%20as%20S.%20sp%20SD1.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Polycirrus%20spp%20Lovell%20Table.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -436,16 +366,6 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Lovell%20%26%20Harris%20Polycirrus%20table%20SCAMIT%202006.xls</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Nicolea%20spA%20fide%20Harris.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Terebellidae/Polycirrus%20spp%20Characters.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -496,11 +416,6 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Oenonidae/Drilonereis%20pictorial%20key.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Oenonidae/Notocirrus%20californiensis.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -541,32 +456,12 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Eunicidae/Marphysa%20sp%20C%20Harris%202003%20comments.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Eunicidae/Eunice%20vittata.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Eunicidae/NEP%20Marphysa%20LH.xls</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Eunicidae/Marphysa%20sp%20RR1%20fide%20Rowe%20ISS%20SFBay.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Eunicidae/Marphysa%20sp%20RR1%20fide%20Rowe%20ISS%20SFBay.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Eunicidae/Marphysa%20spp%20Characters%20CSD.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -617,11 +512,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Syllidae/Exogone%20sp%20A%20SCAMIT%201987.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Syllidae/Exogone%20spp%20Common%20to%20CSD%20Character%20Table.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -686,22 +576,12 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Capitellidae/Notomastus%20lineatus.docx</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Capitellidae/Dasybranchus%20glabrus.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Capitellidae/Mediomastus%20californiensis.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Capitellidae/Notomastus%20latericeus.docx</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -886,17 +766,7 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Sabellidae/Megalomma%20from%20California.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Sabellidae/NEP%20Chone%20%20Dialychone%20Paradialychone%20So%20Cal%20species.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Sabellidae/NEP%20Chone%20%20Dialychone%20Paradialychone%20So%20Cal%20species.docx</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -911,22 +781,12 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Sabellidae/Chone%20Slide%20Show%20by%20Tovar-Hern%C3%A1ndez%20SCAMIT%20meeting%20Sept05.ppt</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Sabellidae/Euchone%20species.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Sabellidae/Chone%20albocincta.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Onuphidae/Lysidice%20ninetta%20CSD%20specimens%20RCR.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -956,12 +816,12 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Arenicolidae/Branchiomaldane%20vincenti.pdf</loc>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Onuphidae/Lysidice%20ninetta%20CSD%20specimens%20RCR.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
+ <lastmod>2010-08-28</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Spionidae/Polydora%20hoplura%20Introd%20SDBay%20SCAMIT%20NL%20RCR.doc</loc>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Arenicolidae/Branchiomaldane%20vincenti.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -977,11 +837,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Spionidae/Carazziella%20citrona.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Spionidae/Spiophanes%20character%20summary%20table.xls</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -1007,16 +862,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Spionidae/Polydora%20species%20character%20table.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Spionidae/Deviations%20in%20charcter%20states%20observed%20on%20large%20Spiophanes%20berkeleyorum.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Spionidae/Spiophanes%20table%20by%20Lovell.xls</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -1113,7 +958,7 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Aphelochaeta%20petersenae%20voucher%20sheet%20Rowe.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-28</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Aphelochaeta%20glandaria.pdf</loc>
@@ -1123,7 +968,7 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Monticellina%20tesselata%20voucher%20sheet.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-28</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Dodecaceria%20concharum.pdf</loc>
@@ -1143,7 +988,7 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Cirriformia%20sp%20SD2.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-28</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Chaetozone%20hartmanae.pdf</loc>
@@ -1158,17 +1003,17 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Cirriformia%20sp%20HYP1.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-28</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Cirriformia%20sp%20LA1.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-28</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Monticellina%20sp%201%20Lovell%20%26%20Phillips%201995%20voucher%20sheet.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-28</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Chaetozone_Summary%20Table.pdf</loc>
@@ -1178,7 +1023,7 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/CirriformiaSpSD1_SD2_CharMatrix_24Oct05_RR.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-28</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Chaetozone%20%28setosa%29%20sp%20SD1.pdf</loc>
@@ -1193,7 +1038,7 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Cirriformia%20sp%20GOL1.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-28</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cirratulidae/Monticellina%20sp%201%20Lovell%20%26%20Phillips%201995%20final.pdf</loc>
@@ -1301,11 +1146,6 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Ampharetidae/Amphaetidae%20sp%20SD1%20LACSD%20Bght98%20TParker.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Ampharetidae/Schistocomus%20sp%20A.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -1322,11 +1162,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Ampharetidae/Paramage%20scutata.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Ampharetidae/Ampharetidae%20sp%20SD3.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -1578,7 +1413,7 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Cossuridae/Cossura_PtLoma_RCR95.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-23</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Annelida/Class%20Polychaeta/Family%20Opheliidae/Armandia%20sp%20SD1.pdf</loc>
@@ -1811,11 +1646,6 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Crustacea%20References%20City%20of%20San%20Diego.rtf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Tanaidacea/Family%20Typhlotanaidae/Typhlotanais%20crassus.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -1877,11 +1707,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Class%20Ostracoda/Ostracoda_An%20Introduction.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Class%20Ostracoda/Ostracoda_An%20Introduction.docx</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -1962,11 +1787,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Class%20Ostracoda/Family%20Cylindroleberididae/Bathyleberis%20sp.%20female.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Class%20Ostracoda/Family%20Cylindroleberididae/Cylindroleberidae_An%20Introduction.docx</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -2096,37 +1916,12 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Stegocephaloidea%20of%20the%20NEPmod.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Lysianassoidea%20of%20the%20NEPmod%20-%202008.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Ampeliscoidea%20of%20the%20NEP.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Dexaminoidea%20of%20the%20NEPmod.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Melphidippoidea%20of%20the%20NEP.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Hadzioidea%20of%20the%20NEP.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Gammaroidea%20of%20the%20NEP.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -2137,16 +1932,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Bogidielloidea%20of%20the%20NEP.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Iphimedioidea%20of%20the%20NEPmod.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Ampeliscoidea%20of%20the%20NEP.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -2177,21 +1962,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Gammaroidea%20of%20the%20NEP.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Bogidielloidea%20of%20the%20NEP.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Lysianassoidea%20of%20the%20NEPmod%20-%202010.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Hadzioidea%20of%20the%20NEP.doc</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -2366,11 +2136,6 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Family%20Ampeliscidae/Key%20to%20the%20Ampeliscidae_SCB_Haney-Pasko_Rev05072009.doc</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Family%20Ampeliscidae/Ampelisca%20brevisimulata.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -2382,11 +2147,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Family%20Ampeliscidae/Byblis%20veleronis.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Family%20Ampeliscidae/Ampelisca%20key_pasko-duggan.docx</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
@@ -2551,11 +2311,6 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Decapoda/Brachyura%20%28crabs%29/Family%20Pinnotheridae/Pinnixa%20comparison.ppt</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Decapoda/Brachyura%20%28crabs%29/Family%20Pinnotheridae/Pinnixa%20occidentalis%20morphs.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -2661,6 +2416,11 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Family%20Mysidae/Alienacanthomysis%20macropsis%20%28file%202%29.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2010-08-28</lastmod>
+</url>
+<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Family%20Mysidae/Mysidella%20americana.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -2701,11 +2461,6 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Family%20Mysidae/Alienacanthomysis%20macropsis%20%28file%202%29%3Bpdf.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Family%20Mysidae/Inusitatomysis%20insolita.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -2741,16 +2496,6 @@
  <lastmod>2010-08-06</lastmod>
 </url>
 <url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Cumacea/Cumacea%20Tabular%20Key_dp%2003022009.xlsx</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Cumacea/Cumacea_Key%20%28flow%20chart%29.pptx</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Cumacea/Cumacea_Key%20%28flow%20chart%29.pptx.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
@@ -2762,11 +2507,6 @@
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Cumacea/Cumacea%20Tabular%20Key_dp%2003022009.xlsx.pdf</loc>
- <changefreq>monthly</changefreq>
- <lastmod>2010-08-06</lastmod>
-</url>
-<url>
- <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Cumacea/Diagnosis%20of%20SCB%20Cumacea%20Families.docx</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
 </url>
