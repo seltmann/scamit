@@ -18,9 +18,8 @@
  <rdf:Seq>
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#mesl" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Sep13" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Oct04" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Oct18" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Nov15" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Dec11" />
  </rdf:Seq>
 </items>
@@ -49,22 +48,6 @@
  Moscow, ID 83843&#x3C;br /&#x3E;
  etorok@ecoanalysts.com</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#Sep13">
-<title>&#x3C;a name=&#x22;Sep13&#x22;&#x3E;&#x3C;b&#x3E;Monday 13 September 2010 9:30 AM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 QA review meeting with LACSD, City of LA, and ABC Labs&#x3C;/i&#x3E;
- at LACSD labs.</title>
-<link>http://www.scamit.org/index.html#Sep13</link>
-<description>SCAMIT members, especially taxonomists from other Bight&#xA0;&#x2019;08 labs, are encouraged to attend to see the resolution process. Differences between primary and secondary identifications and counts will be resolved and error coded. There are always some interesting differences of taxonomic opinion and lab practice that pop up.</description>
-</item>
-<item rdf:about="http://www.scamit.org/index.html#Oct04">
-<title>&#x3C;a name=&#x22;Oct04&#x22;&#x3E;&#x3C;b&#x3E;Monday 4 October 2010 9:30&#x26;ndash;3:30&#x3C;/b&#x3E; &#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 QA review meeting with LACSD and City of SD&#x3C;/i&#x3E;
- at City of San Diego lab.</title>
-<link>http://www.scamit.org/index.html#Oct04</link>
-<description>SCAMIT members, especially taxonomists from other Bight&#xA0;&#x2019;08 labs, are encouraged to attend to see the resolution process. Differences between primary and secondary identifications and counts will be resolved and error coded. There are always some interesting differences of taxonomic opinion and lab practice that pop up.</description>
-</item>
 <item rdf:about="http://www.scamit.org/index.html#Oct18">
 <title>&#x3C;a name=&#x22;Oct18&#x22;&#x3E;&#x3C;b&#x3E;Monday 18 October 2010 9:30 AM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
@@ -72,6 +55,14 @@
  at SCCWRP Medium Conference Room.</title>
 <link>http://www.scamit.org/index.html#Oct18</link>
 <description>The compiled Bight&#xA0;&#x2019;08 species list from all stations will be reviewed for taxonomic consistency. The resulting final species list will be used in Bight&#xA0;&#x2019;08 infaunal data analyses. All Bight&#xA0;&#x2019;08 taxonomists are encouraged to attend this important meeting in case specific questions on taxonomic consistency arise.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#Nov15">
+<title>&#x3C;a name=&#x22;Nov15&#x22;&#x3E;&#x3C;b&#x3E;Monday 15 November 2010 9:30 AM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Mollusk literature review and Taxonomic Database testbed demo&#x3C;/i&#x3E;
+ at OCSD meeting room.</title>
+<link>http://www.scamit.org/index.html#Nov15</link>
+<description>Mollusk literature review, followed by a demo of the testing version of the new Taxonomic Database. Non-mollusk taxonomists who are likely to be extensive users of the Taxonomic Database can attend the demo to see its features and provide feedback for further development.</description>
 </item>
 <item rdf:about="http://www.scamit.org/index.html#Dec11">
 <title>&#x3C;a name=&#x22;Dec11&#x22;&#x3E;&#x3C;b&#x3E;Saturday 11 December 2010 5:30&#x26;ndash;9:00&#x26;nbsp;PM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
