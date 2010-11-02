@@ -558,7 +558,7 @@
 <url>
  <loc>http://scamit.org/newsletters/2009-09.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-09-14</lastmod>
+ <lastmod>2010-09-18</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/2003-04.pdf</loc>
