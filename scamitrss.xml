@@ -16,15 +16,25 @@
 <description>Southern California Association of Marine Invertebrate Taxonomists</description>
 <items>
  <rdf:Seq>
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#scdnr" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#smith" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#mesls" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Nov15" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Dec10" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Dec11" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#scum22jan" />
  </rdf:Seq>
 </items>
 </channel>
+<item rdf:about="http://www.scamit.org/jobs.html#scdnr">
+<title>&#x3C;a name=&#x22;scdnr&#x22;&#x3E;South Carolina Department of Natural Resources&#x3C;/a&#x3E;
+&#x3C;b&#x3E;Assistant Marine Scientist: Marine Invertebrate Taxonomist/Biogeographer&#x3C;/b&#x3E;
+</title>
+<link>http://www.scamit.org/jobs.html#scdnr</link>
+<description>&#x3C;i&#x3E;3 November 2010&#x3C;br /&#x3E; The Marine Resources Research Institute (MRRI), which is located in Charleston, South Carolina, has an Assistant Marine Scientist position available for an individual with experience in marine invertebrate taxonomy/systematics, preferably with research interest in biodiversity and/or biogeography. This position involves directing operation of the Southeastern Regional Taxonomic Center (SERTC), including curating and expanding the Center&#x26;acirc;&#x26;#128;&#x26;#153;s specimen collection. The successful candidate will also be expected to conduct original research using the Center&#x26;acirc;&#x26;#128;&#x26;#153;s resources, pursue extramural funding to ensure the Center&#x26;acirc;&#x26;#128;&#x26;#153;s longevity and relevance, meet staffing needs, participate in educational activities, and represent the Center and promote its activities among staff of other institutions, universities and museums.&#x3C;br /&#x3E; This position requires a Ph.D. in marine science, zoology, ecology or biology, experience in marine invertebrate taxonomy and systematics, knowledge of basic collection curation, demonstrated strong technical writing skills, and good organizational and managerial skills. This position is currently fully funded for a period of one year at a starting base salary of $40,000 with full benefits, but has the potential to continue contingent upon the success of recent funding requests. Applicants must be legally authorized to work in the United States.&#x3C;br /&#x3E; The SERTC is located within MRRI at the Marine Resources Center adjacent to Charleston Harbor. Institute staff interact routinely and extensively with staff at other facilities located at the Center, including the College of Charleston&#x26;acirc;&#x26;#128;&#x26;#153;s Grice Marine Laboratory, NOAA&#x26;acirc;&#x26;#128;&#x26;#153;s Center for Coastal Environmental Health and Biomolecular Research, NOAA&#x26;acirc;&#x26;#128;&#x26;#153;s Hollings Marine Laboratory, NIST, and the Medical University of South Carolina&#x26;acirc;&#x26;#128;&#x26;#153;s Marine Biomedical Program. The successful applicant may apply for an adjunct faculty appointment in the College of Charleston&#x26;acirc;&#x26;#128;&#x26;#153;s Graduate Program in Marine Biology and/or Masters of Environmental Studies program. For more information, please visit SERTC (&#x3C;a href=&#x22;http://www.dnr.sc.gov/marine/sertc/&#x22;&#x3E;http://www.dnr.sc.gov/marine/sertc/&#x3C;/a&#x3E;) as well as the MRRI (&#x3C;a href=&#x22;http://www.dnr.sc.gov/marine/mrri/mrri.htm&#x22;&#x3E;http://www.dnr.sc.gov/marine/mrri/mrri.htm&#x3C;/a&#x3E;) online.&#x3C;br /&#x3E; To apply, complete a South Carolina state application at &#x3C;a href=&#x22;http://www.ohr.sc.gov/OHR/OHR-jobs-portal-index.phtm&#x22;&#x3E;http://www.ohr.sc.gov/OHR/OHR-jobs-portal-index.phtm&#x3C;/a&#x3E; (keyword search for &#x26;acirc;&#x26;#128;&#x26;#156;Assistant Marine Scientist&#x26;acirc;&#x26;#128;&#x26;#157;) or &#x3C;a href=&#x22;http://agency.governmentjobs.com/sc/default.cfm?action=viewJob&#x26;amp;jobID=268135&#x22;&#x3E;click here&#x3C;/a&#x3E;.&#x3C;br /&#x3E; In addition, please send a cover letter, CV and statement of research interests to the email address below. Applications will be reviewed after December 1, but the job will remain open until filled.&#x3C;br /&#x3E; For further information, please contact:&#x3C;br /&#x3E; Dr. Derk C. Bergquist&#x3C;br /&#x3E; Marine Resources Research Institute&#x3C;br /&#x3E; 843-953-9074; bergquistd@dnr.sc.gov&#x3C;/i&#x3E;
+</description>
+</item>
 <item rdf:about="http://www.scamit.org/jobs.html#smith">
 <title>&#x3C;a name=&#x22;smith&#x22;&#x3E;Smithsonian National Museum of Natural History&#x3C;/a&#x3E;
 &#x3C;b&#x3E;Invertebrate Zoologist&#x3C;/b&#x3E;
@@ -66,7 +76,7 @@
 <description>Mollusk literature review, followed by a demo of the testing version of the new Taxonomic Database. Non-mollusk taxonomists who are likely to be extensive users of the Taxonomic Database can attend the demo to see its features and provide feedback for further development.</description>
 </item>
 <item rdf:about="http://www.scamit.org/index.html#Dec10">
-<title>&#x3C;a name=&#x22;Dec10&#x22;&#x3E;&#x3C;b&#x3E;Friday 10 November 2010 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+<title>&#x3C;a name=&#x22;Dec10&#x22;&#x3E;&#x3C;b&#x3E;Friday 10 December 2010 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;Arthropoda: Crustacea literature review&#x3C;/i&#x3E;
  at LACSD.</title>
@@ -80,5 +90,25 @@
  at Cabrillo Marine Aquarium.</title>
 <link>http://www.scamit.org/index.html#Dec11</link>
 <description>All SCAMIT members and their families are invited to attend. In addition, the officers decided it would be neighborly to invite members and their families of our two sister groups to join us. Invitations will be extended to the members of the Southwestern Association of Freshwater Invertebrate Taxonomists (SAFIT) and the Southern California Association of Ichthyological Taxonomists and Ecologists (SCAITE). It should make for a lively event. More details later.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#scum22jan">
+<title>&#x3C;a name=&#x22;scum22jan&#x22;&#x3E;&#x3C;b&#x3E;22 January 2011&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;SCUM XV (Southern California Unified Malacologists)&#x3C;/i&#x3E;
+</title>
+<link>http://www.scamit.org/index.html#scum22jan</link>
+<description>9:00 AM to 9:30 AM &#x2014; Meet &#x26; Greet (coffee and donuts)&#x3C;br /&#x3E;
+ 9:30 AM to 12:00 PM &#x2014; Introductions &#x26; Presentations&#x3C;br /&#x3E;
+ 12:00 PM to 1:00 PM &#x2014; Lunch (menu TBD)&#x3C;br /&#x3E;
+ 1:00 PM to 3:30 PM &#x2014; Presentations continued&#x3C;br /&#x3E;
+ At:&#x3C;br /&#x3E;
+ Southern California Coastal Water Research Project&#x3C;br /&#x3E;
+ 3535 Harbor Blvd., Suite 110&#x3C;br /&#x3E;
+ Costa Mesa, CA&#x3C;br /&#x3E;
+ Directions: &#x3C;a href=&#x22;http://www.sccwrp.org/ContactUs/Directions.aspx&#x22;&#x3E;http://www.sccwrp.org/ContactUs/Directions.aspx&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+ For more information contact: Kelvin Barwick, kbarwick@ocsd.org (714-593-7475)&#x3C;br /&#x3E;
+&#x3C;a href=&#x22;SCUM-XV-flyer.pdf&#x22;&#x3E;Meeting Flyer&#x3C;/a&#x3E;
+</description>
 </item>
 </rdf:RDF>
