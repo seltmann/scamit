@@ -24,7 +24,7 @@
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Dec10" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Dec11" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Jan10" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Feb14" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Feb14b" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#scum22jan" />
  </rdf:Seq>
 </items>
@@ -155,13 +155,13 @@
 <link>http://www.scamit.org/index.html#Jan10</link>
 <description>Another in the series of literature review meetings (echinoderms and miscellaneous phyla are yet to be covered) location TBD or Leslie Harris will host a polychaete meeting at the NHMLAC.</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#Feb14">
-<title>&#x3C;a name=&#x22;Feb14&#x22;&#x3E;&#x3C;b&#x3E;Monday 14 February 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+<item rdf:about="http://www.scamit.org/index.html#Feb14b">
+<title>&#x3C;a name=&#x22;Feb14b&#x22;&#x3E;&#x3C;b&#x3E;Monday 14 February 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
-&#x3C;i&#x3E;Cnidaria literature review&#x3C;/i&#x3E;
+&#x3C;i&#x3E;Cnidaria, nemertean, &#x26;amp; flatworm literature review&#x3C;/i&#x3E;
  at Dancing Coyote Ranch.</title>
-<link>http://www.scamit.org/index.html#Feb14</link>
-<description>John Ljubenkov will lead a review of recent published literature highlighting potential changes in the Ed 5 species list. We need someone to lead a similar discussion covering another group.</description>
+<link>http://www.scamit.org/index.html#Feb14b</link>
+<description>John Ljubenkov will lead a review of recent cnidarian literature highlighting potential changes in the Ed 5 species list. Tony Phillips will address nemertean and flatworm literature.</description>
 </item>
 <item rdf:about="http://www.scamit.org/index.html#scum22jan">
 <title>&#x3C;a name=&#x22;scum22jan&#x22;&#x3E;&#x3C;b&#x3E;22 January 2011&#x3C;/b&#x3E;&#x3C;/a&#x3E;
