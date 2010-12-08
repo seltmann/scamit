@@ -21,9 +21,10 @@
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#smith" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#mesls" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Nov15" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Dec10" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Dec11" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Jan10" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Feb14" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#scum22jan" />
  </rdf:Seq>
 </items>
@@ -130,21 +131,13 @@
  Moscow, ID 83843&#x3C;br /&#x3E;
  etorok@ecoanalysts.com</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#Nov15">
-<title>&#x3C;a name=&#x22;Nov15&#x22;&#x3E;&#x3C;b&#x3E;Monday 15 November 2010 9:30 AM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;i&#x3E;Mollusk literature review and Taxonomic Database testbed demo&#x3C;/i&#x3E;
- at OCSD meeting room.</title>
-<link>http://www.scamit.org/index.html#Nov15</link>
-<description>Mollusk literature review, followed by a demo of the testing version of the new Taxonomic Database. Non-mollusk taxonomists who are likely to be extensive users of the Taxonomic Database can attend the demo to see its features and provide feedback for further development.</description>
-</item>
 <item rdf:about="http://www.scamit.org/index.html#Dec10">
 <title>&#x3C;a name=&#x22;Dec10&#x22;&#x3E;&#x3C;b&#x3E;Friday 10 December 2010 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
-&#x3C;i&#x3E;Arthropoda: Crustacea literature review&#x3C;/i&#x3E;
+&#x3C;i&#x3E;Arthropoda literature review&#x3C;/i&#x3E;
  at LACSD.</title>
 <link>http://www.scamit.org/index.html#Dec10</link>
-<description>Don Cadien will lead a review of new Arthropoda: Crustacea literature with emphasis on papers reporting newly described/reported species to S. Cal. or revisionary papers effecting name usage or taxonomic hierarchy of our local fauna. Dr. Mary Wicksten will be attend the meeting to contribute and discuss her recent work on Eastern Pacific decapods. I hope all our local crustacean taxonomists will plan on attending this meeting. Don will be sending out more information prior to the meeting.</description>
+<description>Don Cadien will lead a review of new Arthropoda: Arthropoda literature with emphasis on papers reporting newly described/reported species to S. Cal. or revisionary papers effecting name usage or taxonomic hierarchy of our local fauna. Dr. Mary Wicksten will be attend the meeting to provide updates on her decapod research and the BP Gulf oil spill. I hope all our local crustacean taxonomists will plan on attending this meeting. Don will be sending out more information prior to the meeting.</description>
 </item>
 <item rdf:about="http://www.scamit.org/index.html#Dec11">
 <title>&#x3C;a name=&#x22;Dec11&#x22;&#x3E;&#x3C;b&#x3E;Saturday 11 December 2010 5:30&#x26;ndash;9:00&#x26;nbsp;PM&#x3C;/b&#x3E;&#x3C;/a&#x3E;
@@ -152,7 +145,23 @@
 &#x3C;i&#x3E;SCAMIT Christmas Party&#x3C;/i&#x3E;
  at Cabrillo Marine Aquarium.</title>
 <link>http://www.scamit.org/index.html#Dec11</link>
-<description>All SCAMIT members and their families are invited to attend. In addition, the officers decided it would be neighborly to invite members and their families of our two sister groups to join us. Invitations will be extended to the members of the Southwestern Association of Freshwater Invertebrate Taxonomists (SAFIT) and the Southern California Association of Ichthyological Taxonomists and Ecologists (SCAITE). It should make for a lively event. More details later.</description>
+<description>All SCAMIT members and their families are invited to attend. In addition, the officers decided it would be neighborly to invite members and their families of our two sister groups to join us. Invitations will be extended to the members of the Southwestern Association of Freshwater Invertebrate Taxonomists (SAFIT) and the Southern California Association of Ichthyological Taxonomists and Ecologists (SCAITE). It should make for a lively event.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#Jan10">
+<title>&#x3C;a name=&#x22;Jan10&#x22;&#x3E;&#x3C;b&#x3E;Monday 10 January 2011&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Subject and location TBD&#x3C;/i&#x3E;
+</title>
+<link>http://www.scamit.org/index.html#Jan10</link>
+<description>Another in the series of literature review meetings (echinoderms and miscellaneous phyla are yet to be covered) location TBD or Leslie Harris will host a polychaete meeting at the NHMLAC.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#Feb14">
+<title>&#x3C;a name=&#x22;Feb14&#x22;&#x3E;&#x3C;b&#x3E;Monday 14 February 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Cnidaria literature review&#x3C;/i&#x3E;
+ at Dancing Coyote Ranch.</title>
+<link>http://www.scamit.org/index.html#Feb14</link>
+<description>John Ljubenkov will lead a review of recent published literature highlighting potential changes in the Ed 5 species list. We need someone to lead a similar discussion covering another group.</description>
 </item>
 <item rdf:about="http://www.scamit.org/index.html#scum22jan">
 <title>&#x3C;a name=&#x22;scum22jan&#x22;&#x3E;&#x3C;b&#x3E;22 January 2011&#x3C;/b&#x3E;&#x3C;/a&#x3E;
