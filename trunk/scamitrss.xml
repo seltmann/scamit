@@ -16,30 +16,15 @@
 <description>Southern California Association of Marine Invertebrate Taxonomists</description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#nhmlac" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#scdnr" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#smith" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#mesls" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Jan10" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Jan25" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Feb14b" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#scum22jan" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Mar14" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Mar14" />
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.scamit.org/jobs.html#nhmlac">
-<title>&#x3C;a name=&#x22;nhmlac&#x22;&#x3E;Natural History Museum of Los Angeles County&#x3C;/a&#x3E;
-&#x3C;b&#x3E;Curatorial Assistant in Crustacea&#x3C;/b&#x3E;
-</title>
-<link>http://www.scamit.org/jobs.html#nhmlac</link>
-<description>&#x3C;i&#x3E;4 November 2010&#x3C;/i&#x3E;
-&#x3C;br /&#x3E;
- The Natural History Museum of Los Angeles County invites applications for the position of Curatorial Assistant in Crustacea. This position will complement existing staff and requires excellent organization and communication skills. The successful individual will assist with curation, sorting, databasing, and physical integration of Crustacea and other invertebrates into the Museum&#xE2;&#x80;&#x99;s vast marine invertebrate collections. This person provides technical, curatorial, and clerical support for Crustacea and the Marine Biodiversity Center in the performance of collection, research, and educational activities. We seek an individual with experience with marine invertebrates, specifically Crustacea. The applicant should have a B.S. degree in Biology and preferrably knowledge of, and experience with, contemporary museum collection management and specimen conservation techniques. The Museum&#x27;s Marine Invertebrate group includes Crustacea, Echinoderms, Malacology, Invertebrate Paleontology, Polychaetous Annelids, and the Marine Biodiversity Center. The individual we are seeking must be resourceful and have excellent interpersonal skills. Learn more about the Museum by visiting &#x3C;a href=&#x22;http://www.nhm.org&#x22;&#x3E;http://www.nhm.org&#x3C;/a&#x3E;
-.&#x3C;br /&#x3E;
- This is a full time, regular, exempt position position with benefits and is available immediately.&#x3C;br /&#x3E;
- Review of applications begins immediately and continues until the position is filled. Please email your curriculum vitae and a cover letter that describes your curatorial experience to: Regina Wetzer, Ph.D., Director, Marine Biodiversity Center, rwetzer@nhm.org. Your subject line should state &#x201C;Curatorial Assistant Crustacea&#x201D;.</description>
-</item>
 <item rdf:about="http://www.scamit.org/jobs.html#scdnr">
 <title>&#x3C;a name=&#x22;scdnr&#x22;&#x3E;South Carolina Department of Natural Resources&#x3C;/a&#x3E;
 &#x3C;b&#x3E;Assistant Marine Scientist: Marine Invertebrate Taxonomist/Biogeographer&#x3C;/b&#x3E;
@@ -130,50 +115,20 @@
  Moscow, ID 83843&#x3C;br /&#x3E;
  etorok@ecoanalysts.com</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#Jan10">
-<title>&#x3C;a name=&#x22;Jan10&#x22;&#x3E;&#x3C;b&#x3E;Monday 10 January 2011&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+<item rdf:about="http://www.scamit.org/index.html#Mar14">
+<title>&#x3C;a name=&#x22;Mar14&#x22;&#x3E;&#x3C;b&#x3E;Monday 14 March 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
-&#x3C;i&#x3E;Subject and location TBD&#x3C;/i&#x3E;
-</title>
-<link>http://www.scamit.org/index.html#Jan10</link>
-<description>Another in the series of literature review meetings (echinoderms and miscellaneous phyla are yet to be covered) location TBD or Leslie Harris will host a polychaete meeting at the NHMLAC.</description>
+&#x3C;i&#x3E;Literature review completing coverage of the Other Phyla&#x3C;/i&#x3E;
+ at OCSD.</title>
+<link>http://www.scamit.org/index.html#Mar14</link>
+<description>Tunicates (Megan), Enteropneusta (Tony), Phoronids (Eric), Echiura (Megan), Sipuncula (Megan), Sponges (Don), Bryozoa (Don), Brachiopoda (Don), Entoprocta (Kelvin) Kinorhyncha (Kelvin), Nematoda (Don), Cephalochordata (Wendy).</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#Jan25">
-<title>&#x3C;a name=&#x22;Jan25&#x22;&#x3E;&#x3C;b&#x3E;Monday 24 January 2011&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+<item rdf:about="http://www.scamit.org/index.html#Mar14">
+<title>&#x3C;a name=&#x22;Mar14&#x22;&#x3E;&#x3C;b&#x3E;Monday 11 April 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
-&#x3C;i&#x3E;Echinodermata literature review and &#x3C;/i&#x3E;
-Pentamera&#x3C;i&#x3E; ID problems from Bight&#x26;nbsp;&#x26;rsquo;08 revisited&#x3C;/i&#x3E;
- at City of San Diego lab.</title>
-<link>http://www.scamit.org/index.html#Jan25</link>
-<description>The meeting will be led by Megan Lilly. Please contact Megan if you have any new literature to share. Please bring &#x3C;i&#x3E;Pentamera&#x3C;/i&#x3E;
- vouchers and problem specimens to help in resolving species identification issues that were discovered during Bight&#xA0;&#x2019;08 QA review.</description>
-</item>
-<item rdf:about="http://www.scamit.org/index.html#Feb14b">
-<title>&#x3C;a name=&#x22;Feb14b&#x22;&#x3E;&#x3C;b&#x3E;Monday 14 February 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;i&#x3E;Cnidaria, nemertean, &#x26;amp; flatworm literature review&#x3C;/i&#x3E;
+&#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 Cnidaria specialty taxonomy species review and workshop&#x3C;/i&#x3E;
  at Dancing Coyote Ranch.</title>
-<link>http://www.scamit.org/index.html#Feb14b</link>
-<description>John Ljubenkov will lead a review of recent cnidarian literature highlighting potential changes in the Ed 5 species list. Tony Phillips will address nemertean and flatworm literature.</description>
-</item>
-<item rdf:about="http://www.scamit.org/index.html#scum22jan">
-<title>&#x3C;a name=&#x22;scum22jan&#x22;&#x3E;&#x3C;b&#x3E;22 January 2011&#x3C;/b&#x3E;&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;i&#x3E;SCUM XV (Southern California Unified Malacologists)&#x3C;/i&#x3E;
-</title>
-<link>http://www.scamit.org/index.html#scum22jan</link>
-<description>9:00 AM to 9:30 AM &#x2014; Meet &#x26; Greet (coffee and donuts)&#x3C;br /&#x3E;
- 9:30 AM to 12:00 PM &#x2014; Introductions &#x26; Presentations&#x3C;br /&#x3E;
- 12:00 PM to 1:00 PM &#x2014; Lunch (menu TBD)&#x3C;br /&#x3E;
- 1:00 PM to 3:30 PM &#x2014; Presentations continued&#x3C;br /&#x3E;
- At:&#x3C;br /&#x3E;
- Southern California Coastal Water Research Project&#x3C;br /&#x3E;
- 3535 Harbor Blvd., Suite 110&#x3C;br /&#x3E;
- Costa Mesa, CA&#x3C;br /&#x3E;
- Directions: &#x3C;a href=&#x22;http://www.sccwrp.org/ContactUs/Directions.aspx&#x22;&#x3E;http://www.sccwrp.org/ContactUs/Directions.aspx&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
- For more information contact: Kelvin Barwick, kbarwick@ocsd.org (714-593-7475)&#x3C;br /&#x3E;
-&#x3C;a href=&#x22;SCUM-XV-flyer.pdf&#x22;&#x3E;Meeting Flyer&#x3C;/a&#x3E;
-</description>
+<link>http://www.scamit.org/index.html#Mar14</link>
+<description>Cnidaria specialty taxonomy species review and workshop to be led by John Ljubenkov.</description>
 </item>
 </rdf:RDF>
