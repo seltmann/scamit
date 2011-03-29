@@ -20,8 +20,7 @@
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#smith" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#mesls" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Mar14" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Mar14" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Apr11" />
  </rdf:Seq>
 </items>
 </channel>
@@ -115,20 +114,12 @@
  Moscow, ID 83843&#x3C;br /&#x3E;
  etorok@ecoanalysts.com</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#Mar14">
-<title>&#x3C;a name=&#x22;Mar14&#x22;&#x3E;&#x3C;b&#x3E;Monday 14 March 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;i&#x3E;Literature review completing coverage of the Other Phyla&#x3C;/i&#x3E;
- at OCSD.</title>
-<link>http://www.scamit.org/index.html#Mar14</link>
-<description>Tunicates (Megan), Enteropneusta (Tony), Phoronids (Eric), Echiura (Megan), Sipuncula (Megan), Sponges (Don), Bryozoa (Don), Brachiopoda (Don), Entoprocta (Kelvin) Kinorhyncha (Kelvin), Nematoda (Don), Cephalochordata (Wendy).</description>
-</item>
-<item rdf:about="http://www.scamit.org/index.html#Mar14">
-<title>&#x3C;a name=&#x22;Mar14&#x22;&#x3E;&#x3C;b&#x3E;Monday 11 April 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+<item rdf:about="http://www.scamit.org/index.html#Apr11">
+<title>&#x3C;a name=&#x22;Apr11&#x22;&#x3E;&#x3C;b&#x3E;Monday 11 April 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 Cnidaria specialty taxonomy species review and workshop&#x3C;/i&#x3E;
  at Dancing Coyote Ranch.</title>
-<link>http://www.scamit.org/index.html#Mar14</link>
+<link>http://www.scamit.org/index.html#Apr11</link>
 <description>Cnidaria specialty taxonomy species review and workshop to be led by John Ljubenkov.</description>
 </item>
 </rdf:RDF>
