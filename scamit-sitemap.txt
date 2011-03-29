@@ -83,7 +83,7 @@
 <url>
  <loc>http://scamit.org/newsletters/2010-01.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-11-03</lastmod>
+ <lastmod>2010-11-05</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1998-10.pdf</loc>
@@ -143,7 +143,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1989-06.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1984-12.pdf</loc>
@@ -223,7 +223,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1989-02.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1999-05.pdf</loc>
@@ -318,7 +318,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1988-09.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1985-05.pdf</loc>
@@ -388,12 +388,12 @@
 <url>
  <loc>http://scamit.org/newsletters/1987-04.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1988-05.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1987-10.pdf</loc>
@@ -413,7 +413,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1991-07.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-09-01</lastmod>
+ <lastmod>2010-08-30</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1986-05.pdf</loc>
@@ -488,7 +488,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1989-01.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1991-02.pdf</loc>
@@ -508,7 +508,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1989-05.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/2002-07.pdf</loc>
@@ -553,7 +553,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1989-04.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1984-10.pdf</loc>
@@ -563,7 +563,7 @@
 <url>
  <loc>http://scamit.org/newsletters/2009-09.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-09-02</lastmod>
+ <lastmod>2010-09-14</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/2003-04.pdf</loc>
@@ -573,7 +573,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1986-08.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1984-07.pdf</loc>
@@ -673,7 +673,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1988-06.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/2003-08.pdf</loc>
@@ -798,7 +798,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1988-11.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1982-04.pdf</loc>
@@ -873,12 +873,12 @@
 <url>
  <loc>http://scamit.org/newsletters/1988-04.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1988-02.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1996-04b.pdf</loc>
@@ -898,7 +898,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1988-07.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1992-09.pdf</loc>
@@ -918,7 +918,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1986-07.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-09-01</lastmod>
+ <lastmod>2010-08-30</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1998-05.pdf</loc>
@@ -943,7 +943,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1991-03.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-09-01</lastmod>
+ <lastmod>2010-08-30</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1990-09.pdf</loc>
@@ -978,7 +978,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1989-03.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1996-01.pdf</loc>
@@ -1028,7 +1028,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1986-06.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-09-01</lastmod>
+ <lastmod>2010-08-30</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1995-02.pdf</loc>
@@ -1103,7 +1103,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1986-01.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-09-01</lastmod>
+ <lastmod>2010-08-30</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1984-08.pdf</loc>
@@ -1158,7 +1158,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1986-03.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-09-01</lastmod>
+ <lastmod>2010-08-30</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1994-10.pdf</loc>
@@ -1193,7 +1193,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1989-07.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1982-11.pdf</loc>
@@ -1258,7 +1258,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1988-01.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/2005-02.pdf</loc>
@@ -1278,7 +1278,7 @@
 <url>
  <loc>http://scamit.org/newsletters/1988-10.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1996-12.pdf</loc>
@@ -1398,12 +1398,12 @@
 <url>
  <loc>http://scamit.org/newsletters/1988-12.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1985-02.pdf</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2010-08-26</lastmod>
+ <lastmod>2010-08-25</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/newsletters/1987-03.pdf</loc>
