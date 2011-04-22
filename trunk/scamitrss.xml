@@ -20,7 +20,7 @@
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#smith" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#mesls" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Apr11" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#May16" />
  </rdf:Seq>
 </items>
 </channel>
@@ -114,12 +114,12 @@
  Moscow, ID 83843&#x3C;br /&#x3E;
  etorok@ecoanalysts.com</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#Apr11">
-<title>&#x3C;a name=&#x22;Apr11&#x22;&#x3E;&#x3C;b&#x3E;Monday 11 April 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+<item rdf:about="http://www.scamit.org/index.html#May16">
+<title>&#x3C;a name=&#x22;May16&#x22;&#x3E;&#x3C;b&#x3E;Monday 16 May 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
-&#x3C;i&#x3E;Bight&#x26;nbsp;&#x26;rsquo;08 Cnidaria specialty taxonomy species review and workshop&#x3C;/i&#x3E;
- at Dancing Coyote Ranch.</title>
-<link>http://www.scamit.org/index.html#Apr11</link>
-<description>Cnidaria specialty taxonomy species review and workshop to be led by John Ljubenkov.</description>
+&#x3C;i&#x3E;Ostracod family Cylindroleberididae species review and workshop&#x3C;/i&#x3E;
+ at City of San Diego Environmental Monitoring Lab.</title>
+<link>http://www.scamit.org/index.html#May16</link>
+<description>The Bight&#xA0;&#x2019;08 QA review results indicated a need for a refresher on the species reported, literature being used, and understanding of the character states used to separate species. Those attending are asked to bring the literature they use and voucher specimens to the meeting. We will spend the morning reviewing the literature and the afternoon examining specimens.</description>
 </item>
 </rdf:RDF>
