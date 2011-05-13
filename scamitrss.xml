@@ -21,6 +21,12 @@
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#mesls" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#May16" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#June13" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Aug15" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Sep2011" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#c15e585619e8ddda069b44dee067fb63" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#ad69d2a17e9a4bd9b13d43e71eac672c" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#0b47b3996b6cce03b5d6b615322c3be6" />
  </rdf:Seq>
 </items>
 </channel>
@@ -121,5 +127,53 @@
  at City of San Diego Environmental Monitoring Lab.</title>
 <link>http://www.scamit.org/index.html#May16</link>
 <description>The Bight&#xA0;&#x2019;08 QA review results indicated a need for a refresher on the species reported, literature being used, and understanding of the character states used to separate species. Those attending are asked to bring the literature they use and voucher specimens to the meeting. We will spend the morning reviewing the literature and the afternoon examining specimens.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#June13">
+<title>&#x3C;a name=&#x22;June13&#x22;&#x3E;&#x3C;b&#x3E;Monday 13 June 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Oligochaetes with Dr. Joahua Mackie CSUSJ&#x3C;/i&#x3E;
+ at NHMLAC.</title>
+<link>http://www.scamit.org/index.html#June13</link>
+<description>Dr. Mackie has been doing the oligochaete identifications for the MLML ISS samples and will be sharing his findings and oligochaete identification techniques. This should be an informative meeting on a subject we have little experience with.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#Aug15">
+<title>&#x3C;a name=&#x22;Aug15&#x22;&#x3E;&#x3C;b&#x3E;Monday 15 August 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Morphbank image submittal workshop&#x3C;/i&#x3E;
+ at SCCWRP in the large conference room.</title>
+<link>http://www.scamit.org/index.html#Aug15</link>
+<description>Deb Paul, Morphbank FSU, will visit us to lead another workshop on Morphbank image submittal. We will receive hands on experience using two modes of image submittal. We will submit images using the online Morphbank website system in the morning, then use the newer spreadsheet submittal system in the afternoon. Those attending should bring 10 - 20 benthic invertebrate images with supporting collection information. This is planned as a productive day of uploading new images to Morphbank. Those who cannot attend will be able to follow the meeting online via SCCWRP&#x27;s web conferencing. Details for web access to follow.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#Sep2011">
+<title>&#x3C;a name=&#x22;Sep2011&#x22;&#x3E;&#x3C;b&#x3E;&#x3C;i&#x3E;[date TBA]&#x3C;/i&#x3E; September 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Enteropneusta&#x3C;/i&#x3E;
+ at Lilly Pad Environmental, Escondido, CA (directions to follow).</title>
+<link>http://www.scamit.org/index.html#Sep2011</link>
+<description>Megan will lead a workshop on Enteropneusta. Those who plan to attend are asked to use their July field sampling events to pull specimens for special handling and preservation during collection. That way materials in excellent condition will be available for the meeting. We hope to improve the level of identification for this group at this meeting.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#c15e585619e8ddda069b44dee067fb63">
+<title>&#x3C;a name=&#x22;&#x22;&#x3E;&#x3C;b&#x3E;Monday 17 October 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Enopla Bight&#x26;nbsp;&#x26;rsquo;08 specialty taxonomy presentation&#x3C;/i&#x3E;
+ at OCSD.</title>
+<link>http://www.scamit.org/index.html#c15e585619e8ddda069b44dee067fb63</link>
+<description>Tony Phillips will present his findings from the Bight&#xA0;&#x2019;08 samples. He will review the characters used to identify the species and have specimens for examination. Bring any strange enoplans from your regular samples you need help with to this meeting.</description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#ad69d2a17e9a4bd9b13d43e71eac672c">
+<title>&#x3C;a name=&#x22;&#x22;&#x3E;&#x3C;b&#x3E;Monday 14 November 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;Syllidae Bight&#x26;nbsp;&#x26;rsquo;08 specialty taxonomy presentation&#x3C;/i&#x3E;
+ at City of San Diego Environmental Monitoring Lab.</title>
+<link>http://www.scamit.org/index.html#ad69d2a17e9a4bd9b13d43e71eac672c</link>
+<description>Ron Velarde will present the results of his Bight&#xA0;&#x2019;08 work on this difficult polychaete family. There will be updates to the current name usage presented and important character states will be reviewed. There is sure to be new information on this family presented at this meeting. </description>
+</item>
+<item rdf:about="http://www.scamit.org/index.html#0b47b3996b6cce03b5d6b615322c3be6">
+<title>&#x3C;a name=&#x22;&#x22;&#x3E;&#x3C;b&#x3E;Monday 12 December 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+&#x3C;i&#x3E;SCB isopod review&#x3C;/i&#x3E;
+ at City of San Diego Environmental Monitoring Lab.</title>
+<link>http://www.scamit.org/index.html#0b47b3996b6cce03b5d6b615322c3be6</link>
+<description>Dr. Tim Stebbins will lead a review of the isopod fauna reported from the Southern California Bight. He will present images and discuss aspects of isopod taxonomy and ecology. This will be the first of several review meetings on isopods planned by Tim. </description>
 </item>
 </rdf:RDF>
