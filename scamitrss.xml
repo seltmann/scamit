@@ -22,7 +22,7 @@
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#May16" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#June13" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#Aug15" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#Aug15b" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Sep2011" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#c15e585619e8ddda069b44dee067fb63" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#ad69d2a17e9a4bd9b13d43e71eac672c" />
@@ -136,15 +136,15 @@
 <link>http://www.scamit.org/index.html#June13</link>
 <description>Dr. Mackie has been doing the oligochaete identifications for the MLML ISS samples and will be sharing his findings and oligochaete identification techniques. This should be an informative meeting on a subject we have little experience with.</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#Aug15">
+<item rdf:about="http://www.scamit.org/index.html#Aug15b">
 <title>&#x3C;b&#x3E;July 2011&#x3C;/b&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;No meeting scheduled due to member involvement in the extensive field sampling efforts of Southern California POTW labs.&#x3C;/i&#x3E;
-&#x3C;a name=&#x22;Aug15&#x22;&#x3E;&#x3C;b&#x3E;Monday 15 August 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+&#x3C;a name=&#x22;Aug15b&#x22;&#x3E;&#x3C;b&#x3E;Monday &#x3C;span class=&#x22;cancel&#x22;&#x3E;15 August&#x3C;/span&#x3E; 8 August 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E; &#x3C;span class=&#x22;notedate&#x22;&#x3E;(Note date change)&#x3C;/span&#x3E; &#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;Morphbank image submittal workshop&#x3C;/i&#x3E;
  at SCCWRP in the large conference room.</title>
-<link>http://www.scamit.org/index.html#Aug15</link>
+<link>http://www.scamit.org/index.html#Aug15b</link>
 <description>Deb Paul, Morphbank FSU, will visit us to lead another workshop on Morphbank image submittal. We will receive hands on experience using two modes of image submittal. We will submit images using the online Morphbank website system in the morning, then use the newer spreadsheet submittal system in the afternoon. Those attending should bring 10 - 20 benthic invertebrate images with supporting collection information. This is planned as a productive day of uploading new images to Morphbank. Those who cannot attend will be able to follow the meeting online via SCCWRP&#x27;s web conferencing. Details for web access to follow.</description>
 </item>
 <item rdf:about="http://www.scamit.org/index.html#Sep2011">
