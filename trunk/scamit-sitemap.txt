@@ -1071,6 +1071,11 @@
  <lastmod>2010-07-26</lastmod>
 </url>
 <url>
+ <loc>http://scamit.org/newsletters/2010-05.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-05-27</lastmod>
+</url>
+<url>
  <loc>http://scamit.org/newsletters/1997-06.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-07-26</lastmod>
