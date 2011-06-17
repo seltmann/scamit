@@ -306,14 +306,16 @@ img.cutepic {
 /* box to go around job listings */
 DIV.job {
   border: solid 3px #ff9900;
-  padding: 0;
+  padding: 1em;
   margin-bottom: 1ex;
+  -moz-border-radius: 1em 1em;
+  border-radius: 1em 1em;
+  background-color: #ddd;
 }
 /* job listing parts */
 P.jobhead {
   margin: 0;
-  padding: 0.05in;
-  background-color: #ddd;
+  padding: 0 0 1em 0;
   font-size: larger;
   font-style: italic;
   text-align: left;
