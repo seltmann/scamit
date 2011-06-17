@@ -16,12 +16,10 @@
 <description>Southern California Association of Marine Invertebrate Taxonomists</description>
 <items>
  <rdf:Seq>
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#scdnr" />
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#smith" />
-  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#mesls" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#sc" />
+  <rdf:li rdf:resource="http://www.scamit.org/jobs.html#orangecounty" />
   <rdf:li rdf:resource="http://www.scamit.org/jobs.html#ecoanalysts" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#May16" />
-  <rdf:li rdf:resource="http://www.scamit.org/index.html#June13" />
+  <rdf:li rdf:resource="http://www.scamit.org/index.html#June13b" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Aug15b" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#Sep2011" />
   <rdf:li rdf:resource="http://www.scamit.org/index.html#c15e585619e8ddda069b44dee067fb63" />
@@ -30,79 +28,55 @@
  </rdf:Seq>
 </items>
 </channel>
-<item rdf:about="http://www.scamit.org/jobs.html#scdnr">
-<title>&#x3C;a name=&#x22;scdnr&#x22;&#x3E;South Carolina Department of Natural Resources&#x3C;/a&#x3E;
-&#x3C;b&#x3E;Assistant Marine Scientist: Marine Invertebrate Taxonomist/Biogeographer&#x3C;/b&#x3E;
+<item rdf:about="http://www.scamit.org/jobs.html#sc">
+<title>&#x3C;a name=&#x22;sc&#x22;&#x3E;ASSOCIATE MARINE SCIENTIST (Benthic Ecology/Environmental Research)&#x3C;/a&#x3E;
+&#x3C;b&#x3E;South Carolina Department of Natural Resources&#x3C;/b&#x3E;
 </title>
-<link>http://www.scamit.org/jobs.html#scdnr</link>
-<description>&#x3C;i&#x3E;3 November 2010&#x3C;/i&#x3E;
+<link>http://www.scamit.org/jobs.html#sc</link>
+<description>&#x3C;i&#x3E;June 5, 2011 &#x26;ndash; July 5, 2011&#x3C;/i&#x3E;
 &#x3C;br /&#x3E;
- The Marine Resources Research Institute (MRRI), which is located in Charleston, South Carolina, has an Assistant Marine Scientist position available for an individual with experience in marine invertebrate taxonomy/systematics, preferably with research interest in biodiversity and/or biogeography. This position involves directing operation of the Southeastern Regional Taxonomic Center (SERTC), including curating and expanding the Center&#xE2;&#x80;&#x99;s specimen collection. The successful candidate will also be expected to conduct original research using the Center&#xE2;&#x80;&#x99;s resources, pursue extramural funding to ensure the Center&#xE2;&#x80;&#x99;s longevity and relevance, meet staffing needs, participate in educational activities, and represent the Center and promote its activities among staff of other institutions, universities and museums.&#x3C;br /&#x3E;
- This position requires a Ph.D. in marine science, zoology, ecology or biology, experience in marine invertebrate taxonomy and systematics, knowledge of basic collection curation, demonstrated strong technical writing skills, and good organizational and managerial skills. This position is currently fully funded for a period of one year at a starting base salary of $40,000 with full benefits, but has the potential to continue contingent upon the success of recent funding requests. Applicants must be legally authorized to work in the United States.&#x3C;br /&#x3E;
- The SERTC is located within MRRI at the Marine Resources Center adjacent to Charleston Harbor. Institute staff interact routinely and extensively with staff at other facilities located at the Center, including the College of Charleston&#xE2;&#x80;&#x99;s Grice Marine Laboratory, NOAA&#xE2;&#x80;&#x99;s Center for Coastal Environmental Health and Biomolecular Research, NOAA&#xE2;&#x80;&#x99;s Hollings Marine Laboratory, NIST, and the Medical University of South Carolina&#xE2;&#x80;&#x99;s Marine Biomedical Program. The successful applicant may apply for an adjunct faculty appointment in the College of Charleston&#xE2;&#x80;&#x99;s Graduate Program in Marine Biology and/or Masters of Environmental Studies program. For more information, please visit SERTC (&#x3C;a href=&#x22;http://www.dnr.sc.gov/marine/sertc/&#x22;&#x3E;http://www.dnr.sc.gov/marine/sertc/&#x3C;/a&#x3E;
-) as well as the MRRI (&#x3C;a href=&#x22;http://www.dnr.sc.gov/marine/mrri/mrri.htm&#x22;&#x3E;http://www.dnr.sc.gov/marine/mrri/mrri.htm&#x3C;/a&#x3E;
-) online.&#x3C;br /&#x3E;
- To apply, complete a South Carolina state application at &#x3C;a href=&#x22;http://www.ohr.sc.gov/OHR/OHR-jobs-portal-index.phtm&#x22;&#x3E;http://www.ohr.sc.gov/OHR/OHR-jobs-portal-index.phtm&#x3C;/a&#x3E;
- (keyword search for &#xE2;&#x80;&#x9C;Assistant Marine Scientist&#xE2;&#x80;&#x9D;) or &#x3C;a href=&#x22;http://agency.governmentjobs.com/sc/default.cfm?action=viewJob&#x26;amp;jobID=268135&#x22;&#x3E;click here&#x3C;/a&#x3E;
-.&#x3C;br /&#x3E;
- In addition, please send a cover letter, CV and statement of research interests to the email address below. Applications will be reviewed after December 1, but the job will remain open until filled.&#x3C;br /&#x3E;
- For further information, please contact:&#x3C;br /&#x3E;
- Dr. Derk C. Bergquist&#x3C;br /&#x3E;
- Marine Resources Research Institute&#x3C;br /&#x3E;
- 843-953-9074; bergquistd@dnr.sc.gov</description>
+ Job status: Full-time/permanent Work schedule: 8:30am &#x2013; 5:00pm Monday through Friday, but fieldwork may require occasional 10 or more work hrs. per day and work on weekends.&#x3C;br /&#x3E;
+ Location: Charleston, SC.&#x3C;br /&#x3E;
+ Hiring range: $50,000 &#x2013; $55,000 / yr. dependent on work experience&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Job Description:&#x3C;/b&#x3E;
+ Supervises and conducts research on marine environmental concerns in South Carolina as section manager of the Environmental Research section within the SCDNR&#x27;s Marine Resources Research Instiatute, with technical expertise in benthic ecology. Current studies involve beach nourishment and beach modifications, effects of land use on marine and estuarine biota and habitats, and comprehensive monitoring of the State&#x27;s coastal habitats to assess condition.&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Minimum education and experience:&#x3C;/b&#x3E;
+ Ph.D. in marine science, zoology or biology; specialization benthic ecology/environmental research and at least 3 years of post-graduate owrking iexperience relevant to ecology/environmental science. Statitistical expertise in analyzing large data sets, supervisory experience, demonstrated technical writhing experience.&#x3C;br /&#x3E;
+&#x3C;b&#x3E;Other preferred knowledge, skills, and abilities:&#x3C;/b&#x3E;
+Ability to conduct and lead research as demonstrated by preparation of successful research proposals, completion of research and reports, and peer reviewed publications. Familiarity with benthic ecology and environmental literature, experience and ability in inshore and offshore benthic sampling procedures. ability to swim and lift 50 lb. and participate in field work on daily basis or longer time periods, occasional out- of-town overnight stays, occasional weekend work or working outside of normal hours, ability to work in laboratory in presence of preservatives. Individual must be self motivated, have excellent interpersonnal and time management skills, and attention to detail.&#x3C;br /&#x3E;
+&#x3C;b&#x3E;To apply:&#x3C;/b&#x3E;
+Apply online at &#x3C;a href=&#x22;http://www.state.sc.us/jobs/application&#x22;&#x3E;http://www.state.sc.us/jobs/application&#x3C;/a&#x3E;
+. Agency: Department of Natural Resources&#x3C;br /&#x3E;
+ PLEASE NOTE: Applicants should submit a letter of interest, cv, and statement of qualifications as part of the application. Applicants must be able to legally work in the United States.&#x3C;br /&#x3E;
+ For further information e-mail: &#x3C;a href=&#x22;mailto:vandolahr@dnr.sc.us&#x22;&#x3E;vandolahr@dnr.sc.us&#x3C;/a&#x3E;
+&#x3C;br /&#x3E;
+ Submit a state application to the following address no later than the closing date:&#x3C;br /&#x3E;
+ OPEN DATE: June 5, 2011&#x3C;br /&#x3E;
+ CLOSING DATE: July 5, 2011&#x3C;br /&#x3E;
+ Office of Human Resources&#x3C;br /&#x3E;
+ Department of Natural Resources&#x3C;br /&#x3E;
+ P.O. Box 167, 1000 Assembly Street&#x3C;br /&#x3E;
+ Columbia, South Carolina 29202-0167&#x3C;br /&#x3E;
+ (803) 734-4400&#x3C;br /&#x3E;
+ EMAIL: JOBS@DNR.SC.GOV&#x3C;br /&#x3E;
+ College transcripts must be available upon request. South Carolina Department of Natural Resources is an EEO/AA Employer.</description>
 </item>
-<item rdf:about="http://www.scamit.org/jobs.html#smith">
-<title>&#x3C;a name=&#x22;smith&#x22;&#x3E;Smithsonian National Museum of Natural History&#x3C;/a&#x3E;
-&#x3C;b&#x3E;Invertebrate Zoologist&#x3C;/b&#x3E;
+<item rdf:about="http://www.scamit.org/jobs.html#orangecounty">
+<title>&#x3C;a name=&#x22;orangecounty&#x22;&#x3E;Orange County Environmental Specialist&#x3C;/a&#x3E;
+&#x3C;b&#x3E;Orange County Sanitation District&#x3C;/b&#x3E;
+&#x3C;b&#x3E;Principal Environmental Specialist&#x3C;/b&#x3E;
 </title>
-<link>http://www.scamit.org/jobs.html#smith</link>
-<description>&#x3C;i&#x3E;1 November 2010&#x3C;/i&#x3E;
+<link>http://www.scamit.org/jobs.html#orangecounty</link>
+<description>&#x3C;i&#x3E;7 June 2011&#x3C;/i&#x3E;
 &#x3C;br /&#x3E;
- If you might be interested in joining the Smithsonian NMNH community as a research zoologist, please check out the advertisement linked below.&#x3C;br /&#x3E;
- Job Title: Research Zoologist&#x3C;br /&#x3E;
- Agency: Smithsonian Institution&#x3C;br /&#x3E;
- Sub Agency: Smithsonian&#x3C;br /&#x3E;
- Job Announcement Number: 11A-RB-296421-DEU-NMNH&#x3C;br /&#x3E;
- SALARY RANGE: $74,872.00 - $79,864.00 /year&#x3C;br /&#x3E;
- OPEN PERIOD: Friday, October 29, 2010 to Friday, December 10, 2010&#x3C;br /&#x3E;
- SERIES &#x26; GRADE: GS-0410-12/12&#x3C;br /&#x3E;
- POSITION INFORMATION: Full-Time Term Appointment NTE 4 years.&#x3C;br /&#x3E;
- PROMOTION POTENTIAL: 12&#x3C;br /&#x3E;
- DUTY LOCATIONS: 1 vacancy - Washington DC Metro Area, DC&#x3C;br /&#x3E;
- WHO MAY BE CONSIDERED: This position is open to all U.S. Citizens or U.S. Nationals.&#x3C;br /&#x3E;
- JOB SUMMARY: This position is located in the Department of Invertebrate Zoology, National Museum of Natural History, Smithsonian Institution. The employee will perform scholarly scientific research and professional curation in part of the National Collections relating to invertebrate evolution and biodiversity.&#x3C;br /&#x3E;
-&#x3C;a href=&#x22;http://jobview.usajobs.gov/GetJob.aspx?JobID=91767617&#x26;amp;JobTitle=Research+Zoologist&#x26;amp;brd=3876&#x26;amp;vw=b&#x26;amp;FedEmp=Y&#x26;amp;FedPub=Y&#x26;amp;x=83&#x26;amp;y=18&#x26;amp;jbf574=SM03&#x26;amp;pg=2&#x26;amp;re=3&#x26;amp;AVSDM=2010-10-29+00%3a03%3a00&#x22;&#x3E;Link to full job description&#x3C;/a&#x3E;
-.&#x3C;br /&#x3E;
- Dr. Allen G. Collins&#x3C;br /&#x3E;
- COLLINSA@si.edu&#x3C;br /&#x3E;
- phone: (202) 633-0645, fax: (202) 633-8848&#x3C;br /&#x3E;
- Zoologist, National Systematics Laboratory of NOAA Fisheries Service&#x3C;br /&#x3E;
- Curator, Smithsonian National Museum of Natural History&#x3C;br /&#x3E;
- MRC-153, P.O. Box 37012, Washington, DC 20013-7012 USA</description>
-</item>
-<item rdf:about="http://www.scamit.org/jobs.html#mesls">
-<title>&#x3C;a name=&#x22;mesls&#x22;&#x3E;Marine Ecological Surveys&#x3C;/a&#x3E;
-&#x3C;b&#x3E;Senior Marine Macrobenthic Taxonomist&#x3C;/b&#x3E;
-</title>
-<link>http://www.scamit.org/jobs.html#mesls</link>
-<description>&#x3C;i&#x3E;1 September 2010&#x3C;/i&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;a href=&#x22;http://www.seasurvey.co.uk/vacancies&#x22;&#x3E;Senior Marine Macrobenthic Taxonomist&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
- The MESL laboratory specialises in analysis of benthic and epibenthic samples from a wide variety of environments ranging from estuarine to offshore. Primarily our work consists of monitoring for the aggregate industry and, more recently, the renewable energy sector. Our staff comprise of an experienced team of marine biologists who are self-motivated and work to tight deadlines.&#x3C;br /&#x3E;
- We are looking for a senior marine macrobenthic taxonomist whose primary role will be to undertake analysis of benthic samples and identification of all taxonomic groups, together with training of junior staff in benthic taxonomy. You will be educated to at least degree level in marine biology or a related discipline and also have at least two years experience in marine invertebrate analysis and taxonomic identification. While you will be mostly lab-based, you will also be required to participate in fieldwork.&#x3C;br /&#x3E;
- MESL participates in the NMBAQC scheme, and in conjunction with this, we run our own internal training scheme to develop the taxonomic skills of our laboratory staff. We also encourage continued professional development for all our staff.&#x3C;br /&#x3E;
- Please email your CV to &#x3C;a href=&#x22;mailto:lab@seasurvey.co.uk&#x22;&#x3E;lab@seasurvey.co.uk&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
- Sara Marzialetti&#x3C;br /&#x3E;
- Senior Marine Ecologist&#x3C;br /&#x3E;
- Marine Ecological Surveys Limited&#x3C;br /&#x3E;
- 3 Palace Yard Mews&#x3C;br /&#x3E;
- Bath&#x3C;br /&#x3E;
- BA1 2NH&#x3C;br /&#x3E;
- England&#x3C;br /&#x3E;
- Tel: 01225 442211&#x3C;br /&#x3E;
- Fax: 01225 444411</description>
+ The Orange County Sanitation District (OCSD) seeks a Principal Environmental Specialist for its Infaunal Taxonomy Program. Located in southern California, OCSD is a public agency that is dedicated to maintaining world-class leadership in wastewater and water resource management, operating and maintaining the third largest wastewater treatment facilities east of the Mississippi River.&#x3C;br /&#x3E;
+ Under general direction the Principal Environmental Specialist serves as a project leader with a wide variety of technical and administrative responsibilities within the District&#x27;s Environmental and Ocean Monitoring Laboratory. This position will have primary responsibility for management of the Infaunal Taxonomy Program. The successful candidate will possess the equivalent of a Bachelor&#x27;s degree from an accredited college or university with major course work in biological, physical, or environmental science, including coursework and lab work in invertebrate zoology. A minimum of five years of increasingly responsible experience in an environmental laboratory or field collections environment, with three years at a level comparable to a Senior Environmental Specialist with the District is required. Other requirements include: a minimum of two years of recent experience identifying marine invertebrates and familiarity with the taxonomy of at least two taxa groups (e.g. polychaetes, crustaceans, mollusks, echinoderms, or members of the &#x201C;minor phyla&#x201D;); knowledge of wastewater treatment and associated processes, invertebrate zoology and the principles of taxonomy; and experience with compound and dissection microscopes and micro-dissection techniques.&#x3C;br /&#x3E;
+ To learn more and apply, please visit &#x3C;a href=&#x22;http://www.ocsd.com/jobs&#x22;&#x3E;http://www.ocsd.com/jobs&#x3C;/a&#x3E;
+. First application review will occur on 6/23/11.&#x3C;br /&#x3E;
+ Contact information:&#x3C;br /&#x3E;
+ Human Resources Department&#x3C;br /&#x3E;
+ jobs@ocsd.com&#x3C;br /&#x3E;
+ Jobs Help Line: 714-593-7140</description>
 </item>
 <item rdf:about="http://www.scamit.org/jobs.html#ecoanalysts">
 <title>&#x3C;a name=&#x22;ecoanalysts&#x22;&#x3E;EcoAnalysts&#x3C;/a&#x3E;
@@ -120,21 +94,13 @@
  Moscow, ID 83843&#x3C;br /&#x3E;
  etorok@ecoanalysts.com</description>
 </item>
-<item rdf:about="http://www.scamit.org/index.html#May16">
-<title>&#x3C;a name=&#x22;May16&#x22;&#x3E;&#x3C;b&#x3E;Monday 16 May 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
-&#x3C;br /&#x3E;
-&#x3C;i&#x3E;Ostracod family Cylindroleberididae species review and workshop&#x3C;/i&#x3E;
- at City of San Diego Environmental Monitoring Lab.</title>
-<link>http://www.scamit.org/index.html#May16</link>
-<description>The Bight&#xA0;&#x2019;08 QA review results indicated a need for a refresher on the species reported, literature being used, and understanding of the character states used to separate species. Those attending are asked to bring the literature they use and voucher specimens to the meeting. We will spend the morning reviewing the literature and the afternoon examining specimens.</description>
-</item>
-<item rdf:about="http://www.scamit.org/index.html#June13">
-<title>&#x3C;a name=&#x22;June13&#x22;&#x3E;&#x3C;b&#x3E;Monday 13 June 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
+<item rdf:about="http://www.scamit.org/index.html#June13b">
+<title>&#x3C;a name=&#x22;June13b&#x22;&#x3E;&#x3C;b&#x3E;Monday 13 June 2011 9:30&#x26;ndash;3:30&#x3C;/b&#x3E;&#x3C;/a&#x3E;
 &#x3C;br /&#x3E;
 &#x3C;i&#x3E;Oligochaetes with Dr. Joshua Mackie of SJSU&#x3C;/i&#x3E;
  at NHMLAC.</title>
-<link>http://www.scamit.org/index.html#June13</link>
-<description>Dr. Mackie has been doing the oligochaete identifications for the MLML ISS samples and will be sharing his findings and oligochaete identification techniques. This should be an informative meeting on a subject we have little experience with.</description>
+<link>http://www.scamit.org/index.html#June13b</link>
+<description>Dr. Mackie has been doing the oligochaete identifications for the MLML ISS samples and will be sharing his findings and oligochaete identification techniques. This should be an informative meeting on a subject we have little experience with.Parking is free for the members. Tell the parking attendant that you are attending a SCAMIT meeting. It will be in the 2nd floor Education Classroom. Enter through the staff entrance, sign in, then walk through the museum to the elevators (in the hallway past the Cafe). On the 2nd floor, turn right out of the elevator, then right at the T-hallway (Dino lab to the left, Education to the right) &#x26; go through the double doors to Education, then continue; the classroom is about halfway down the hall.Bring your membership forms and payment to the meeting and save postage.</description>
 </item>
 <item rdf:about="http://www.scamit.org/index.html#Aug15b">
 <title>&#x3C;b&#x3E;July 2011&#x3C;/b&#x3E;
