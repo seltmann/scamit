@@ -3,7 +3,7 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Toolbox%20File%20Listing.txt</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2011-07-01</lastmod>
+ <lastmod>2011-07-08</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Misc%20Phyla%20Literature%20from%20CSD.pdf</loc>
@@ -1949,6 +1949,11 @@
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Bogidielloidea%20of%20the%20NEP.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Lysianassoidea%20of%20the%20NEPmod%20-%202011.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-07-21</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Arthropoda/Order%20Amphipoda/Amphipod%20Summaries_Don%20Cadien/Stegocephaloidea%20of%20the%20NEPmod.pdf</loc>
