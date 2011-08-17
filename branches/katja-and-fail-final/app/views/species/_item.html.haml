@@ -1,0 +1,56 @@
+%tr{:valign => 'top', :class => cycle(:odd, :even) + (@parent == species ? ' master' : ''  )}
+  %td.scamit_id= h species.try(:scamit_id)
+  %td
+    %i= "#{species.genus} #{species.species}"
+    %br
+    = "Phylum: #{species.try(:phylum)}" 
+    %br/
+    = "Family: #{species.try(:family)}"
+    %br/
+    = "Order: #{species.try(:order)}"
+    %br/
+  - if species.class == Species
+    %td.actions
+      = link_to 'Show', species_path(species)
+      %br
+      - if can_edit?
+        = link_to 'Edit', edit_species_path(species)
+      - if @parent == species
+        = "Approved on #{species.approveddate}"
+      - else
+        - if species.respond_to?('approved')
+          - if species.approved
+            = "Approved to master table"
+      %br/    
+      = species_revision_status(species)
+  - else
+    %td.actions
+      Edited by
+      = species.return_user
+      %br/
+      %br/
+      = link_to('Compare', species)
+      - if can_edit?
+        = link_to 'Edit', edit_speciesversion_path(species)
+      - if can_approve?
+        = link_to 'Approve', approve_speciesversion_path(species)
+      - if species.respond_to?('approved')
+        - if species.approved
+          = "Approved to master table on #{species.approveddate}"
+      
+    
+/- cycle(:odd, :even)
+/%tr{:class => cycle(:odd, :even) + (@parent == species ? ' master' : ''  ) + " metadata"}
+/  %td
+/  %td
+/    = "Phylum: #{species.try(:phylum)}" 
+/    %br/
+/    = "Family: #{species.try(:family)}"
+/    %br/
+/    = "Order: #{species.try(:order)}"
+/    %br/
+/    
+/  %td &nbsp;
+
+        
+  

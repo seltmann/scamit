@@ -1,0 +1,14 @@
+%h1.heading
+  = "Morphbank uploaded data"
+
+%table
+  %thead
+    %th File uploaded date
+    %th Uploader
+    %th actions
+  - @morphbanks.each do |mb|
+    %tr
+      %td= time_ago_in_words(mb.created_at) + ' ago'
+      %td= mb.try(:user)
+      %td= link_to('import', morphbank_import_upload_path(mb))
+

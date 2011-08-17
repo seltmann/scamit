@@ -1,0 +1,24 @@
+.actions
+  / - if logged_in?
+  /   = link_to 'New Synonym', new_synonym_path
+%br
+#tableMargin
+  %table{:id => 'showtable', :border => 0, :cellspacing => 0, :cellpadding => 5, :width => '100%', :valign => "top"}
+    %thead.header
+      %tr
+        %th.species{:width => '5%'} Species
+        %th.scamit_id{:width => '5%'} Scamit
+        %th.genus{:width => '28%'} Genus
+        %th.species{:width => '35%'} Species
+        %th.describer{:width => '15%'} Describer
+        %th.dateadded{:width => '12%'} Date Added
+    %tbody.items.synonyms
+      - synonyms.each do |synonym|
+        - content_tag_for(:tr, synonym, :class => cycle(:odd, :even) + (@parent == synonym ? ' master' : ''  )) do
+          %td.species= synonym.species_id 
+          /link_to(synonym.try(:species), species_path(:id => synonym.species_id))
+          %td.scamit_id= synonym.try(:scamit_id)
+          %td.genus= h synonym.try(:genus)
+          %td.species= h synonym.the_species
+          %td.describer= h synonym.try(:describer)
+          %td.dateadded= h synonym.try(:dateadded)

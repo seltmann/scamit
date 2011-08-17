@@ -1,0 +1,32 @@
+.welcomeFont
+  = "Revisions to Species"
+#contentNoSidebar
+  %h1
+  %br
+  .leftMargin
+    #tableMargin
+      %table{:border => 0, :cellspacing => 0, :cellpadding => 5, :width => '100%'}
+        %thead.header
+          %tr
+            %th= 'ID'
+            %th= 'Species'
+            %th= 'Information'
+            /%th.genus= 'Genus'
+            /%th.species= 'Species'
+            /%th.describer= 'Describer'
+            /%th.dateadded= 'Dateadded'
+            /%th.comments= 'Comments'
+            /%th.specieslistsort_id= 'Specieslistsort'
+            /%th.chkgenred= 'Chkgenred'
+            /%th.chkspred= 'Chkspred'
+            /%th.chkauth= 'Chkauth'
+            /%th.actions= 'Actions'
+        %tbody.items.species
+          - unless @parent.blank?
+            = render 'species/item', :species => @parent
+          - @versions.each do |species|
+            = render 'species/item', :species => species
+      
+    = will_paginate(@versions)
+    %br
+    = link_to('All species', species_index_path)

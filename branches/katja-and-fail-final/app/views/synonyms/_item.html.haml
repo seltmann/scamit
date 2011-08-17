@@ -1,0 +1,38 @@
+- content_tag_for(:tr, synonym, :class => cycle(:odd, :even) + (@parent == synonym ? ' master' : ''  )) do
+  %td.species= synonym.species_id 
+  /link_to(synonym.try(:species), species_path(:id => synonym.species_id))
+  %td.scamit_id= h synonym.try(:scamit_id)
+  /%td.genus= h synonym.try(:genus)
+  %td.species
+    %i= h synonym.species.name
+  %td.describer= h synonym.try(:describer)
+  %td.dateadded= h synonym.try(:dateadded)
+
+
+  - if synonym.class == Synonym
+    %td.actions
+      = link_to 'Show', species_path(synonym.species_id)
+      %br
+      - if can_edit?
+        = link_to 'Edit', edit_synonym_path(synonym)
+    - if @parent == synonym
+      %td= "Approved on #{synonym.approveddate}"
+    - else
+      %td
+        - if synonym.respond_to?('approved')
+          - if synonym.approved
+            = "Approved to master table"
+        =  synonym_revision_status(synonym)
+  - else
+    %td.actions
+      Edited by
+      = synonym.return_user
+      = link_to('Compare', synonym)
+      - if can_edit?
+        = link_to 'Edit', edit_synonymversion_path(synonym)
+      - if can_approve?
+        = link_to 'Approve', approve_synonymversion_path(synonym)
+      - if synonym.respond_to?('approved')
+        - if synonym.approved
+          %td= "Approved to master table on #{synonym.approveddate}"
+          

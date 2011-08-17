@@ -1,0 +1,29 @@
+%table
+  %thead
+    %th Species
+    %th Morphbank_code	
+    %th Scamit_unique_id	
+    %th Notes
+  - @morphbanks.each do |mb|
+    %tr
+      %td= link_to mb.species.name, mb.species unless mb.species.nil?
+      %td= mb.morphbank_code
+      %td= mb.scamit_unique_id
+      %td= mb.notes
+
+%br{:clear => :all}
+- unless @morphbanks.delete_if{|x| !x.species.nil? }.empty?
+  %h2 The following items from this import could not be automatically linked to a SCAMIT species:
+  - @morphbanks.delete_if{|x| !x.species.nil? }.each do |mb|
+    %div{:class => :mb_import_not_found, :id => 'notfound_' + mb.id.to_s}
+      - unless mb.morphbank_code.blank?
+        = image_tag 'http://images.morphbank.net/?id=' + mb.morphbank_code.to_s, :align => :left
+      = mb.try(:species_name)
+      %br/
+      %button{:id => mb.id.to_s, :class => :ambiguity} Resolve ambiguity
+      :javascript
+        $('##{mb.id.to_s}').click(function() {
+          $('#notfound_#{mb.id.to_s}').load('/morphbanks/#{mb.id}/attempt_resolve');
+        
+        });
+    

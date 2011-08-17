@@ -1,0 +1,49 @@
+.welcomeFont
+  = "Species"
+#contentNoSidebar
+  %h1
+  %br  
+  %p.actions
+  .leftMargin
+    Phylum:
+    = collection_select nil, nil, Species.find(:all, :select => "DISTINCT phylum", :order => "phylum"), :phylum, :phylum,{ :include_blank => true}, {:id => :phylum_filter}
+    Class:
+    = collection_select nil, nil, Species.find(:all, :select => "DISTINCT theclass", :order => 'theclass'), :theclass, :theclass, {:include_blank => true}, {:id => :class_filter}
+    %br
+    Family:
+    = collection_select nil, nil, Species.find(:all, :select => "DISTINCT family", :order => 'family'), :family, :family, {:include_blank => true}, {:id => :family_filter}
+    
+    
+  - if logged_in?
+    %br
+    = link_to 'New Species', new_species_path
+  %br
+  %br
+  = will_paginate(@species)
+  %br
+  #tableMargin
+    #index_data
+      %table{:id => 'speciestable', :border => 0, :cellspacing => 0, :cellpadding => 5}
+        %thead.header
+          %tr
+            %th{:width => '6%'} SCAMIT ID
+            %th{:width => '44%'} Genus/species
+            %th{:width => '50%'} Information
+        %tbody.items.species
+          - @species.each do |species|
+            = render 'item', :species => species
+    %br
+    = will_paginate(@species)
+    %br
+    %br
+    
+:javascript
+  $('#phylum_filter').change(function() {
+    $('#index_data').load('/species/filter/phylum/' + $(this).val());    
+  });
+  $('#class_filter').change(function() {
+    $('#index_data').load('/species/filter/theclass/' + $(this).val());    
+  });
+  $('#family_filter').change(function() {
+    $('#index_data').load('/species/filter/family/' + $(this).val());    
+  });

@@ -1,0 +1,20 @@
+%h1.heading
+  = "Localities"
+  
+%p.actions
+  = link_to 'New Locality', new_locality_path
+  
+%table
+  %thead.header
+    %tr
+      %th.station_id= 'Station'
+      %th.stratum= 'Stratum'
+      %th.stratum_secondary= 'Stratum secondary'
+      %th.lat= 'Lat'
+      %th.lng= 'Lng'
+      %th.actions= 'Actions'
+  %tbody.items.localities
+    - @localities.each do |locality|
+      = render 'item', :locality => locality
+      
+= will_paginate(@localities)

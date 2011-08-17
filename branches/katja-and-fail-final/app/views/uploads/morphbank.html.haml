@@ -1,0 +1,8 @@
+%h3 Upload Morphbank data from CSV:
+%br/
+%br/
+- semantic_form_for(@upload, :html => {:multipart => true}) do |f|
+  = f.input :upload
+  = f.input :comment
+  = f.hidden_field :uploadtype, :value => 'morphbank', :as => :hidden
+  = f.submit "upload"

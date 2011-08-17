@@ -1,0 +1,24 @@
+basic:
+  sort_id: 1
+  scamit_id: 1
+  phylum: Hello
+  subphylum: Hello
+  class: Hello
+  subclass: Hello
+  infraclass: Hello
+  superorder: Hello
+  order: Hello
+  suborder: Hello
+  infraorder: Hello
+  superfamily: Hello
+  family: Hello
+  subfamily: Hello
+  genus: Hello
+  subgenus: Hello
+  species: Hello
+  describer: Hello
+  red: false
+  bold: false
+  nonstandarditalic: false
+  authorred: false
+  subgenusred: false

@@ -1,0 +1,9 @@
+- if @species.morphbanks.blank?
+  #noImageText
+    #errorExplanation
+      No images.  
+      = link_to '[browse morphbank]', search_from_species_species_morphbanks_path(@species)
+- else
+  - @species.morphbanks.each do |mb|
+    = image_tag 'http://images.morphbank.net/?id=' + mb.morphbank_code.to_s + '&imgType=jpg', :align => :left
+    = link_to '[large]', 'http://images.morphbank.net/?id=' + mb.morphbank_code.to_s + '&imgType=jpeg'

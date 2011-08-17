@@ -1,0 +1,19 @@
+%h1.heading
+  = "Locality %s" % @locality.id
+  
+- content_tag_for(:dl, @locality) do
+  %dt.label= 'Station'
+  %dd.station_id= h @locality.try(:station_id)
+  %dt.label= 'Stratum'
+  %dd.stratum= h @locality.try(:stratum)
+  %dt.label= 'Stratum secondary'
+  %dd.stratum_secondary= h @locality.try(:stratum_secondary)
+  %dt.label= 'Lat'
+  %dd.lat= h @locality.try(:lat)
+  %dt.label= 'Lng'
+  %dd.lng= h @locality.try(:lng)
+  
+%p.actions
+  = link_to 'Edit', edit_locality_path(@locality)
+  |
+  = link_to 'Index', localities_path

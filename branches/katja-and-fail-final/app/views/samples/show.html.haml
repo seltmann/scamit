@@ -1,0 +1,11 @@
+%h3 Sample information
+
+= "Sampled at: #{@sample.locality.stratum} / #{@sample.locality.stratum_secondary}"
+= "(Station ID: #{@sample.locality.station_id})"
+%br/
+= "Latitude: #{@sample.locality.lat.to_s} / Longitude: #{@sample.locality.lng.to_s}"
+%br/
+= "Sampled on: #{@sample.sample_date.strftime('%b %d, %Y %H:%M')}"
+%br/
+%br/
+= "Occurence: #{@sample.occurence}"

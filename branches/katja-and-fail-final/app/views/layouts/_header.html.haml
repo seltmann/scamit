@@ -1,0 +1,38 @@
+#header
+  #headerStripe
+    .headerLeft
+      %h1
+        = link_to('SCAMIT', "/")
+    .headerRight
+      %h2
+        = link_to('Southern California Association of Marine Invertebrate Taxonomists', "/")
+  #navcontainer
+    %ul
+      %li= login_or_logout
+      |
+      - if !current_user
+        %li= link_to('Signup For Account', '/signup')
+        |
+      %li= link_to('Species', species_index_path)
+
+      |
+      - if can_edit?
+        %li= link_to('Upload Morphbank CSV', morphbank_uploads_path) 
+        |
+      - if can_everything?
+        %li= link_to('Edit User Information', users_path)
+        |
+      %li= link_to image_tag('/images/icon_feed.gif'), 'http://www.scamit.org/scamitrss.xml'
+    .loggedMessage
+      - if current_user
+        = 'Logged in as "' + current_user.login + '"'
+  #navSearch
+    #topPadding
+      - form_for :search, :url => search_species_path, :method => :get do |f|
+        %nobr
+          Search Species Name:
+          &nbsp;
+          = f.text_field :searchterm
+          = f.submit "Filter!"
+          
+      
