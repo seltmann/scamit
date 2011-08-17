@@ -1,0 +1,21 @@
+%h1.heading
+  = "Upload %s" % @upload.id
+  
+- content_tag_for(:dl, @upload) do
+  %dt.label= 'Upload file name'
+  %dd.upload_file_name= h @upload.try(:upload_file_name)
+  %dt.label= 'Upload file size'
+  %dd.upload_file_size= h @upload.try(:upload_file_size)
+  %dt.label= 'Upload content type'
+  %dd.upload_content_type= h @upload.try(:upload_content_type)
+  %dt.label= 'Upload created at'
+  %dd.upload_created_at= h @upload.try(:upload_created_at)
+  %dt.label= 'User'
+  %dd.user= h @upload.try(:user)
+  %dt.label= 'Comment'
+  %dd.comment= h @upload.try(:comment)
+  
+%p.actions
+  = link_to 'Edit', edit_upload_path(@upload)
+  |
+  = link_to 'Index', uploads_path

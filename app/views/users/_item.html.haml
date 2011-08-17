@@ -1,0 +1,16 @@
+- content_tag_for(:tr, user, :class => cycle(:odd, :even)) do
+  %td.login= h user.try(:login)
+  %td.name= h user.try(:name)
+  %td.email= h user.try(:email)
+  %td.address= h user.try(:address)
+  %td.phone= h user.try(:phone)
+  %td.affiliation= h user.try(:affiliation)
+  %td.role= h user.try(:role)
+  %td.title= h user.try(:title)
+  %td.activation_code= h user.try(:activation_code)
+  %td.actions
+    = link_to 'Show', user_path(user)
+    |
+    = link_to 'Edit', edit_user_path(user)
+    |
+    = link_to 'Destroy', user, :confirm => 'Are you sure?', :method => :delete

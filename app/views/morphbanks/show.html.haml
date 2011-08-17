@@ -1,0 +1,17 @@
+%h1.heading
+  = "Morphbank %s" % @morphbank.id
+  
+- content_tag_for(:dl, @morphbank) do
+  %dt.label= 'Species'
+  %dd.species= h @morphbank.try(:species)
+  %dt.label= 'Morphbank code'
+  %dd.morphbank_code= h @morphbank.try(:morphbank_code)
+  %dt.label= 'Scamit unique'
+  %dd.scamit_unique_id= h @morphbank.try(:scamit_unique_id)
+  %dt.label= 'Notes'
+  %dd.notes= h @morphbank.try(:notes)
+  
+%p.actions
+  = link_to 'Edit', edit_morphbank_path(@morphbank)
+  |
+  = link_to 'Index', morphbanks_path

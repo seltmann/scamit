@@ -1,0 +1,12 @@
+- content_tag_for(:tr, locality, :class => cycle(:odd, :even)) do
+  %td.station_id= h locality.try(:station_id)
+  %td.stratum= h locality.try(:stratum)
+  %td.stratum_secondary= h locality.try(:stratum_secondary)
+  %td.lat= h locality.try(:lat)
+  %td.lng= h locality.try(:lng)
+  %td.actions
+    = link_to 'Show', locality_path(locality)
+    |
+    = link_to 'Edit', edit_locality_path(locality)
+    |
+    = link_to 'Destroy', locality, :confirm => 'Are you sure?', :method => :delete

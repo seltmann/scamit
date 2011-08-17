@@ -1,0 +1,22 @@
+#sidebarlogo
+  %h1 scamit
+
+%ul
+  %li= user_or_login
+  %li= link_to('species', species_index_path)
+  %li= link_to('synonyms', synonyms_path)
+  %hr{:width => '50%'}
+  - if can_edit?
+    %li= link_to('search morphbank', new_morphbank_path)
+    %li= link_to('upload morphbank csv', morphbank_uploads_path)
+    %br
+  - if can_everything?
+    %li= link_to('edit user information', users_path)
+  
+  %li= login_or_logout
+  %br/
+  Search:
+  - form_for :search, :url => search_species_path, :method => :get do |f|
+    Species name
+    = f.text_field :searchterm
+    = f.submit "search!"

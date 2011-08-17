@@ -1,0 +1,21 @@
+%h1.heading
+  = "Uploads"
+  
+%p.actions
+  = link_to 'New Upload', new_upload_path
+  
+%table
+  %thead.header
+    %tr
+      %th.upload_file_name= 'Upload file name'
+      %th.upload_file_size= 'Upload file size'
+      %th.upload_content_type= 'Upload content type'
+      %th.upload_created_at= 'Upload created at'
+      %th.user= 'User'
+      %th.comment= 'Comment'
+      %th.actions= 'Actions'
+  %tbody.items.uploads
+    - @uploads.each do |upload|
+      = render 'item', :upload => upload
+      
+= will_paginate(@uploads)

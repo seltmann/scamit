@@ -1,0 +1,13 @@
+.welcomeFont
+  = 'New Species'
+#contentNoSidebar
+  %h1
+  %br
+  %br
+  - semantic_form_for(@species, :url => new_species_path) do |form|
+    = render 'form', :form => form
+    - form.buttons do
+      = form.commit_button 'Create'
+    
+  %p.actions
+    = link_to 'Cancel', species_index_path

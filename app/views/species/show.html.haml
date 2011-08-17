@@ -1,0 +1,73 @@
+.welcomeFont
+  = "Species Presentation"
+#contentNoSidebar
+  #backgroundbeige
+    %h1
+      Species:
+      %i= @species.name
+    %br/
+    %h2
+      Family:
+      - unless @species.family.nil?
+        = link_to_remote @species.try(:family), :update => 'main', :url => '/species/filter/family/' + @species.try(:family)
+    %h2
+      = 'Common Name: '
+      = @species.common_name.blank? ? "" : @species.common_name
+    %h2= "SCAMIT ID#: #{@species.scamit_id}"
+  .leftFloat
+    %br
+    %h2= 'Images: '
+    %br
+    #imageMoreLeft
+      = render :partial => 'morphbank_images', :locals => {:species => @species}
+  %br
+  .leftFloat
+    %br
+    %h2= 'Synonyms: '
+    - unless @species.synonyms.blank?
+      = render :partial => 'synonyms', :locals => {:synonyms => @species.synonyms }
+    - else
+      %br
+      #errorExplanation
+        No Synonyms
+  %br
+  .leftFloat
+    %br
+    %h2= 'Location Information'
+    %br
+    - if @species.samples.blank?
+      %h3 No samples recorded.
+    - else
+      - @species.samples.each do |sample|
+        :javascript
+          var marker_#{sample.id.to_s} = new google.maps.Marker({
+             position: new google.maps.LatLng(#{sample.locality.lat}, #{sample.locality.lng})
+             });
+          markersArray.push(marker_#{sample.id.to_s});
+          google.maps.event.addListener(marker_#{sample.id.to_s}, 'click', function() {
+              $('#markertarget').load('/samples/#{sample.id.to_s}');
+            });
+         
+
+    
+      #map_canvas
+      .leftMargin
+        #markertarget
+
+        
+
+.actions
+  %br
+  %br
+  - if can_edit?
+    = link_to 'Edit', edit_species_path(@species)
+    &nbsp;
+    |
+    &nbsp;
+  = link_to 'Index', species_index_path
+:javascript
+  $(function() {
+    initialize();
+    showOverlays();
+  });
+  

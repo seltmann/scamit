@@ -1,0 +1,17 @@
+%div{:id => "mbthumb_#{morphbank_hit}", :class => :morphbank_hit }
+  - unless morphbank_hit.nil?
+    %b morphbank id:
+    = morphbank_hit
+    &nbsp; &nbsp; &nbsp; 
+    
+    %br/
+    %div{:style => "display:inline;"}= image_tag "http://morphbank.net/?id=#{morphbank_hit}&imgType=thumb", :align => :left
+    = link_to('info (in new window)', "http://www.morphbank.net/Show/index.php?id=#{morphbank_hit}", :popup => true)  
+    - if can_edit?
+      - if @species.blank? 
+        .remote 
+          link to SCAMIT species id:
+          = text_field_tag :species_to_link, nil, {:size => 2, :id => "input_for_#{morphbank_hit}"}
+          = button_to_function 'link', "$('#mbthumb_#{morphbank_hit}').load('/morphbanks/#{morphbank_hit}/species/' + $('#input_for_#{morphbank_hit}').val() + '/link_to_morphbank');", :update => "mbthumb_#{morphbank_hit}"
+      - else
+        .remote= link_to_remote "link to #{@species.name}", :url => link_to_species_species_morphbank_path(@species, morphbank_hit), :method => :get, :update => "mbthumb_#{morphbank_hit}"

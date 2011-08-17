@@ -1,0 +1,6 @@
+basic:
+  station_id: Hello
+  stratum: Hello
+  stratum_secondary: Hello
+  lat: 1.5
+  lng: 1.5

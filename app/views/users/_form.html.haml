@@ -1,0 +1,11 @@
+- form.inputs do
+  = form.input :login, :label => 'Login'
+  = form.input :name, :label => 'Name'
+  = form.input :email, :label => 'Email'
+  = form.input :address, :label => 'Address'
+  = form.input :phone, :label => 'Phone'
+  = form.input :affiliation, :label => 'Affiliation'
+  User level:
+  = form.select :role, {'general public (view only)' => 1, 'regular member (can comment)' => 2,   'moderating member (can edit non-taxonomy tables)' => 3, 'superuser (all powers)' => 4 }
+  = form.input :title, :label => 'Title'
+

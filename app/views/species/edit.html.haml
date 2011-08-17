@@ -1,0 +1,13 @@
+%h1.heading
+  = "Editing species %s" % @species.id
+  
+- semantic_form_for(@species) do |form|
+  = render 'species/form', :form => form
+  - unless @approval.blank?
+    = form.input :approved, :as => :hidden, :value => 1
+    = form.input :approvedby_id, :as => :hidden, :value => current_user.id
+  - form.buttons do
+    = form.commit_button 'Update'
+    
+%p.actions
+  = link_to 'Cancel', species_path

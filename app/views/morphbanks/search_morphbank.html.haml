@@ -1,0 +1,56 @@
+.welcomeFont
+  = "Results from morphbank search"
+#contentNoSidebar
+  %h1
+  %br/
+  %br/
+  - form_tag :action => :search_morphbank do 
+    = text_field_tag :search,  @hits.keywords.gsub(/%20/, " ")
+    - unless @species.blank?
+      = hidden_field_tag :species_id, @species.id
+    &nbsp;
+    = submit_tag "search morphbank"
+    %br
+    %br
+    keywords: 
+    = @hits.keywords.gsub(/%20/, " ")
+    returned: 
+    = @hits.opt[:num_results_returned] 
+    , first: 
+    = @hits.opt[:first_result] 
+    , total: 
+    = @hits.opt[:num_results] 
+
+  - if @hits.opt[:num_results_returned] == "0"
+    #errorExplanation 
+      %br
+      %h2
+        No matches found in morphbank database for 
+        %i= "#{@hits.keywords.gsub(/%20/, " ")}."
+        Please try refining your search.
+  
+  -else
+    %div
+      = @hits.opt[:first_result].to_i == 0 ? 'start' : link_to_remote('start', :update => :main,  :url => {  :action => 'navigate', :direction => 'start', :keywords => @hits.keywords, :num_results_returned => @hits.opt[:num_results_returned]})  
+      |
+      = @hits.lnk_bck ? link_to_remote('previous', :update => :main,  :url => {  :action => 'navigate', :direction => 'bck', :keywords => @hits.keywords, :num_results => @hits.opt[:num_results], :num_results_returned => @hits.opt[:num_results_returned], :first_result =>  @hits.opt[:first_result]}) : "previous"  
+      |
+      = @hits.lnk_fwd ? link_to_remote('next',  :update => :main, :url => {  :action => 'navigate', :direction => 'fwd', :keywords => @hits.keywords, :num_results => @hits.opt[:num_results], :num_results_returned => @hits.opt[:num_results_returned], :first_result =>  @hits.opt[:first_result]}) : "next"
+      |
+      = ((@hits.opt[:first_result].to_i + @hits.opt[:num_results_returned].to_i) >= @hits.opt[:num_results].to_i) ? "last" : link_to_remote('last', :update => :main, :url => { :action => 'navigate', :direction => 'end', :keywords => @hits.keywords, :num_results => @hits.opt[:num_results], :num_results_returned => @hits.opt[:num_results_returned]})   
+      
+      = image_tag('/images/horizontal-loader.gif', :alt => 'Loading', :id => 'spinner', :style => "vertical-align:middle;"  )
+
+    #mbtarget= render(:partial => 'morphbank_hit', :collection => @hits.ids)
+
+
+:javascript
+  $('#spinner')
+      .hide()  // hide it initially
+      .ajaxStart(function() {
+          $(this).show();
+      })
+      .ajaxStop(function() {
+          $(this).hide();
+      })
+  ;

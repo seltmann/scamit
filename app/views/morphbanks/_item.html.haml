@@ -1,0 +1,11 @@
+- content_tag_for(:tr, morphbank, :class => cycle(:odd, :even)) do
+  %td.species= h morphbank.try(:species)
+  %td.morphbank_code= h morphbank.try(:morphbank_code)
+  %td.scamit_unique_id= h morphbank.try(:scamit_unique_id)
+  %td.notes= h morphbank.try(:notes)
+  %td.actions
+    = link_to 'Show', morphbank_path(morphbank)
+    |
+    = link_to 'Edit', edit_morphbank_path(morphbank)
+    |
+    = link_to 'Destroy', morphbank, :confirm => 'Are you sure?', :method => :delete

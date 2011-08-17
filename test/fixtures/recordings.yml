@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  station_id: MyString
+  sample_date: 2010-05-16 23:12:08
+  species: 
+  locality: 
+  occurence: 1
+
+two:
+  station_id: MyString
+  sample_date: 2010-05-16 23:12:08
+  species: 
+  locality: 
+  occurence: 1

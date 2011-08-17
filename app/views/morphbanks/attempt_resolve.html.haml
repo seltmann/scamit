@@ -1,0 +1,7 @@
+- @species.each do |species|
+  = species.name
+  %br/
+  
+- @synonyms.each do |syn|
+  = syn.species.name
+  %br/

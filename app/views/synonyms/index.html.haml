@@ -1,0 +1,29 @@
+.welcomeFont
+  = "Synonyms"
+#contentNoSidebar
+  %h1
+  %br
+  %p.actions
+    = link_to 'New Synonym', new_synonym_path
+  %br
+  = will_paginate(@synonyms)
+  %br
+  #tableMargin  
+    %table
+      %thead.header
+        %tr
+          %th{:width => '6%'}= 'SpeciesID'
+          %th{:width => '6%'}= 'ScamitID'
+          /%th.genus= 'Genus'
+          %th{:width => '24%'}= 'Species'
+          %th{:width => '22%'}= 'Describer'
+          %th{:width => '18%'}= 'Date Added'
+          %th{:width => '6%'}= 'Actions'
+          %th{:width => '12%'}= 'Revisions'
+      %tbody.items.synonyms
+        - @synonyms.each do |synonym|
+          = render 'item', :synonym => synonym
+  %br
+  = will_paginate(@synonyms)
+  %br
+  %br
