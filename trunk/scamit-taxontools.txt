@@ -3,7 +3,7 @@
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Toolbox%20File%20Listing.txt</loc>
  <changefreq>monthly</changefreq>
- <lastmod>2011-07-25</lastmod>
+ <lastmod>2011-08-10</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Misc%20Phyla%20Literature%20from%20CSD.pdf</loc>
@@ -2824,6 +2824,51 @@
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Chordata/Class%20Ascidiacea/Family%20Pyridae/Microcosmus%20squamiger.pdf</loc>
  <changefreq>monthly</changefreq>
  <lastmod>2010-08-06</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Mollusca/The%20Tabulata/Tabulata%20V6%20N2%20Minute%20Shells_3.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-08-10</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Mollusca/The%20Tabulata/Tabulata%20V7%20N3%20Minute%20Shells_8.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-08-10</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Mollusca/The%20Tabulata/Tabulata%20V6%20N3%20Minute%20Shells_4.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-08-10</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Mollusca/The%20Tabulata/Tabulata%20V6%20N4%20Minute%20Shells_5.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-08-10</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Mollusca/The%20Tabulata/Tabulata%20V6%20N1%20Minute%20Shells_2.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-08-10</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Mollusca/The%20Tabulata/Tabulata%20V7%20N2%20Minute%20Shells_7.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-08-10</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Mollusca/The%20Tabulata/Tabulata%20V7%20N4%20Minute%20Shells_9.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-08-10</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Mollusca/The%20Tabulata/Tabulata%20V7%20N1%20Minute%20Shells_6.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-08-10</lastmod>
+</url>
+<url>
+ <loc>http://scamit.org/taxontools/toolbox/Phylum%20Mollusca/The%20Tabulata/Tabulata%20V5%20N4%20Minute%20Shells_1.pdf</loc>
+ <changefreq>monthly</changefreq>
+ <lastmod>2011-08-10</lastmod>
 </url>
 <url>
  <loc>http://scamit.org/taxontools/toolbox/Phylum%20Mollusca/Class%20Gastropoda/Family%20Cylichnidae/Acteocina%20harpa.pdf</loc>
